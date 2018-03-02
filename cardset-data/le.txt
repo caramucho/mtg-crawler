@@ -1,0 +1,146 @@
+№	Card name
+1	Akroma, Angel of Wrath
+2	Akroma's Devoted
+3	Aven Redeemer
+4	Aven Warhawk
+5	Beacon of Destiny
+6	Celestial Gatekeeper
+7	Cloudreach Cavalry
+8	Daru Mender
+9	Daru Sanctifier
+10	Daru Stinger
+11	Defender of the Order
+12	Deftblade Elite
+13	Essence Sliver
+14	Gempalm Avenger
+15	Glowrider
+16	Liege of the Axe
+17	Lowland Tracker
+18	Planar Guide
+19	Plated Sliver
+20	Starlight Invoker
+21	Stoic Champion
+22	Sunstrike Legionnaire
+23	Swooping Talon
+24	Wall of Hope
+25	Ward Sliver
+26	Whipgrass Entangler
+27	White Knight
+28	Windborn Muse
+29	Wingbeat Warrior
+30	Aven Envoy
+31	Cephalid Pathmage
+32	Chromeshell Crab
+33	Covert Operative
+34	Crookclaw Elder
+35	Dermoplasm
+36	Dreamborn Muse
+37	Echo Tracer
+38	Fugitive Wizard
+39	Gempalm Sorcerer
+40	Glintwing Invoker
+41	Keeneye Aven
+42	Keeper of the Nine Gales
+43	Master of the Veil
+44	Merchant of Secrets
+45	Mistform Seaswift
+46	Mistform Sliver
+47	Mistform Ultimus
+48	Mistform Wakecaster
+49	Primoc Escapee
+50	Riptide Director
+51	Riptide Mangler
+52	Shifting Sliver
+53	Synapse Sliver
+54	Voidmage Apprentice
+55	Wall of Deceit
+56	Warped Researcher
+57	Weaver of Lies
+58	Willbender
+59	Aphetto Exterminator
+60	Bane of the Living
+61	Blood Celebrant
+62	Corpse Harvester
+63	Crypt Sliver
+64	Dark Supplicant
+65	Deathmark Prelate
+66	Drinker of Sorrow
+67	Dripping Dead
+68	Earthblighter
+69	Embalmed Brawler
+70	Gempalm Polluter
+71	Ghastly Remains
+72	Goblin Turncoat
+73	Graveborn Muse
+74	Havoc Demon
+75	Hollow Specter
+76	Infernal Caretaker
+77	Noxious Ghoul
+78	Phage the Untouchable
+79	Scion of Darkness
+80	Skinthinner
+81	Smokespew Invoker
+82	Sootfeather Flock
+83	Spectral Sliver
+84	Toxin Sliver
+85	Vile Deacon
+86	Withered Wretch
+87	Zombie Brute
+88	Blade Sliver
+89	Bloodstoke Howler
+90	Clickslither
+91	Crested Craghorn
+92	Flamewave Invoker
+93	Frenetic Raptor
+94	Gempalm Incinerator
+95	Goblin Assassin
+96	Goblin Clearcutter
+97	Goblin Dynamo
+98	Goblin Firebug
+99	Goblin Goon
+100	Goblin Grappler
+101	Goblin Lookout
+102	Hunter Sliver
+103	Imperial Hellkite
+104	Kilnmouth Dragon
+105	Lavaborn Muse
+106	Macetail Hystrodon
+107	Magma Sliver
+108	Ridgetop Raptor
+109	Rockshard Elemental
+110	Shaleskin Plower
+111	Skirk Alarmist
+112	Skirk Drill Sergeant
+113	Skirk Marauder
+114	Skirk Outrider
+115	Unstable Hulk
+116	Warbreak Trumpeter
+117	Berserk Murlodont
+118	Branchsnap Lorian
+119	Brontotherium
+120	Brood Sliver
+121	Caller of the Claw
+122	Canopy Crawler
+123	Defiant Elf
+124	Elvish Soultiller
+125	Enormous Baloth
+126	Feral Throwback
+127	Gempalm Strider
+128	Glowering Rogon
+129	Hundroog
+130	Krosan Cloudscraper
+131	Krosan Vorine
+132	Nantuko Vigilante
+133	Needleshot Gourna
+134	Patron of the Wild
+135	Primal Whisperer
+136	Quick Sliver
+137	Root Sliver
+138	Seedborn Muse
+139	Stonewood Invoker
+140	Timberwatch Elf
+141	Totem Speaker
+142	Tribal Forcemage
+143	Vexing Beetle
+144	Wirewood Channeler
+145	Wirewood Hivemaster

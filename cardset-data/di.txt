@@ -1,0 +1,191 @@
+№	Card name
+1	Aurora Eidolon
+2	Azorius Herald
+3	Beacon Hawk
+4	Blessing of the Nephilim
+5	Brace for Impact
+6	Carom
+7	Celestial Ancient
+8	Condemn
+9	Freewind Equenaut
+10	Guardian of the Guildpact
+11	Haazda Exonerator
+12	Haazda Shield Mate
+13	Mistral Charger
+14	Paladin of Prahv
+15	Proclamation of Rebirth
+16	Proper Burial
+17	Soulsworn Jury
+18	Steeling Stance
+19	Stoic Ephemera
+20	Valor Made Real
+21	Wakestone Gargoyle
+22	Court Hussar
+23	Cytoplast Manipulator
+24	Enigma Eidolon
+25	Govern the Guildless
+26	Helium Squirter
+27	Novijen Sages
+28	Ocular Halo
+29	Plaxmanta
+30	Psychic Possession
+31	Silkwing Scout
+32	Skyscribing
+33	Spell Snare
+34	Tidespout Tyrant
+35	Vigean Graftmage
+36	Vision Skeins
+37	Writ of Passage
+38	Bond of Agony
+39	Brain Pry
+40	Crypt Champion
+41	Delirium Skeins
+42	Demon's Jester
+43	Drekavac
+44	Enemy of the Guildpact
+45	Entropic Eidolon
+46	Infernal Tutor
+47	Macabre Waltz
+48	Nettling Curse
+49	Nightcreep
+50	Nihilistic Glee
+51	Ragamuffyn
+52	Ratcatcher
+53	Seal of Doom
+54	Slaughterhouse Bouncer
+55	Slithering Shade
+56	Unliving Psychopath
+57	Vesper Ghoul
+58	Wit's End
+59	Cackling Flames
+60	Demonfire
+61	Flame-Kin War Scout
+62	Flaring Flame-Kin
+63	Gnat Alley Creeper
+64	Ignorant Bliss
+65	Kill-Suit Cultist
+66	Kindle the Carnage
+67	Ogre Gatecrasher
+68	Psychotic Fury
+69	Rakdos Pit Dragon
+70	Sandstorm Eidolon
+71	Seal of Fire
+72	Squealing Devil
+73	Stalking Vengeance
+74	Stormscale Anarch
+75	Taste for Mayhem
+76	Utvara Scalper
+77	War's Toll
+78	Weight of Spires
+79	Whiptail Moloch
+80	Aquastrand Spider
+81	Cytoplast Root-Kin
+82	Cytospawn Shambler
+83	Elemental Resonance
+84	Fertile Imagination
+85	Flash Foliage
+86	Indrik Stomphowler
+87	Loaming Shaman
+88	Might of the Nephilim
+89	Patagia Viper
+90	Protean Hulk
+91	Simic Basilisk
+92	Simic Initiate
+93	Simic Ragworm
+94	Sporeback Troll
+95	Sprouting Phytohydra
+96	Stomp and Howl
+97	Street Savvy
+98	Thrive
+99	Utopia Sprawl
+100	Verdant Eidolon
+101	Æthermage's Touch
+102	Anthem of Rakdos
+103	Assault Zeppelid
+104	Azorius Æthermage
+105	Azorius First-Wing
+106	Azorius Ploy
+107	Coiling Oracle
+108	Cytoshape
+109	Dread Slag
+110	Experiment Kraj
+111	Gobhobbler Rats
+112	Grand Arbiter Augustin IV
+113	Hellhole Rats
+114	Isperia the Inscrutable
+115	Jagged Poppet
+116	Leafdrake Roost
+117	Lyzolda, the Blood Witch
+118	Momir Vig, Simic Visionary
+119	Omnibian
+120	Overrule
+121	Pain Magnification
+122	Palliation Accord
+123	Plaxcaster Frogling
+124	Plumes of Peace
+125	Pride of the Clouds
+126	Rain of Gore
+127	Rakdos Augermage
+128	Rakdos Ickspitter
+129	Rakdos the Defiler
+130	Simic Sky Swallower
+131	Sky Hussar
+132	Swift Silence
+133	Trygon Predator
+134	Twinstrike
+135	Vigean Hydropon
+136	Vigean Intuition
+137	Voidslime
+138	Windreaver
+139	Wrecking Ball
+140	Avatar of Discord
+141	Azorius Guildmage
+142	Biomantic Mastery
+143	Dovescape
+144	Minister of Impediments
+145	Rakdos Guildmage
+146	Riot Spikes
+147	Shielding Plax
+148	Simic Guildmage
+149a	Bound (Bound/Determined)
+149b	Determined (Bound/Determined)
+150a	Crime (Crime/Punishment)
+150b	Punishment (Crime/Punishment)
+151a	Hide (Hide/Seek)
+151b	Seek (Hide/Seek)
+152a	Hit (Hit/Run)
+152b	Run (Hit/Run)
+153a	Odds (Odds/Ends)
+153b	Ends (Odds/Ends)
+154a	Pure (Pure/Simple)
+154b	Simple (Pure/Simple)
+155a	Research (Research/Development)
+155b	Development (Research/Development)
+156a	Rise (Rise/Fall)
+156b	Fall (Rise/Fall)
+157a	Supply (Supply/Demand)
+157b	Demand (Supply/Demand)
+158a	Trial (Trial/Error)
+158b	Error (Trial/Error)
+159	Azorius Signet
+160	Bronze Bombshell
+161	Evolution Vat
+162	Magewright's Stone
+163	Muse Vessel
+164	Rakdos Riteknife
+165	Rakdos Signet
+166	Simic Signet
+167	Skullmead Cauldron
+168	Transguild Courier
+169	Walking Archive
+170	Azorius Chancery
+171	Blood Crypt
+172	Breeding Pool
+173	Ghost Quarter
+174	Hallowed Fountain
+175	Novijen, Heart of Progress
+176	Pillar of the Paruns
+177	Prahv, Spires of Order
+178	Rakdos Carnarium
+179	Rix Maadi, Dungeon Palace
+180	Simic Growth Chamber

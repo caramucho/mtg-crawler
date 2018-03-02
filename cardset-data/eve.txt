@@ -1,0 +1,181 @@
+№	Card name
+1	Archon of Justice
+2	Ballynock Trapper
+3	Cenn's Enlistment
+4	Endless Horizons
+5	Endure
+6	Flickerwisp
+7	Hallowed Burial
+8	Kithkin Spellduster
+9	Kithkin Zealot
+10	Light from Within
+11	Loyal Gyrfalcon
+12	Patrol Signaler
+13	Recumbent Bliss
+14	Spirit of the Hearth
+15	Springjack Shepherd
+16	Suture Spirit
+17	Banishing Knack
+18	Cache Raiders
+19	Dream Fracture
+20	Dream Thief
+21	Glamerdye
+22	Glen Elendra Archmage
+23	Idle Thoughts
+24	Indigo Faerie
+25	Inundate
+26	Merrow Levitator
+27	Oona's Grace
+28	Razorfin Abolisher
+29	Sanity Grinding
+30	Talonrend
+31	Wake Thrasher
+32	Wilderness Hypnotist
+33	Ashling, the Extinguisher
+34	Creakwood Ghoul
+35	Crumbling Ashes
+36	Lingering Tormentor
+37	Merrow Bonegnawer
+38	Necroskitter
+39	Needle Specter
+40	Nightmare Incursion
+41	Raven's Crime
+42	Smoldering Butcher
+43	Soot Imp
+44	Soul Reap
+45	Soul Snuffers
+46	Syphon Life
+47	Talara's Bane
+48	Umbra Stalker
+49	Chaotic Backlash
+50	Cinder Pyromancer
+51	Duergar Cave-Guard
+52	Fiery Bombardment
+53	Flame Jab
+54	Hatchet Bully
+55	Hateflayer
+56	Heartlash Cinder
+57	Hotheaded Giant
+58	Impelled Giant
+59	Outrage Shaman
+60	Puncture Blast
+61	Rekindled Flame
+62	Stigma Lasher
+63	Thunderblust
+64	Unwilling Recruit
+65	Aerie Ouphes
+66	Bloom Tender
+67	Duskdale Wurm
+68	Helix Pinnacle
+69	Marshdrinker Giant
+70	Monstrify
+71	Nettle Sentinel
+72	Phosphorescent Feast
+73	Primalcrux
+74	Regal Force
+75	Savage Conception
+76	Swirling Spriggan
+77	Talara's Battalion
+78	Tilling Treefolk
+79	Twinblade Slasher
+80	Wickerbough Elder
+81	Batwing Brume
+82	Beckon Apparition
+83	Bloodied Ghost
+84	Cauldron Haze
+85	Deathbringer Liege
+86	Divinity of Pride
+87	Edge of the Divinity
+88	Evershrike
+89	Gwyllion Hedge-Mage
+90	Harvest Gwyllion
+91	Nightsky Mimic
+92	Nip Gwyllion
+93	Pyrrhic Revival
+94	Restless Apparition
+95	Stillmoon Cavalier
+96	Unmake
+97	Voracious Hatchling
+98	Call the Skybreaker
+99	Clout of the Dominus
+100	Crackleburr
+101	Crag Puca
+102	Dominus of Fealty
+103	Inside Out
+104	Mindwrack Liege
+105	Mirror Sheen
+106	Noggle Bandit
+107	Noggle Bridgebreaker
+108	Noggle Hedge-Mage
+109	Noggle Ransacker
+110	Nucklavee
+111	Riverfall Mimic
+112	Shrewd Hatchling
+113	Stream Hopper
+114	Unnerving Assault
+115	Canker Abomination
+116	Cankerous Thirst
+117	Creakwood Liege
+118	Deity of Scars
+119	Desecrator Hag
+120	Doomgape
+121	Drain the Well
+122	Gift of the Deity
+123	Hag Hedge-Mage
+124	Noxious Hatchling
+125	Odious Trow
+126	Quillspike
+127	Rendclaw Trow
+128	Sapling of Colfenor
+129	Stalker Hag
+130	Woodlurker Mimic
+131	Worm Harvest
+132	Balefire Liege
+133	Battlegate Mimic
+134	Belligerent Hatchling
+135	Double Cleave
+136	Duergar Assailant
+137	Duergar Hedge-Mage
+138	Duergar Mine-Captain
+139	Figure of Destiny
+140	Fire at Will
+141	Hearthfire Hobgoblin
+142	Hobgoblin Dragoon
+143	Moonhold
+144	Nobilis of War
+145	Rise of the Hobgoblins
+146	Scourge of the Nobilis
+147	Spitemare
+148	Waves of Aggression
+149	Cold-Eyed Selkie
+150	Fable of Wolf and Owl
+151	Favor of the Overbeing
+152	Gilder Bairn
+153	Grazing Kelpie
+154	Groundling Pouncer
+155	Invert the Skies
+156	Murkfiend Liege
+157	Overbeing of Myth
+158	Selkie Hedge-Mage
+159	Shorecrasher Mimic
+160	Slippery Bogle
+161	Snakeform
+162	Spitting Image
+163	Sturdy Hatchling
+164	Trapjaw Kelpie
+165	Wistful Selkie
+166	Altar Golem
+167	Antler Skulkin
+168	Fang Skulkin
+169	Hoof Skulkin
+170	Jawbone Skulkin
+171	Leering Emblem
+172	Scarecrone
+173	Shell Skulkin
+174	Ward of Bones
+175	Cascade Bluffs
+176	Fetid Heath
+177	Flooded Grove
+178	Rugged Prairie
+179	Springjack Pasture
+180	Twilight Mire

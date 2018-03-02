@@ -1,0 +1,181 @@
+№	Card name
+1	Angel of Salvation
+2	Augur il-Vec
+3	Barren Glory
+4	Chronomantic Escape
+5	Dust of Moments
+6	Even the Odds
+7	Gift of Granite
+8	Intervention Pact
+9	Judge Unworthy
+10	Knight of Sursi
+11	Lost Auramancers
+12	Magus of the Moat
+13	Marshaling Cry
+14	Saltskitter
+15	Samite Censer-Bearer
+16	Scout's Warning
+17	Spirit en-Dal
+18	Aven Mindcensor
+19	Blade of the Sixth Pride
+20	Bound in Silence
+21	Daybreak Coronet
+22	Goldmeadow Lookout
+23	Imperial Mask
+24	Lucent Liminid
+25	Lumithread Field
+26	Lymph Sliver
+27	Mistmeadow Skulk
+28	Oriss, Samite Guardian
+29	Patrician's Scorn
+30	Ramosian Revivalist
+31	Seht's Tiger
+32	Aven Augur
+33	Cloudseeder
+34	Cryptic Annelid
+35	Delay
+36	Foresee
+37	Infiltrator il-Kor
+38	Leaden Fists
+39	Maelstrom Djinn
+40	Magus of the Future
+41	Mystic Speculation
+42	Pact of Negation
+43	Reality Strobe
+44	Take Possession
+45	Unblinking Bleb
+46	Venser, Shaper Savant
+47	Venser's Diffusion
+48	Arcanum Wings
+49	Blind Phantasm
+50	Bonded Fetch
+51	Linessa, Zephyr Mage
+52	Logic Knot
+53	Mesmeric Sliver
+54	Narcomoeba
+55	Nix
+56	Sarcomite Myr
+57	Second Wind
+58	Shapeshifter's Marrow
+59	Spellweaver Volute
+60	Spin into Myth
+61	Vedalken Æthermage
+62	Whip-Spine Drake
+63	Augur of Skulls
+64	Cutthroat il-Dal
+65	Festering March
+66	Gibbering Descent
+67	Grave Peril
+68	Ichor Slick
+69	Lost Hours
+70	Magus of the Abyss
+71	Minions' Murmurs
+72	Nihilith
+73	Oblivion Crown
+74	Pooling Venom
+75	Putrid Cyclops
+76	Shimian Specter
+77	Skirk Ridge Exhumer
+78	Slaughter Pact
+79	Stronghold Rats
+80	Bitter Ordeal
+81	Bridge from Below
+82	Death Rattle
+83	Deepcavern Imp
+84	Fleshwrither
+85	Frenzy Sliver
+86	Grave Scrabbler
+87	Korlash, Heir to Blackblade
+88	Mass of Ghouls
+89	Snake Cult Initiation
+90	Street Wraith
+91	Tombstalker
+92	Witch's Mist
+93	Yixlid Jailer
+94	Arc Blade
+95	Bogardan Lancer
+96	Char-Rumbler
+97	Emberwilde Augur
+98	Fatal Attraction
+99	Gathan Raiders
+100	Haze of Rage
+101	Magus of the Moon
+102	Molten Disaster
+103	Pact of the Titan
+104	Pyromancer's Swath
+105	Riddle of Lightning
+106	Rift Elemental
+107	Scourge of Kher Ridges
+108	Shivan Sand-Mage
+109	Sparkspitter
+110	Bloodshot Trainee
+111	Boldwyr Intimidator
+112	Emblem of the Warmind
+113	Flowstone Embrace
+114	Fomori Nomad
+115	Ghostfire
+116	Grinning Ignus
+117	Henchfiend of Ukor
+118	Homing Sliver
+119	Shah of Naar Isle
+120	Skizzik Surger
+121	Steamflogger Boss
+122	Storm Entity
+123	Tarox Bladewing
+124	Thunderblade Charge
+125	Cyclical Evolution
+126	Force of Savagery
+127	Heartwood Storyteller
+128	Kavu Primarch
+129	Llanowar Augur
+130	Llanowar Empath
+131	Llanowar Mentor
+132	Magus of the Vineyard
+133	Petrified Plating
+134	Quiet Disrepair
+135	Ravaging Riftwurm
+136	Riftsweeper
+137	Rites of Flourishing
+138	Sprout Swarm
+139	Summoner's Pact
+140	Utopia Mycon
+141	Wrap in Vigor
+142	Baru, Fist of Krosa
+143	Centaur Omenreader
+144	Edge of Autumn
+145	Imperiosaur
+146	Muraganda Petroglyphs
+147	Nacatl War-Pride
+148	Nessian Courser
+149	Phosphorescent Feast
+150	Quagnoth
+151	Spellwild Ouphe
+152	Sporoloth Ancient
+153	Tarmogoyf
+154	Thornweald Archer
+155	Virulent Sliver
+156	Glittering Wish
+157	Jhoira of the Ghitu
+158	Sliver Legion
+159	Akroma's Memorial
+160	Cloud Key
+161	Coalition Relic
+162	Epochrasite
+163	Sliversmith
+164	Soultether Golem
+165	Sword of the Meek
+166	Veilstone Amulet
+167	Darksteel Garrison
+168	Whetwheel
+169	Dakmor Salvage
+170	Keldon Megaliths
+171	Llanowar Reborn
+172	New Benalia
+173	Tolaria West
+174	Dryad Arbor
+175	Graven Cairns
+176	Grove of the Burnwillows
+177	Horizon Canopy
+178	Nimbus Maze
+179	River of Tears
+180	Zoetic Cavern

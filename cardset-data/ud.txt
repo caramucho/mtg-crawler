@@ -1,0 +1,144 @@
+№	Card name
+1	Academy Rector
+2	Archery Training
+3	Capashen Knight
+4	Capashen Standard
+5	Capashen Templar
+6	False Prophet
+7	Fend Off
+8	Field Surgeon
+9	Flicker
+10	Jasmine Seer
+11	Mask of Law and Grace
+12	Master Healer
+13	Opalescence
+14	Reliquary Monk
+15	Replenish
+16	Sanctimony
+17	Scent of Jasmine
+18	Scour
+19	Serra Advocate
+20	Solidarity
+21	Tethered Griffin
+22	Tormented Angel
+23	Voice of Duty
+24	Voice of Reason
+25	Wall of Glare
+26	Aura Thief
+27	Blizzard Elemental
+28	Brine Seer
+29	Bubbling Beebles
+30	Disappear
+31	Donate
+32	Fatigue
+33	Fledgling Osprey
+34	Illuminated Wings
+35	Iridescent Drake
+36	Kingfisher
+37	Mental Discipline
+38	Metathran Elite
+39	Metathran Soldier
+40	Opposition
+41	Private Research
+42	Quash
+43	Rayne, Academy Chancellor
+44	Rescue
+45	Scent of Brine
+46	Sigil of Sleep
+47	Telepathic Spies
+48	Temporal Adept
+49	Thieving Magpie
+50	Treachery
+51	Apprentice Necromancer
+52	Attrition
+53	Body Snatcher
+54	Bubbling Muck
+55	Carnival of Souls
+56	Chime of Night
+57	Disease Carriers
+58	Dying Wail
+59	Encroach
+60	Eradicate
+61	Festering Wound
+62	Lurking Jackals
+63	Nightshade Seer
+64	Phyrexian Monitor
+65	Phyrexian Negator
+66	Plague Dogs
+67	Rapid Decay
+68	Ravenous Rats
+69	Scent of Nightshade
+70	Skittering Horror
+71	Slinking Skirge
+72	Soul Feast
+73	Squirming Mass
+74	Twisted Experiment
+75	Yawgmoth's Bargain
+76	Æther Sting
+77	Bloodshot Cyclops
+78	Cinder Seer
+79	Colos Yearling
+80	Covetous Dragon
+81	Flame Jet
+82	Goblin Berserker
+83	Goblin Festival
+84	Goblin Gardener
+85	Goblin Marshal
+86	Goblin Masons
+87	Hulking Ogre
+88	Impatience
+89	Incendiary
+90	Keldon Champion
+91	Keldon Vandals
+92	Landslide
+93	Mark of Fury
+94	Reckless Abandon
+95	Repercussion
+96	Scent of Cinder
+97	Sowing Salt
+98	Trumpet Blast
+99	Wake of Destruction
+100	Wild Colos
+101	Ancient Silverback
+102	Compost
+103	Elvish Lookout
+104	Elvish Piper
+105	Emperor Crocodile
+106	Gamekeeper
+107	Goliath Beetle
+108	Heart Warden
+109	Hunting Moa
+110	Ivy Seer
+111	Magnify
+112	Marker Beetles
+113	Momentum
+114	Multani's Decree
+115	Pattern of Rebirth
+116	Plated Spider
+117	Plow Under
+118	Rofellos, Llanowar Emissary
+119	Rofellos's Gift
+120	Scent of Ivy
+121	Splinter
+122	Taunting Elf
+123	Thorn Elemental
+124	Yavimaya Elder
+125	Yavimaya Enchantress
+126	Braidwood Cup
+127	Braidwood Sextant
+128	Brass Secretary
+129	Caltrops
+130	Extruder
+131	Fodder Cannon
+132	Junk Diver
+133	Mantis Engine
+134	Masticore
+135	Metalworker
+136	Powder Keg
+137	Scrying Glass
+138	Storage Matrix
+139	Thran Dynamo
+140	Thran Foundry
+141	Thran Golem
+142	Urza's Incubator
+143	Yavimaya Hollow

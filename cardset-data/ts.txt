@@ -1,0 +1,302 @@
+№	Card name
+1	Amrou Scout
+2	Amrou Seekers
+3	Angel's Grace
+4	Benalish Cavalry
+5	Castle Raptors
+6	Cavalry Master
+7	Celestial Crusader
+8	Children of Korlis
+9	Chronosavant
+10	Cloudchaser Kestrel
+11	D'Avenant Healer
+12	Detainment Spell
+13	Divine Congregation
+14	Duskrider Peregrine
+15	Errant Doomsayers
+16	Evangelize
+17	Flickering Spirit
+18	Foriysian Interceptor
+19	Fortify
+20	Gaze of Justice
+21	Griffin Guide
+22	Gustcloak Cavalier
+23	Icatian Crier
+24	Ivory Giant
+25	Jedit's Dragoons
+26	Knight of the Holy Nimbus
+27	Magus of the Disk
+28	Mangara of Corondor
+29	Momentary Blink
+30	Opal Guardian
+31	Outrider en-Kor
+32	Pentarch Paladin
+33	Pentarch Ward
+34	Plated Pegasus
+35	Pull from Eternity
+36	Pulmonic Sliver
+37	Quilled Sliver
+38	Restore Balance
+39	Return to Dust
+40	Serra Avenger
+41	Sidewinder Sliver
+42	Spirit Loop
+43	Temporal Isolation
+44	Tivadar of Thorn
+45	Watcher Sliver
+46	Weathered Bodyguards
+47	Zealot il-Vec
+48	Ancestral Vision
+49	Bewilder
+50	Brine Elemental
+51	Cancel
+52	Careful Consideration
+53	Clockspinning
+54	Coral Trickster
+55	Crookclaw Transmuter
+56	Deep-Sea Kraken
+57	Draining Whelk
+58	Dream Stalker
+59	Drifter il-Dal
+60	Errant Ephemeron
+61	Eternity Snare
+62	Fathom Seer
+63	Fledgling Mawcor
+64	Fool's Demise
+65	Ixidron
+66	Looter il-Kor
+67	Magus of the Jar
+68	Moonlace
+69	Mystical Teachings
+70	Ophidian Eye
+71	Paradox Haze
+72	Psionic Sliver
+73	Riftwing Cloudskate
+74	Sage of Epityr
+75	Screeching Sliver
+76	Shadow Sliver
+77	Slipstream Serpent
+78	Snapback
+79	Spell Burst
+80	Spiketail Drakeling
+81	Sprite Noble
+82	Stormcloud Djinn
+83	Teferi, Mage of Zhalfir
+84	Telekinetic Sliver
+85	Temporal Eddy
+86	Think Twice
+87	Tolarian Sentinel
+88	Trickbind
+89	Truth or Tale
+90	Vesuvan Shapeshifter
+91	Viscerid Deepwalker
+92	Voidmage Husher
+93	Walk the Aeons
+94	Wipe Away
+95	Assassinate
+96	Basal Sliver
+97	Call to the Netherworld
+98	Corpulent Corpse
+99	Curse of the Cabal
+100	Cyclopean Giant
+101	Dark Withering
+102	Deathspore Thallid
+103	Demonic Collusion
+104	Dread Return
+105	Drudge Reavers
+106	Endrek Sahr, Master Breeder
+107	Evil Eye of Urborg
+108	Faceless Devourer
+109	Fallen Ideal
+110	Feebleness
+111	Gorgon Recluse
+112	Haunting Hymn
+113	Liege of the Pit
+114	Lim-Dûl the Necromancer
+115	Living End
+116	Magus of the Mirror
+117	Mana Skimmer
+118	Mindlash Sliver
+119	Mindstab
+120	Nether Traitor
+121	Nightshade Assassin
+122	Phthisis
+123	Pit Keeper
+124	Plague Sliver
+125	Premature Burial
+126	Psychotic Episode
+127	Sangrophage
+128	Sengir Nosferatu
+129	Skittering Monstrosity
+130	Skulking Knight
+131	Smallpox
+132	Strangling Soot
+133	Stronghold Overseer
+134	Sudden Death
+135	Sudden Spoiling
+136	Tendrils of Corruption
+137	Traitor's Clutch
+138	Trespasser il-Vec
+139	Urborg Syphon-Mage
+140	Vampiric Sliver
+141	Viscid Lemures
+142	Ætherflame Wall
+143	Ancient Grudge
+144	Barbed Shocker
+145	Basalt Gargoyle
+146	Blazing Blade Askari
+147	Bogardan Hellkite
+148	Bogardan Rager
+149	Bonesplitter Sliver
+150	Coal Stoker
+151	Conflagrate
+152	Empty the Warrens
+153	Firemaw Kavu
+154	Flamecore Elemental
+155	Flowstone Channeler
+156	Fortune Thief
+157	Fury Sliver
+158	Ghitu Firebreathing
+159	Goblin Skycutter
+160	Grapeshot
+161	Greater Gargadon
+162	Ground Rift
+163	Ib Halfheart, Goblin Tactician
+164	Ignite Memories
+165	Ironclaw Buzzardiers
+166	Jaya Ballard, Task Mage
+167	Keldon Halberdier
+168	Lightning Axe
+169	Magus of the Scroll
+170	Mogg War Marshal
+171	Norin the Wary
+172	Orcish Cannonade
+173	Pardic Dragon
+174	Plunder
+175	Reiterate
+176	Rift Bolt
+177	Sedge Sliver
+178	Subterranean Shambler
+179	Sudden Shock
+180	Sulfurous Blast
+181	Tectonic Fiend
+182	Thick-Skinned Goblin
+183	Two-Headed Sliver
+184	Undying Rage
+185	Viashino Bladescout
+186	Volcanic Awakening
+187	Wheel of Fate
+188	Word of Seizing
+189	Æther Web
+190	Ashcoat Bear
+191	Aspect of Mongoose
+192	Chameleon Blur
+193	Durkwood Baloth
+194	Durkwood Tracker
+195	Fungus Sliver
+196	Gemhide Sliver
+197	Glass Asp
+198	Greenseeker
+199	Havenwood Wurm
+200	Herd Gnarr
+201	Hypergenesis
+202	Krosan Grip
+203	Magus of the Candelabra
+204	Might of Old Krosa
+205	Might Sliver
+206	Molder
+207	Mwonvuli Acid-Moss
+208	Nantuko Shaman
+209	Pendelhaven Elder
+210	Penumbra Spider
+211	Phantom Wurm
+212	Primal Forcemage
+213	Savage Thallid
+214	Scarwood Treefolk
+215	Scryb Ranger
+216	Search for Tomorrow
+217	Spectral Force
+218	Spike Tiller
+219	Spinneret Sliver
+220	Sporesower Thallid
+221	Sprout
+222	Squall Line
+223	Stonewood Invocation
+224	Strength in Numbers
+225	Thallid Germinator
+226	Thallid Shell-Dweller
+227	Thelon of Havenwood
+228	Thelonite Hermit
+229	Thrill of the Hunt
+230	Tromp the Domains
+231	Unyaro Bees
+232	Verdant Embrace
+233	Wormwood Dryad
+234	Wurmcalling
+235	Yavimaya Dryad
+236	Dementia Sliver
+237	Dralnu, Lich Lord
+238	Firewake Sliver
+239	Ghostflame Sliver
+240	Harmonic Sliver
+241	Ith, High Arcanist
+242	Kaervek the Merciless
+243	Mishra, Artificer Prodigy
+244	Opaline Sliver
+245	Saffi Eriksdotter
+246	Scion of the Ur-Dragon
+247	Stonebrow, Krosan Hero
+248	Assembly-Worker
+249	Brass Gnat
+250	Candles of Leng
+251	Chromatic Star
+252	Chronatog Totem
+253	Clockwork Hydra
+254	Foriysian Totem
+255	Gauntlet of Power
+256	Hivestone
+257	Jhoira's Timebug
+258	Locket of Yesterdays
+259	Lotus Bloom
+260	Paradise Plume
+261	Phyrexian Totem
+262	Prismatic Lens
+263	Sarpadian Empires, Vol. VII
+264	Stuffy Doll
+265	Thunder Totem
+266	Triskelavus
+267	Venser's Sliver
+268	Weatherseed Totem
+269	Academy Ruins
+270	Calciform Pools
+271	Dreadship Reef
+272	Flagstones of Trokair
+273	Fungal Reaches
+274	Gemstone Caverns
+275	Kher Keep
+276	Molten Slagheap
+277	Saltcrusted Steppe
+278	Swarmyard
+279	Terramorphic Expanse
+280	Urza's Factory
+281	Vesuva
+282	Plains
+283	Plains
+284	Plains
+285	Plains
+286	Island
+287	Island
+288	Island
+289	Island
+290	Swamp
+291	Swamp
+292	Swamp
+293	Swamp
+294	Mountain
+295	Mountain
+296	Mountain
+297	Mountain
+298	Forest
+299	Forest
+300	Forest
+301	Forest

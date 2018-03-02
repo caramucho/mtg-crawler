@@ -1,0 +1,144 @@
+№	Card name
+1	Abolish
+2	Aura Fracture
+3	Avatar of Hope
+4	Blessed Wind
+5	Celestial Convergence
+6	Diving Griffin
+7	Entangler
+8	Excise
+9	Flowering Field
+10	Glittering Lion
+11	Glittering Lynx
+12	Jeweled Spirit
+13	Mageta the Lion
+14	Mageta's Boon
+15	Mercenary Informer
+16	Mine Bearer
+17	Mirror Strike
+18	Reveille Squad
+19	Rhystic Circle
+20	Rhystic Shield
+21	Samite Sanctuary
+22	Sheltering Prayers
+23	Shield Dancer
+24	Soul Charmer
+25	Sword Dancer
+26	Trenching Steed
+27	Troubled Healer
+28	Alexi, Zephyr Mage
+29	Alexi's Cloak
+30	Avatar of Will
+31	Coastal Hornclaw
+32	Denying Wind
+33	Excavation
+34	Foil
+35	Gulf Squid
+36	Hazy Homunculus
+37	Heightened Awareness
+38	Mana Vapors
+39	Overburden
+40	Psychic Theft
+41	Quicksilver Wall
+42	Rethink
+43	Rhystic Deluge
+44	Rhystic Scrying
+45	Rhystic Study
+46	Ribbon Snake
+47	Shrouded Serpent
+48	Spiketail Drake
+49	Spiketail Hatchling
+50	Stormwatch Eagle
+51	Sunken Field
+52	Troublesome Spirit
+53	Windscouter
+54	Withdraw
+55	Agent of Shauku
+56	Avatar of Woe
+57	Bog Elemental
+58	Bog Glider
+59	Chilling Apparition
+60	Coffin Puppets
+61	Death Charmer
+62	Despoil
+63	Endbringer's Revel
+64	Fen Stalker
+65	Flay
+66	Greel, Mind Raker
+67	Greel's Caress
+68	Infernal Genesis
+69	Nakaya Shade
+70	Noxious Field
+71	Outbreak
+72	Pit Raptor
+73	Plague Fiend
+74	Plague Wind
+75	Rebel Informer
+76	Rhystic Syphon
+77	Rhystic Tutor
+78	Soul Strings
+79	Steal Strength
+80	Wall of Vipers
+81	Whipstitched Zombie
+82	Avatar of Fury
+83	Barbed Field
+84	Branded Brawlers
+85	Brutal Suppression
+86	Citadel of Pain
+87	Devastate
+88	Fault Riders
+89	Fickle Efreet
+90	Flameshot
+91	Inflame
+92	Keldon Arsonist
+93	Keldon Berserker
+94	Keldon Firebombers
+95	Latulla, Keldon Overseer
+96	Latulla's Orders
+97	Lesser Gargadon
+98	Panic Attack
+99	Rhystic Lightning
+100	Ridgeline Rager
+101	Scoria Cat
+102	Search for Survivors
+103	Searing Wind
+104	Spur Grappler
+105	Task Mage Assembly
+106	Veteran Brawlers
+107	Whip Sergeant
+108	Zerapa Minotaur
+109	Avatar of Might
+110	Calming Verse
+111	Darba
+112	Dual Nature
+113	Elephant Resurgence
+114	Forgotten Harvest
+115	Jolrael, Empress of Beasts
+116	Jolrael's Favor
+117	Living Terrain
+118	Marsh Boa
+119	Mungha Wurm
+120	Pygmy Razorback
+121	Rib Cage Spider
+122	Root Cage
+123	Silt Crawler
+124	Snag
+125	Spitting Spider
+126	Spore Frog
+127	Squirrel Wrangler
+128	Thresher Beast
+129	Thrive
+130	Verdant Field
+131	Vintara Elephant
+132	Vintara Snapper
+133	Vitalizing Wind
+134	Wild Might
+135	Wing Storm
+136	Chimeric Idol
+137	Copper-Leaf Angel
+138	Hollow Warrior
+139	Keldon Battlewagon
+140	Well of Discovery
+141	Well of Life
+142	Rhystic Cave
+143	Wintermoon Mesa

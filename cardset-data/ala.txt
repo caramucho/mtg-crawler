@@ -1,0 +1,250 @@
+№   Card name
+1   Akrasan Squire
+2   Angel's Herald
+3   Angelic Benediction
+4   Angelsong
+5   Bant Battlemage
+6   Battlegrace Angel
+7   Cradle of Vitality
+8   Dispeller's Capsule
+9   Elspeth, Knight-Errant
+10  Ethersworn Canonist
+11  Excommunicate
+12  Guardians of Akrasa
+13  Gustrider Exuberant
+14  Invincible Hymn
+15  Knight of the Skyward Eye
+16  Knight of the White Orchid
+17  Knight-Captain of Eos
+18  Marble Chalice
+19  Metallurgeon
+20  Oblivion Ring
+21  Ranger of Eos
+22  Resounding Silence
+23  Rockcaster Platoon
+24  Sanctum Gargoyle
+25  Scourglass
+26  Sighted-Caste Sorcerer
+27  Sigiled Paladin
+28  Soul's Grace
+29  Sunseed Nurturer
+30  Welkin Guide
+31  Yoked Plowbeast
+32  Call to Heel
+33  Cancel
+34  Cathartic Adept
+35  Cloudheath Drake
+36  Coma Veil
+37  Courier's Capsule
+38  Covenant of Minds
+39  Dawnray Archer
+40  Esper Battlemage
+41  Etherium Astrolabe
+42  Etherium Sculptor
+43  Fatestitcher
+44  Filigree Sages
+45  Gather Specimens
+46  Jhessian Lookout
+47  Kathari Screecher
+48  Kederekt Leviathan
+49  Master of Etherium
+50  Memory Erosion
+51  Mindlock Orb
+52  Outrider of Jhess
+53  Protomatter Powder
+54  Resounding Wave
+55  Sharding Sphinx
+56  Skill Borrower
+57  Spell Snip
+58  Sphinx's Herald
+59  Steelclad Serpent
+60  Tezzeret the Seeker
+61  Tortoise Formation
+62  Vectis Silencers
+63  Ad Nauseam
+64  Archdemon of Unx
+65  Banewasp Affliction
+66  Blister Beetle
+67  Bone Splinters
+68  Corpse Connoisseur
+69  Cunning Lethemancer
+70  Death Baron
+71  Deathgreeter
+72  Demon's Herald
+73  Dreg Reaver
+74  Dregscape Zombie
+75  Executioner's Capsule
+76  Fleshbag Marauder
+77  Glaze Fiend
+78  Grixis Battlemage
+79  Immortal Coil
+80  Infest
+81  Onyx Goblet
+82  Puppet Conjurer
+83  Resounding Scream
+84  Salvage Titan
+85  Scavenger Drake
+86  Shadowfeed
+87  Shore Snapper
+88  Skeletal Kathari
+89  Tar Fiend
+90  Undead Leotau
+91  Vein Drinker
+92  Viscera Dragger
+93  Bloodpyre Elemental
+94  Bloodthorn Taunter
+95  Caldera Hellion
+96  Crucible of Fire
+97  Dragon Fodder
+98  Dragon's Herald
+99  Exuberant Firestoker
+100 Flameblast Dragon
+101 Goblin Assault
+102 Goblin Mountaineer
+103 Hell's Thunder
+104 Hissing Iguanar
+105 Incurable Ogre
+106 Jund Battlemage
+107 Lightning Talons
+108 Magma Spray
+109 Predator Dragon
+110 Resounding Thunder
+111 Ridge Rannet
+112 Rockslide Elemental
+113 Scourge Devil
+114 Skeletonize
+115 Soul's Fire
+116 Thorn-Thrash Viashino
+117 Thunder-Thrash Elder
+118 Viashino Skeleton
+119 Vicious Shadows
+120 Vithian Stinger
+121 Volcanic Submersion
+122 Where Ancients Tread
+123 Algae Gharial
+124 Behemoth's Herald
+125 Cavern Thoctar
+126 Court Archers
+127 Cylian Elf
+128 Druid of the Anima
+129 Drumhunter
+130 Elvish Visionary
+131 Feral Hydra
+132 Gift of the Gargantuan
+133 Godtoucher
+134 Jungle Weaver
+135 Keeper of Progenitus
+136 Lush Growth
+137 Mighty Emergence
+138 Manaplasm
+139 Mosstodon
+140 Mycoloth
+141 Naturalize
+142 Naya Battlemage
+143 Ooze Garden
+144 Resounding Roar
+145 Rhox Charger
+146 Sacellum Godspeaker
+147 Savage Hunger
+148 Skullmulcher
+149 Soul's Might
+150 Spearbreaker Behemoth
+151 Topan Ascetic
+152 Wild Nacatl
+153 Agony Warp
+154 Ajani Vengeant
+155 Bant Charm
+156 Blightning
+157 Blood Cultist
+158 Branching Bolt
+159 Brilliant Ultimatum
+160 Broodmate Dragon
+161 Bull Cerodon
+162 Carrion Thrash
+163 Clarion Ultimatum
+164 Cruel Ultimatum
+165 Deft Duelist
+166 Empyrial Archangel
+167 Esper Charm
+168 Fire-Field Ogre
+169 Goblin Deathraiders
+170 Godsire
+171 Grixis Charm
+172 Hellkite Overlord
+173 Hindering Light
+174 Jhessian Infiltrator
+175 Jund Charm
+176 Kederekt Creeper
+177 Kiss of the Amesha
+178 Kresh the Bloodbraided
+179 Mayael the Anima
+180 Naya Charm
+181 Necrogenesis
+182 Prince of Thralls
+183 Punish Ignorance
+184 Qasali Ambusher
+185 Rafiq of the Many
+186 Rakeclaw Gargantuan
+187 Realm Razer
+188 Rhox War Monk
+189 Rip-Clan Crasher
+190 Sangrite Surge
+191 Sarkhan Vol
+192 Sedraxis Specter
+193 Sedris, the Traitor King
+194 Sharuum the Hegemon
+195 Sigil Blessing
+196 Sphinx Sovereign
+197 Sprouting Thrinax
+198 Steward of Valeron
+199 Stoic Angel
+200 Swerve
+201 Thoughtcutter Agent
+202 Tidehollow Sculler
+203 Tidehollow Strix
+204 Titanic Ultimatum
+205 Tower Gargoyle
+206 Violent Ultimatum
+207 Waveskimmer Aven
+208 Windwright Mage
+209 Woolly Thoctar
+210 Lich's Mirror
+211 Minion Reflector
+212 Obelisk of Bant
+213 Obelisk of Esper
+214 Obelisk of Grixis
+215 Obelisk of Jund
+216 Obelisk of Naya
+217 Quietus Spike
+218 Relic of Progenitus
+219 Sigil of Distinction
+220 Arcane Sanctum
+221 Bant Panorama
+222 Crumbling Necropolis
+223 Esper Panorama
+224 Grixis Panorama
+225 Jund Panorama
+226 Jungle Shrine
+227 Naya Panorama
+228 Savage Lands
+229 Seaside Citadel
+230 Plains
+231 Plains
+232 Plains
+233 Plains
+234 Island
+235 Island
+236 Island
+237 Island
+238 Swamp
+239 Swamp
+240 Swamp
+241 Swamp
+242 Mountain
+243 Mountain
+244 Mountain
+245 Mountain
+246 Forest
+247 Forest
+248 Forest
+249 Forest

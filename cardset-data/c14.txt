@@ -1,0 +1,338 @@
+№	Card name
+1	Angel of the Dire Hour
+2	Angelic Field Marshal
+3	Benevolent Offering
+4	Comeuppance
+5	Containment Priest
+6	Deploy to the Front
+7	Fell the Mighty
+8	Hallowed Spiritkeeper
+9	Jazal Goldmane
+10	Nahiri, the Lithomancer
+11	Æther Gale
+12	Breaching Leviathan
+13	Domineering Will
+14	Dulcet Sirens
+15	Intellectual Offering
+16	Reef Worm
+17	Stitcher Geralf
+18	Stormsurge Kraken
+19	Teferi, Temporal Archmage
+20	Well of Ideas
+21	Demon of Wailing Agonies
+22	Flesh Carver
+23	Ghoulcaller Gisa
+24	Infernal Offering
+25	Malicious Affliction
+26	Necromantic Selection
+27	Ob Nixilis of the Black Oath
+28	Overseer of the Damned
+29	Raving Dead
+30	Spoils of Blood
+31	Wake the Dead
+32	Bitter Feud
+33	Daretti, Scrap Savant
+34	Dualcaster Mage
+35	Feldon of the Third Path
+36	Impact Resonance
+37	Incite Rebellion
+38	Scrap Mastery
+39	Tyrant's Familiar
+40	Volcanic Offering
+41	Warmonger Hellkite
+42	Creeperhulk
+43	Freyalise, Llanowar's Fury
+44	Grave Sifter
+45	Lifeblood Hydra
+46	Siege Behemoth
+47	Song of the Dryads
+48	Sylvan Offering
+49	Thunderfoot Baloth
+50	Titania, Protector of Argoth
+51	Wave of Vitriol
+52	Wolfcaller's Howl
+53	Assault Suit
+54	Commander's Sphere
+55	Crown of Doom
+56	Loreseeker's Stone
+57	Masterwork of Ingenuity
+58	Unstable Obelisk
+59	Arcane Lighthouse
+60	Flamekin Village
+61	Myriad Landscape
+62	Artisan of Kozilek
+63	Adarkar Valkyrie
+64	Afterlife
+65	Armistice
+66	Brave the Elements
+67	Cathars' Crusade
+68	Celestial Crusader
+69	Condemn
+70	Decree of Justice
+71	Flickerwisp
+72	Geist-Honored Monk
+73	Gift of Estates
+74	Grand Abolisher
+75	Kemba, Kha Regent
+76	Kor Sanctifiers
+77	Marshal's Anthem
+78	Martial Coup
+79	Mentor of the Meek
+80	Midnight Haunting
+81	Mobilization
+82	Nomads' Assembly
+83	Oblation
+84	Requiem Angel
+85	Return to Dust
+86	Sacred Mesa
+87	Serra Avatar
+88	Silverblade Paladin
+89	Skyhunter Skirmisher
+90	Spectral Procession
+91	Sun Titan
+92	Sunblast Angel
+93	True Conviction
+94	Twilight Shepherd
+95	White Sun's Zenith
+96	Whitemane Lion
+97	Wing Shards
+98	Azure Mage
+99	Brine Elemental
+100	Cackling Counterpart
+101	Call to Mind
+102	Compulsive Research
+103	Concentrate
+104	Cyclonic Rift
+105	Deep-Sea Kraken
+106	Dismiss
+107	Distorting Wake
+108	Exclude
+109	Fathom Seer
+110	Fog Bank
+111	Fool's Demise
+112	Frost Titan
+113	Hoverguard Sweepers
+114	Infinite Reflection
+115	Into the Roil
+116	Ixidron
+117	Lorthos, the Tidemaker
+118	Mulldrifter
+119	Phyrexian Ingester
+120	Pongify
+121	Riptide Survivor
+122	Rite of Replication
+123	Rush of Knowledge
+124	Sea Gate Oracle
+125	Shaper Parasite
+126	Sphinx of Jwar Isle
+127	Sphinx of Magosi
+128	Sphinx of Uthuun
+129	Stroke of Genius
+130	Turn to Frog
+131	Willbender
+132	Abyssal Persecutor
+133	Æther Snap
+134	Annihilate
+135	Bad Moon
+136	Black Sun's Zenith
+137	Bloodgift Demon
+138	Butcher of Malakir
+139	Crypt Ghast
+140	Disciple of Bolas
+141	Drana, Kalastria Bloodchief
+142	Dread Return
+143	Dregs of Sorrow
+144	Evernight Shade
+145	Grave Titan
+146	Gray Merchant of Asphodel
+147	Liliana's Reaver
+148	Magus of the Coffers
+149	Morkrut Banshee
+150	Mutilate
+151	Nantuko Shade
+152	Nekrataal
+153	Pestilence Demon
+154	Phyrexian Gargantua
+155	Pontiff of Blight
+156	Profane Command
+157	Promise of Power
+158	Read the Bones
+159	Reaper from the Abyss
+160	Shriekmaw
+161	Sign in Blood
+162	Skeletal Scrying
+163	Skirsdag High Priest
+164	Sudden Spoiling
+165	Syphon Mind
+166	Tendrils of Corruption
+167	Tragic Slip
+168	Vampire Hexmage
+169	Victimize
+170	Xathrid Demon
+171	Beetleback Chief
+172	Blasphemous Act
+173	Bogardan Hellkite
+174	Chaos Warp
+175	Faithless Looting
+176	Flametongue Kavu
+177	Goblin Welder
+178	Hoard-Smelter Dragon
+179	Ingot Chewer
+180	Magmaquake
+181	Spitebellows
+182	Starstorm
+183	Tuktuk the Explorer
+184	Whipflare
+185	Word of Seizing
+186	Beastmaster Ascension
+187	Collective Unconscious
+188	Desert Twister
+189	Drove of Elves
+190	Elvish Archdruid
+191	Elvish Mystic
+192	Elvish Skysweeper
+193	Elvish Visionary
+194	Essence Warden
+195	Ezuri, Renegade Leader
+196	Farhaven Elf
+197	Fresh Meat
+198	Grim Flowering
+199	Harrow
+200	Hunting Triad
+201	Immaculate Magistrate
+202	Imperious Perfect
+203	Joraga Warcaller
+204	Llanowar Elves
+205	Lys Alana Huntmaster
+206	Masked Admirers
+207	Overrun
+208	Overwhelming Stampede
+209	Praetor's Counsel
+210	Priest of Titania
+211	Primordial Sage
+212	Rampaging Baloths
+213	Reclamation Sage
+214	Silklash Spider
+215	Soul of the Harvest
+216	Sylvan Ranger
+217	Sylvan Safekeeper
+218	Terastodon
+219	Thornweald Archer
+220	Timberwatch Elf
+221	Titania's Chosen
+222	Tornado Elemental
+223	Wellwisher
+224	Whirlwind
+225	Wolfbriar Elemental
+226	Wood Elves
+227	Wren's Run Packmaster
+228	Argentum Armor
+229	Bonehoard
+230	Bosh, Iron Golem
+231	Bottle Gnomes
+232	Burnished Hart
+233	Caged Sun
+234	Cathodion
+235	Charcoal Diamond
+236	Dreamstone Hedron
+237	Emerald Medallion
+238	Epochrasite
+239	Everflowing Chalice
+240	Fire Diamond
+241	Ichor Wellspring
+242	Jalum Tome
+243	Jet Medallion
+244	Junk Diver
+245	Lashwrithe
+246	Liquimetal Coating
+247	Loxodon Warhammer
+248	Marble Diamond
+249	Mask of Memory
+250	Mind Stone
+251	Moonsilver Spear
+252	Moss Diamond
+253	Mycosynth Wellspring
+254	Myr Battlesphere
+255	Myr Retriever
+256	Myr Sire
+257	Nevinyrral's Disk
+258	Palladium Myr
+259	Panic Spellbomb
+260	Pearl Medallion
+261	Pentavus
+262	Pilgrim's Eye
+263	Predator, Flagship
+264	Pristine Talisman
+265	Ruby Medallion
+266	Sapphire Medallion
+267	Seer's Sundial
+268	Skullclamp
+269	Sky Diamond
+270	Sol Ring
+271	Solemn Simulacrum
+272	Spine of Ish Sah
+273	Steel Hellkite
+274	Strata Scythe
+275	Swiftfoot Boots
+276	Sword of Vengeance
+277	Thran Dynamo
+278	Tormod's Crypt
+279	Trading Post
+280	Ur-Golem's Eye
+281	Wayfarer's Bauble
+282	Worn Powerstone
+283	Wurmcoil Engine
+284	Barren Moor
+285	Bojuka Bog
+286	Buried Ruin
+287	Coral Atoll
+288	Crypt of Agadeem
+289	Crystal Vein
+290	Darksteel Citadel
+291	Dormant Volcano
+292	Drifting Meadow
+293	Emeria, the Sky Ruin
+294	Everglades
+295	Evolving Wilds
+296	Forgotten Cave
+297	Gargoyle Castle
+298	Ghost Quarter
+299	Great Furnace
+300	Haunted Fengraf
+301	Havenwood Battleground
+302	Jungle Basin
+303	Karoo
+304	Lonely Sandbar
+305	Oran-Rief, the Vastwood
+306	Phyrexia's Core
+307	Polluted Mire
+308	Reliquary Tower
+309	Remote Isle
+310	Secluded Steppe
+311	Slippery Karst
+312	Smoldering Crater
+313	Tectonic Edge
+314	Temple of the False God
+315	Terramorphic Expanse
+316	Tranquil Thicket
+317	Zoetic Cavern
+318	Plains
+319	Plains
+320	Plains
+321	Plains
+322	Island
+323	Island
+324	Island
+325	Island
+326	Swamp
+327	Swamp
+328	Swamp
+329	Swamp
+330	Mountain
+331	Mountain
+332	Mountain
+333	Mountain
+334	Forest
+335	Forest
+336	Forest
+337	Forest

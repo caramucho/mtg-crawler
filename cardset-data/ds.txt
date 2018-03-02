@@ -1,0 +1,166 @@
+№	Card name
+1	Auriok Glaivemaster
+2	Echoing Calm
+3	Emissary of Hope
+4	Hallow
+5	Leonin Battlemage
+6	Leonin Shikari
+7	Loxodon Mystic
+8	Metal Fatigue
+9	Pristine Angel
+10	Pteron Ghost
+11	Pulse of the Fields
+12	Purge
+13	Ritual of Restoration
+14	Soulscour
+15	Steelshaper Apprentice
+16	Stir the Pride
+17	Test of Faith
+18	Turn the Tables
+19	Carry Away
+20	Chromescale Drake
+21	Echoing Truth
+22	Hoverguard Observer
+23	Last Word
+24	Machinate
+25	Magnetic Flux
+26	Neurok Prodigy
+27	Neurok Transmuter
+28	Psychic Overload
+29	Pulse of the Grid
+30	Quicksilver Behemoth
+31	Reshape
+32	Retract
+33	Second Sight
+34	Synod Artificer
+35	Vedalken Engineer
+36	Vex
+37	Æther Snap
+38	Burden of Greed
+39	Chittering Rats
+40	Death Cloud
+41	Echoing Decay
+42	Emissary of Despair
+43	Essence Drain
+44	Greater Harvester
+45	Grimclaw Bats
+46	Hunger of the Nim
+47	Mephitic Ooze
+48	Murderous Spoils
+49	Nim Abomination
+50	Pulse of the Dross
+51	Scavenging Scarab
+52	Screams from Within
+53	Scrounge
+54	Shriveling Rot
+55	Barbed Lightning
+56	Crazed Goblin
+57	Dismantle
+58	Drooling Ogre
+59	Echoing Ruin
+60	Fireball
+61	Flamebreak
+62	Furnace Dragon
+63	Goblin Archaeologist
+64	Inflame
+65	Krark-Clan Stoker
+66	Pulse of the Forge
+67	Savage Beating
+68	Shunt
+69	Slobad, Goblin Tinkerer
+70	Tears of Rage
+71	Unforge
+72	Vulshok War Boar
+73	Ageless Entity
+74	Echoing Courage
+75	Fangren Firstborn
+76	Infested Roothold
+77	Karstoderm
+78	Nourish
+79	Oxidize
+80	Pulse of the Tangle
+81	Reap and Sow
+82	Rebuking Ceremony
+83	Roaring Slagwurm
+84	Stand Together
+85	Tangle Spider
+86	Tanglewalker
+87	Tel-Jilad Outrider
+88	Tel-Jilad Wolf
+89	Viridian Acolyte
+90	Viridian Zealot
+91	Æther Vial
+92	Angel's Feather
+93	Arcane Spyglass
+94	Arcbound Bruiser
+95	Arcbound Crusher
+96	Arcbound Fiend
+97	Arcbound Hybrid
+98	Arcbound Lancer
+99	Arcbound Overseer
+100	Arcbound Ravager
+101	Arcbound Reclaimer
+102	Arcbound Slith
+103	Arcbound Stinger
+104	Arcbound Worker
+105	Auriok Siege Sled
+106	Chimeric Egg
+107	Coretapper
+108	Darksteel Brute
+109	Darksteel Colossus
+110	Darksteel Forge
+111	Darksteel Gargoyle
+112	Darksteel Ingot
+113	Darksteel Pendant
+114	Darksteel Reactor
+115	Death-Mask Duplicant
+116	Demon's Horn
+117	Dragon's Claw
+118	Drill-Skimmer
+119	Dross Golem
+120	Eater of Days
+121	Gemini Engine
+122	Genesis Chamber
+123	Geth's Grimoire
+124	Heartseeker
+125	Juggernaut
+126	Kraken's Eye
+127	Leonin Bola
+128	Lich's Tomb
+129	Memnarch
+130	Mycosynth Lattice
+131	Myr Landshaper
+132	Myr Matrix
+133	Myr Moonvessel
+134	Nemesis Mask
+135	Oxidda Golem
+136	Panoptic Mirror
+137	Razor Golem
+138	Serum Powder
+139	Shield of Kaldra
+140	Skullclamp
+141	Spawning Pit
+142	Specter's Shroud
+143	Spellbinder
+144	Spincrusher
+145	Spire Golem
+146	Sundering Titan
+147	Surestrike Trident
+148	Sword of Fire and Ice
+149	Sword of Light and Shadow
+150	Talon of Pain
+151	Tangle Golem
+152	Thought Dissector
+153	Thunderstaff
+154	Trinisphere
+155	Ur-Golem's Eye
+156	Voltaic Construct
+157	Vulshok Morningstar
+158	Wand of the Elements
+159	Well of Lost Dreams
+160	Whispersilk Cloak
+161	Wirefly Hive
+162	Wurm's Tooth
+163	Blinkmoth Nexus
+164	Darksteel Citadel
+165	Mirrodin's Core

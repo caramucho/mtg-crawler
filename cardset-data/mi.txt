@@ -1,0 +1,307 @@
+№	Card name
+1	Altar's Light
+2	Arrest
+3	Auriok Bladewarden
+4	Auriok Steelshaper
+5	Auriok Transfixer
+6	Awe Strike
+7	Blinding Beam
+8	Leonin Abunas
+9	Leonin Den-Guard
+10	Leonin Elder
+11	Leonin Skyhunter
+12	Loxodon Mender
+13	Loxodon Peacekeeper
+14	Loxodon Punisher
+15	Luminous Angel
+16	Raise the Alarm
+17	Razor Barrier
+18	Roar of the Kha
+19	Rule of Law
+20	Second Sunrise
+21	Skyhunter Cub
+22	Skyhunter Patrol
+23	Slith Ascendant
+24	Solar Tide
+25	Soul Nova
+26	Sphere of Purity
+27	Taj-Nar Swordsmith
+28	Tempest of Light
+29	Annul
+30	Assert Authority
+31	Broodstar
+32	Disarm
+33	Domineer
+34	Dream's Grip
+35	Fabricate
+36	Fatespinner
+37	Inertia Bubble
+38	Looming Hoverguard
+39	Lumengrid Augur
+40	Lumengrid Sentinel
+41	Lumengrid Warden
+42	March of the Machines
+43	Neurok Familiar
+44	Neurok Spy
+45	Override
+46	Psychic Membrane
+47	Quicksilver Elemental
+48	Regress
+49	Shared Fate
+50	Slith Strider
+51	Somber Hoverguard
+52	Temporal Cascade
+53	Thirst for Knowledge
+54	Thoughtcast
+55	Vedalken Archmage
+56	Wanderguard Sentry
+57	Barter in Blood
+58	Betrayal of Flesh
+59	Chimney Imp
+60	Consume Spirit
+61	Contaminated Bond
+62	Disciple of the Vault
+63	Dross Harvester
+64	Dross Prowler
+65	Flayed Nim
+66	Grim Reminder
+67	Irradiate
+68	Moriok Scavenger
+69	Necrogen Mists
+70	Nim Devourer
+71	Nim Lasher
+72	Nim Shambler
+73	Nim Shrieker
+74	Promise of Power
+75	Reiver Demon
+76	Relic Bane
+77	Slith Bloodletter
+78	Spoils of the Vault
+79	Terror
+80	Vermiculos
+81	Wail of the Nim
+82	Wall of Blood
+83	Woebearer
+84	Wrench Mind
+85	Arc-Slogger
+86	Atog
+87	Confusion in the Ranks
+88	Detonate
+89	Electrostatic Bolt
+90	Fiery Gambit
+91	Fists of the Anvil
+92	Forge Armor
+93	Fractured Loyalty
+94	Goblin Striker
+95	Grab the Reins
+96	Incite War
+97	Krark-Clan Grunt
+98	Krark-Clan Shaman
+99	Mass Hysteria
+100	Megatog
+101	Molten Rain
+102	Ogre Leadfoot
+103	Rustmouth Ogre
+104	Seething Song
+105	Shatter
+106	Shrapnel Blast
+107	Slith Firewalker
+108	Spikeshot Goblin
+109	Trash for Treasure
+110	Vulshok Battlemaster
+111	Vulshok Berserker
+112	War Elemental
+113	Battlegrowth
+114	Bloodscent
+115	Brown Ouphe
+116	Copperhoof Vorrac
+117	Creeping Mold
+118	Deconstruct
+119	Fangren Hunter
+120	Glissa Sunseeker
+121	Groffskithur
+122	Hum of the Radix
+123	Journey of Discovery
+124	Living Hive
+125	Molder Slug
+126	One Dozen Eyes
+127	Plated Slagwurm
+128	Predator's Strike
+129	Slith Predator
+130	Sylvan Scrying
+131	Tel-Jilad Archers
+132	Tel-Jilad Chosen
+133	Tel-Jilad Exile
+134	Tooth and Nail
+135	Troll Ascetic
+136	Trolls of Tel-Jilad
+137	Turn to Dust
+138	Viridian Joiner
+139	Viridian Shaman
+140	Wurmskin Forger
+141	Æther Spellbomb
+142	Alpha Myr
+143	Altar of Shadows
+144	Banshee's Blade
+145	Blinkmoth Urn
+146	Bonesplitter
+147	Bosh, Iron Golem
+148	Bottle Gnomes
+149	Cathodion
+150	Chalice of the Void
+151	Chromatic Sphere
+152	Chrome Mox
+153	Clockwork Beetle
+154	Clockwork Condor
+155	Clockwork Dragon
+156	Clockwork Vorrac
+157	Cobalt Golem
+158	Copper Myr
+159	Crystal Shard
+160	Culling Scales
+161	Damping Matrix
+162	Dead-Iron Sledge
+163	Dragon Blood
+164	Dross Scorpion
+165	Duplicant
+166	Duskworker
+167	Elf Replica
+168	Empyrial Plate
+169	Extraplanar Lens
+170	Farsight Mask
+171	Fireshrieker
+172	Frogmite
+173	Galvanic Key
+174	Gate to the Æther
+175	Gilded Lotus
+176	Goblin Charbelcher
+177	Goblin Dirigible
+178	Goblin Replica
+179	Goblin War Wagon
+180	Gold Myr
+181	Golem-Skin Gauntlets
+182	Granite Shard
+183	Grid Monitor
+184	Heartwood Shard
+185	Hematite Golem
+186	Icy Manipulator
+187	Iron Myr
+188	Isochron Scepter
+189	Jinxed Choker
+190	Krark's Thumb
+191	Leaden Myr
+192	Leonin Bladetrap
+193	Leonin Scimitar
+194	Leonin Sun Standard
+195	Leveler
+196	Liar's Pendulum
+197	Lifespark Spellbomb
+198	Lightning Coils
+199	Lightning Greaves
+200	Lodestone Myr
+201	Loxodon Warhammer
+202	Malachite Golem
+203	Mask of Memory
+204	Mesmeric Orb
+205	Mind's Eye
+206	Mindslaver
+207	Mindstorm Crown
+208	Mirror Golem
+209	Mourner's Shield
+210	Myr Adapter
+211	Myr Enforcer
+212	Myr Incubator
+213	Myr Mindservant
+214	Myr Prototype
+215	Myr Retriever
+216	Necrogen Spellbomb
+217	Needlebug
+218	Neurok Hoversail
+219	Nightmare Lash
+220	Nim Replica
+221	Nuisance Engine
+222	Oblivion Stone
+223	Omega Myr
+224	Ornithopter
+225	Pearl Shard
+226	Pentavus
+227	Pewter Golem
+228	Platinum Angel
+229	Power Conduit
+230	Proteus Staff
+231	Psychogenic Probe
+232	Pyrite Spellbomb
+233	Quicksilver Fountain
+234	Rust Elemental
+235	Rustspore Ram
+236	Scale of Chiss-Goria
+237	Scrabbling Claws
+238	Sculpting Steel
+239	Scythe of the Wretched
+240	Serum Tank
+241	Silver Myr
+242	Skeleton Shard
+243	Slagwurm Armor
+244	Soldier Replica
+245	Solemn Simulacrum
+246	Soul Foundry
+247	Spellweaver Helix
+248	Steel Wall
+249	Sun Droplet
+250	Sunbeam Spellbomb
+251	Sword of Kaldra
+252	Synod Sanctum
+253	Talisman of Dominance
+254	Talisman of Impulse
+255	Talisman of Indulgence
+256	Talisman of Progress
+257	Talisman of Unity
+258	Tanglebloom
+259	Tangleroot
+260	Tel-Jilad Stylus
+261	Thought Prison
+262	Timesifter
+263	Titanium Golem
+264	Tooth of Chiss-Goria
+265	Tower of Champions
+266	Tower of Eons
+267	Tower of Fortunes
+268	Tower of Murmurs
+269	Triskelion
+270	Viridian Longbow
+271	Vorrac Battlehorns
+272	Vulshok Battlegear
+273	Vulshok Gauntlets
+274	Welding Jar
+275	Wizard Replica
+276	Worldslayer
+277	Yotian Soldier
+278	Ancient Den
+279	Blinkmoth Well
+280	Cloudpost
+281	Glimmervoid
+282	Great Furnace
+283	Seat of the Synod
+284	Stalking Stones
+285	Tree of Tales
+286	Vault of Whispers
+287	Plains
+288	Plains
+289	Plains
+290	Plains
+291	Island
+292	Island
+293	Island
+294	Island
+295	Swamp
+296	Swamp
+297	Swamp
+298	Swamp
+299	Mountain
+300	Mountain
+301	Mountain
+302	Mountain
+303	Forest
+304	Forest
+305	Forest
+306	Forest

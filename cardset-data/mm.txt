@@ -1,0 +1,351 @@
+№	Card name
+1	Afterlife
+2	Alabaster Wall
+3	Armistice
+4	Arrest
+5	Ballista Squad
+6	Charm Peddler
+7	Charmed Griffin
+8	Cho-Arrim Alchemist
+9	Cho-Arrim Bruiser
+10	Cho-Arrim Legate
+11	Cho-Manno, Revolutionary
+12	Cho-Manno's Blessing
+13	Common Cause
+14	Cornered Market
+15	Crackdown
+16	Crossbow Infantry
+17	Devout Witness
+18	Disenchant
+19	Fountain Watch
+20	Fresh Volunteers
+21	Honor the Fallen
+22	Ignoble Soldier
+23	Inviolability
+24	Ivory Mask
+25	Jhovall Queen
+26	Jhovall Rider
+27	Last Breath
+28	Moment of Silence
+29	Moonlit Wake
+30	Muzzle
+31	Nightwind Glider
+32	Noble Purpose
+33	Orim's Cure
+34	Pious Warrior
+35	Ramosian Captain
+36	Ramosian Commander
+37	Ramosian Lieutenant
+38	Ramosian Rally
+39	Ramosian Sergeant
+40	Ramosian Sky Marshal
+41	Rappelling Scouts
+42	Renounce
+43	Revered Elder
+44	Reverent Mantra
+45	Righteous Aura
+46	Righteous Indignation
+47	Security Detail
+48	Soothing Balm
+49	Spiritual Focus
+50	Steadfast Guard
+51	Story Circle
+52	Task Force
+53	Thermal Glider
+54	Tonic Peddler
+55	Trap Runner
+56	Wave of Reckoning
+57	Wishmonger
+58	Aerial Caravan
+59	Balloon Peddler
+60	Blockade Runner
+61	Brainstorm
+62	Bribery
+63	Buoyancy
+64	Chambered Nautilus
+65	Chameleon Spirit
+66	Charisma
+67	Cloud Sprite
+68	Coastal Piracy
+69	Counterspell
+70	Cowardice
+71	Customs Depot
+72	Darting Merfolk
+73	Dehydration
+74	Diplomatic Escort
+75	Diplomatic Immunity
+76	Drake Hatchling
+77	Embargo
+78	Energy Flux
+79	Extravagant Spirit
+80	False Demise
+81	Glowing Anemone
+82	Gush
+83	High Seas
+84	Hoodwink
+85	Indentured Djinn
+86	Karn's Touch
+87	Misdirection
+88	Misstep
+89	Overtaker
+90	Port Inspector
+91	Rishadan Airship
+92	Rishadan Brigand
+93	Rishadan Cutpurse
+94	Rishadan Footpad
+95	Sailmonger
+96	Sand Squid
+97	Saprazzan Bailiff
+98	Saprazzan Breaker
+99	Saprazzan Heir
+100	Saprazzan Legate
+101	Saprazzan Outrigger
+102	Saprazzan Raider
+103	Shoving Match
+104	Soothsaying
+105	Squeeze
+106	Statecraft
+107	Stinging Barrier
+108	Thwart
+109	Tidal Bore
+110	Tidal Kraken
+111	Timid Drake
+112	Trade Routes
+113	War Tax
+114	Waterfront Bouncer
+115	Alley Grifters
+116	Black Market
+117	Bog Smugglers
+118	Bog Witch
+119	Cackling Witch
+120	Cateran Brute
+121	Cateran Enforcer
+122	Cateran Kidnappers
+123	Cateran Overlord
+124	Cateran Persuader
+125	Cateran Slaver
+126	Cateran Summons
+127	Conspiracy
+128	Corrupt Official
+129	Dark Ritual
+130	Deathgazer
+131	Deepwood Ghoul
+132	Deepwood Legate
+133	Delraich
+134	Enslaved Horror
+135	Extortion
+136	Forced March
+137	Ghoul's Feast
+138	Haunted Crossroads
+139	Highway Robber
+140	Instigator
+141	Insubordination
+142	Intimidation
+143	Larceny
+144	Liability
+145	Maggot Therapy
+146	Midnight Ritual
+147	Misshapen Fiend
+148	Molting Harpy
+149	Nether Spirit
+150	Notorious Assassin
+151	Pretender's Claim
+152	Primeval Shambler
+153	Putrefaction
+154	Quagmire Lamprey
+155	Rain of Tears
+156	Rampart Crawler
+157	Rouse
+158	Scandalmonger
+159	Sever Soul
+160	Silent Assassin
+161	Skulking Fugitive
+162	Snuff Out
+163	Soul Channeling
+164	Specter's Wail
+165	Strongarm Thug
+166	Thrashing Wumpus
+167	Undertaker
+168	Unmask
+169	Unnatural Hunger
+170	Vendetta
+171	Wall of Distortion
+172	Arms Dealer
+173	Battle Rampart
+174	Battle Squadron
+175	Blaster Mage
+176	Blood Hound
+177	Blood Oath
+178	Brawl
+179	Cave Sense
+180	Cave-In
+181	Cavern Crawler
+182	Ceremonial Guard
+183	Cinder Elemental
+184	Close Quarters
+185	Crag Saurian
+186	Crash
+187	Flailing Manticore
+188	Flailing Ogre
+189	Flailing Soldier
+190	Flaming Sword
+191	Furious Assault
+192	Gerrard's Irregulars
+193	Hammer Mage
+194	Hired Giant
+195	Kris Mage
+196	Kyren Glider
+197	Kyren Legate
+198	Kyren Negotiations
+199	Kyren Sniper
+200	Lava Runner
+201	Lightning Hounds
+202	Lithophage
+203	Lunge
+204	Magistrate's Veto
+205	Mercadia's Downfall
+206	Ogre Taskmaster
+207	Pulverize
+208	Puppet's Verdict
+209	Robber Fly
+210	Rock Badger
+211	Seismic Mage
+212	Shock Troops
+213	Sizzle
+214	Squee, Goblin Nabob
+215	Stone Rain
+216	Tectonic Break
+217	Territorial Dispute
+218	Thieves' Auction
+219	Thunderclap
+220	Tremor
+221	Two-Headed Dragon
+222	Uphill Battle
+223	Volcanic Wind
+224	War Cadence
+225	Warmonger
+226	Warpath
+227	Wild Jhovall
+228	Word of Blasting
+229	Ancestral Mask
+230	Bifurcate
+231	Boa Constrictor
+232	Briar Patch
+233	Caller of the Hunt
+234	Caustic Wasps
+235	Clear the Land
+236	Collective Unconscious
+237	Dawnstrider
+238	Deadly Insect
+239	Deepwood Drummer
+240	Deepwood Elder
+241	Deepwood Tantiv
+242	Deepwood Wolverine
+243	Desert Twister
+244	Erithizon
+245	Ferocity
+246	Food Chain
+247	Foster
+248	Game Preserve
+249	Giant Caterpillar
+250	Groundskeeper
+251	Horned Troll
+252	Howling Wolf
+253	Hunted Wumpus
+254	Invigorate
+255	Land Grant
+256	Ley Line
+257	Lumbering Satyr
+258	Lure
+259	Megatherium
+260	Natural Affinity
+261	Pangosaur
+262	Revive
+263	Rushwood Dryad
+264	Rushwood Elemental
+265	Rushwood Herbalist
+266	Rushwood Legate
+267	Saber Ants
+268	Sacred Prey
+269	Silverglade Elemental
+270	Silverglade Pathfinder
+271	Snake Pit
+272	Snorting Gahr
+273	Spidersilk Armor
+274	Spontaneous Generation
+275	Squall
+276	Squallmonger
+277	Stamina
+278	Sustenance
+279	Tiger Claws
+280	Tranquility
+281	Venomous Breath
+282	Venomous Dragonfly
+283	Vernal Equinox
+284	Vine Dryad
+285	Vine Trellis
+286	Assembly Hall
+287	Barbed Wire
+288	Bargaining Table
+289	Credit Voucher
+290	Crenellated Wall
+291	Crooked Scales
+292	Crumbling Sanctuary
+293	Distorting Lens
+294	Eye of Ramos
+295	General's Regalia
+296	Heart of Ramos
+297	Henge Guardian
+298	Horn of Plenty
+299	Horn of Ramos
+300	Iron Lance
+301	Jeweled Torque
+302	Kyren Archive
+303	Kyren Toy
+304	Magistrate's Scepter
+305	Mercadian Atlas
+306	Mercadian Lift
+307	Monkey Cage
+308	Panacea
+309	Power Matrix
+310	Puffer Extract
+311	Rishadan Pawnshop
+312	Skull of Ramos
+313	Tooth of Ramos
+314	Toymaker
+315	Worry Beads
+316	Dust Bowl
+317	Fountain of Cho
+318	Henge of Ramos
+319	Hickory Woodlot
+320	High Market
+321	Mercadian Bazaar
+322	Peat Bog
+323	Remote Farm
+324	Rishadan Port
+325	Rushwood Grove
+326	Sandstone Needle
+327	Saprazzan Cove
+328	Saprazzan Skerry
+329	Subterranean Hangar
+330	Tower of the Magistrate
+331	Plains
+332	Plains
+333	Plains
+334	Plains
+335	Island
+336	Island
+337	Island
+338	Island
+339	Swamp
+340	Swamp
+341	Swamp
+342	Swamp
+343	Mountain
+344	Mountain
+345	Mountain
+346	Mountain
+347	Forest
+348	Forest
+349	Forest
+350	Forest

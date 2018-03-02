@@ -1,0 +1,144 @@
+№	Card name
+1	Angel of Retribution
+2	Aven Trooper
+3	Cleansing Meditation
+4	Equal Treatment
+5	Floating Shield
+6	Frantic Purification
+7	Hypochondria
+8	Major Teroh
+9	Militant Monk
+10	Morningtide
+11	Mystic Familiar
+12	Pay No Heed
+13	Possessed Nomad
+14	Reborn Hero
+15	Spirit Flare
+16	Stern Judge
+17	Strength of Isolation
+18	Teroh's Faithful
+19	Teroh's Vanguard
+20	Transcendence
+21	Vengeful Dreams
+22	Alter Reality
+23	Ambassador Laquatus
+24	Aquamoeba
+25	Balshan Collaborator
+26	Breakthrough
+27	Cephalid Aristocrat
+28	Cephalid Illusionist
+29	Cephalid Sage
+30	Cephalid Snitch
+31	Cephalid Vandal
+32	Churning Eddy
+33	Circular Logic
+34	Compulsion
+35	Coral Net
+36	Deep Analysis
+37	False Memories
+38	Ghostly Wings
+39	Hydromorph Guardian
+40	Hydromorph Gull
+41	Liquify
+42	Llawan, Cephalid Empress
+43	Obsessive Search
+44	Plagiarize
+45	Possessed Aven
+46	Retraced Image
+47	Skywing Aven
+48	Stupefying Touch
+49	Turbulent Dreams
+50	Boneshard Slasher
+51	Cabal Ritual
+52	Cabal Surgeon
+53	Cabal Torturer
+54	Carrion Rats
+55	Carrion Wurm
+56	Chainer, Dementia Master
+57	Chainer's Edict
+58	Crippling Fatigue
+59	Dawn of the Dead
+60	Faceless Butcher
+61	Gloomdrifter
+62	Gravegouger
+63	Grotesque Hybrid
+64	Hypnox
+65	Ichorid
+66	Insidious Dreams
+67	Laquatus's Champion
+68	Last Laugh
+69	Mesmeric Fiend
+70	Mind Sludge
+71	Mortal Combat
+72	Mortiphobia
+73	Mutilate
+74	Nantuko Shade
+75	Organ Grinder
+76	Psychotic Haze
+77	Putrid Imp
+78	Rancid Earth
+79	Restless Dreams
+80	Sengir Vampire
+81	Shade's Form
+82	Shambling Swarm
+83	Sickening Dreams
+84	Slithery Stalker
+85	Soul Scourge
+86	Strength of Lunacy
+87	Unhinge
+88	Waste Away
+89	Zombie Trailblazer
+90	Accelerate
+91	Balthor the Stout
+92	Barbarian Outcast
+93	Crackling Club
+94	Crazed Firecat
+95	Devastating Dreams
+96	Enslaved Dwarf
+97	Fiery Temper
+98	Flaming Gambit
+99	Flash of Defiance
+100	Grim Lavamancer
+101	Hell-Bent Raider
+102	Kamahl's Sledge
+103	Longhorn Firebeast
+104	Overmaster
+105	Pardic Arsonist
+106	Pardic Collaborator
+107	Pardic Lancer
+108	Petradon
+109	Petravark
+110	Pitchstone Wall
+111	Possessed Barbarian
+112	Pyromania
+113	Radiate
+114	Skullscorch
+115	Sonic Seizure
+116	Temporary Insanity
+117	Violent Eruption
+118	Acorn Harvest
+119	Anurid Scavenger
+120	Arrogant Wurm
+121	Basking Rootwalla
+122	Centaur Chieftain
+123	Centaur Veteran
+124	Dwell on the Past
+125	Far Wanderings
+126	Gurzigost
+127	Insist
+128	Invigorating Falls
+129	Krosan Constrictor
+130	Krosan Restorer
+131	Nantuko Blightcutter
+132	Nantuko Calmer
+133	Nantuko Cultivator
+134	Narcissism
+135	Nostalgic Dreams
+136	Parallel Evolution
+137	Possessed Centaur
+138	Seton's Scout
+139	Cabal Coffers
+140	Tainted Field
+141	Tainted Isle
+142	Tainted Peak
+143	Tainted Wood

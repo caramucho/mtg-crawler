@@ -1,0 +1,356 @@
+№	Card name
+1	Alabaster Leech
+2	Angel of Mercy
+3	Ardent Soldier
+4	Atalya, Samite Master
+5	Benalish Emissary
+6	Benalish Heralds
+7	Benalish Lancer
+8	Benalish Trapper
+9	Blinding Light
+10	Capashen Unicorn
+11	Crimson Acolyte
+12	Crusading Knight
+13	Death or Glory
+14	Dismantling Blow
+15	Divine Presence
+16	Fight or Flight
+17	Glimmering Angel
+18	Global Ruin
+19	Harsh Judgment
+20	Holy Day
+21	Liberate
+22	Obsidian Acolyte
+23	Orim's Touch
+24	Pledge of Loyalty
+25	Prison Barricade
+26	Protective Sphere
+27	Pure Reflection
+28	Rampant Elephant
+29	Razorfoot Griffin
+30	Restrain
+31	Reviving Dose
+32	Rewards of Diversity
+33	Reya Dawnbringer
+34	Rout
+35	Ruham Djinn
+36	Samite Ministration
+37	Shackles
+38	Spirit of Resistance
+39	Spirit Weaver
+40	Strength of Unity
+41	Sunscape Apprentice
+42	Sunscape Master
+43	Teferi's Care
+44	Wayfaring Giant
+45	Winnow
+46	Barrin's Unmaking
+47	Blind Seer
+48	Breaking Wave
+49	Collective Restraint
+50	Crystal Spray
+51	Disrupt
+52	Distorting Wake
+53	Dream Thrush
+54	Empress Galina
+55	Essence Leak
+56	Exclude
+57	Fact or Fiction
+58	Faerie Squadron
+59	Mana Maze
+60	Manipulate Fate
+61	Metathran Aerostat
+62	Metathran Transport
+63	Metathran Zombie
+64	Opt
+65	Phantasmal Terrain
+66	Probe
+67	Prohibit
+68	Psychic Battle
+69	Rainbow Crow
+70	Repulse
+71	Sapphire Leech
+72	Shimmering Wings
+73	Shoreline Raider
+74	Sky Weaver
+75	Stormscape Apprentice
+76	Stormscape Master
+77	Sway of Illusion
+78	Teferi's Response
+79	Temporal Distortion
+80	Tidal Visionary
+81	Tolarian Emissary
+82	Tower Drake
+83	Traveler's Cloak
+84	Vodalian Hypnotist
+85	Vodalian Merchant
+86	Vodalian Serpent
+87	Wash Out
+88	Well-Laid Plans
+89	Worldly Counsel
+90	Zanam Djinn
+91	Addle
+92	Agonizing Demise
+93	Andradite Leech
+94	Annihilate
+95	Bog Initiate
+96	Cremate
+97	Crypt Angel
+98	Cursed Flesh
+99	Defiling Tears
+100	Desperate Research
+101	Devouring Strossus
+102	Do or Die
+103	Dredge
+104	Duskwalker
+105	Exotic Curse
+106	Firescreamer
+107	Goham Djinn
+108	Hate Weaver
+109	Hypnotic Cloud
+110	Marauding Knight
+111	Mourning
+112	Nightscape Apprentice
+113	Nightscape Master
+114	Phyrexian Battleflies
+115	Phyrexian Delver
+116	Phyrexian Infiltrator
+117	Phyrexian Reaper
+118	Phyrexian Slayer
+119	Plague Spitter
+120	Ravenous Rats
+121	Reckless Spite
+122	Recover
+123	Scavenged Weaponry
+124	Soul Burn
+125	Spreading Plague
+126	Tainted Well
+127	Trench Wurm
+128	Tsabo's Assassin
+129	Tsabo's Decree
+130	Twilight's Call
+131	Urborg Emissary
+132	Urborg Phantom
+133	Urborg Shambler
+134	Urborg Skeleton
+135	Yawgmoth's Agenda
+136	Ancient Kavu
+137	Bend or Break
+138	Breath of Darigaaz
+139	Callous Giant
+140	Chaotic Strike
+141	Collapsing Borders
+142	Crown of Flames
+143	Firebrand Ranger
+144	Ghitu Fire
+145	Goblin Spy
+146	Halam Djinn
+147	Hooded Kavu
+148	Kavu Aggressor
+149	Kavu Monarch
+150	Kavu Runner
+151	Kavu Scout
+152	Lightning Dart
+153	Loafing Giant
+154	Mages' Contest
+155	Maniacal Rage
+156	Obliterate
+157	Overload
+158	Pouncing Kavu
+159	Rage Weaver
+160	Rogue Kavu
+161	Ruby Leech
+162	Savage Offensive
+163	Scarred Puma
+164	Scorching Lava
+165	Searing Rays
+166	Shivan Emissary
+167	Shivan Harvest
+168	Skittish Kavu
+169	Skizzik
+170	Slimy Kavu
+171	Stand or Fall
+172	Stun
+173	Tectonic Instability
+174	Thunderscape Apprentice
+175	Thunderscape Master
+176	Tribal Flames
+177	Turf Wound
+178	Urza's Rage
+179	Viashino Grappler
+180	Zap
+181	Aggressive Urge
+182	Bind
+183	Blurred Mongoose
+184	Canopy Surge
+185	Elfhame Sanctuary
+186	Elvish Champion
+187	Explosive Growth
+188	Fertile Ground
+189	Harrow
+190	Jade Leech
+191	Kavu Chameleon
+192	Kavu Climber
+193	Kavu Lair
+194	Kavu Titan
+195	Llanowar Cavalry
+196	Llanowar Elite
+197	Llanowar Vanguard
+198	Might Weaver
+199	Molimo, Maro-Sorcerer
+200	Nomadic Elf
+201	Pincer Spider
+202	Pulse of Llanowar
+203	Quirion Elves
+204	Quirion Sentinel
+205	Quirion Trailblazer
+206	Restock
+207	Rooting Kavu
+208	Saproling Infestation
+209	Saproling Symbiosis
+210	Scouting Trek
+211	Serpentine Kavu
+212	Sulam Djinn
+213	Tangle
+214	Thicket Elemental
+215	Thornscape Apprentice
+216	Thornscape Master
+217	Tranquility
+218	Treefolk Healer
+219	Utopia Tree
+220	Verdeloth the Ancient
+221	Verduran Emissary
+222	Vigorous Charge
+223	Wallop
+224	Wandering Stream
+225	Whip Silk
+226	Absorb
+227	Æther Rift
+228	Angelic Shield
+229	Armadillo Cloak
+230	Armored Guardian
+231	Artifact Mutation
+232	Aura Mutation
+233	Aura Shards
+234	Backlash
+235	Barrin's Spite
+236	Blazing Specter
+237	Captain Sisay
+238	Cauldron Dance
+239	Charging Troll
+240	Cinder Shade
+241	Coalition Victory
+242	Crosis, the Purger
+243	Darigaaz, the Igniter
+244	Dromar, the Banisher
+245	Dueling Grounds
+246	Fires of Yavimaya
+247	Frenzied Tilling
+248	Galina's Knight
+249	Hanna, Ship's Navigator
+250	Heroes' Reunion
+251	Horned Cheetah
+252	Hunting Kavu
+253	Kangee, Aerie Keeper
+254	Llanowar Knight
+255	Lobotomy
+256	Meteor Storm
+257	Noble Panther
+258	Ordered Migration
+259	Overabundance
+260	Plague Spores
+261	Pyre Zombie
+262	Raging Kavu
+263	Reckless Assault
+264	Recoil
+265	Reviving Vapors
+266	Riptide Crab
+267	Rith, the Awakener
+268	Sabertooth Nishoba
+269	Samite Archer
+270	Seer's Vision
+271	Shivan Zombie
+272	Simoon
+273	Sleeper's Robe
+274	Slinking Serpent
+275	Smoldering Tar
+276	Spinal Embrace
+277	Stalking Assassin
+278	Sterling Grove
+279	Teferi's Moat
+280	Treva, the Renewer
+281	Tsabo Tavoc
+282	Undermine
+283	Urborg Drake
+284	Vicious Kavu
+285	Vile Consumption
+286	Vodalian Zombie
+287	Void
+288	Voracious Cobra
+289	Wings of Hope
+290	Yavimaya Barbarian
+291	Yavimaya Kavu
+292a	Stand (Stand/Deliver)
+292b	Deliver (Stand/Deliver)
+293a	Spite (Spite/Malice)
+293b	Malice (Spite/Malice)
+294a	Pain (Pain/Suffering)
+294b	Suffering (Pain/Suffering)
+295a	Assault (Assault/Battery)
+295b	Battery (Assault/Battery)
+296a	Wax (Wax/Wane)
+296b	Wane (Wax/Wane)
+297	Alloy Golem
+298	Bloodstone Cameo
+299	Chromatic Sphere
+300	Crosis's Attendant
+301	Darigaaz's Attendant
+302	Drake-Skull Cameo
+303	Dromar's Attendant
+304	Juntu Stakes
+305	Lotus Guardian
+306	Phyrexian Altar
+307	Phyrexian Lens
+308	Planar Portal
+309	Power Armor
+310	Rith's Attendant
+311	Seashell Cameo
+312	Sparring Golem
+313	Tek
+314	Tigereye Cameo
+315	Treva's Attendant
+316	Troll-Horn Cameo
+317	Tsabo's Web
+318	Urza's Filter
+319	Ancient Spring
+320	Archaeological Dig
+321	Coastal Tower
+322	Elfhame Palace
+323	Geothermal Crevice
+324	Irrigation Ditch
+325	Keldon Necropolis
+326	Salt Marsh
+327	Shivan Oasis
+328	Sulfur Vent
+329	Tinder Farm
+330	Urborg Volcano
+331	Plains
+332	Plains
+333	Plains
+334	Plains
+335	Island
+336	Island
+337	Island
+338	Island
+339	Swamp
+340	Swamp
+341	Swamp
+342	Swamp
+343	Mountain
+344	Mountain
+345	Mountain
+346	Mountain
+347	Forest
+348	Forest
+349	Forest
+350	Forest

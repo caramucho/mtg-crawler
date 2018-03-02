@@ -1,0 +1,147 @@
+№	Card name
+1	Aura Blast
+2	Aurora Griffin
+3	Disciple of Kangee
+4	Dominaria's Judgment
+5	Guard Dogs
+6	Heroic Defiance
+7	Hobble
+8	Honorable Scout
+9	Lashknife Barrier
+10	March of Souls
+11	Orim's Chant
+12	Planeswalker's Mirth
+13	Pollen Remedy
+14	Samite Elder
+15	Samite Pilgrim
+16	Sunscape Battlemage
+17	Sunscape Familiar
+18	Surprise Deployment
+19	Voice of All
+20	Allied Strategies
+21	Arctic Merfolk
+22	Confound
+23	Dralnu's Pet
+24	Ertai's Trickery
+25	Escape Routes
+26	Gainsay
+27	Hunting Drake
+28	Planar Overlay
+29	Planeswalker's Mischief
+30	Rushing River
+31	Sea Snidd
+32	Shifting Sky
+33	Sisay's Ingenuity
+34	Sleeping Potion
+35	Stormscape Battlemage
+36	Stormscape Familiar
+37	Sunken Hope
+38	Waterspout Elemental
+39	Bog Down
+40	Dark Suspicions
+41	Death Bomb
+42	Diabolic Intent
+43	Exotic Disease
+44	Lord of the Undead
+45	Maggot Carrier
+46	Morgue Toad
+47	Nightscape Battlemage
+48	Nightscape Familiar
+49	Noxious Vapors
+50	Phyrexian Bloodstock
+51	Phyrexian Scuta
+52	Planeswalker's Scorn
+53	Shriek of Dread
+54	Sinister Strength
+55	Slay
+56	Volcano Imp
+57	Warped Devotion
+58	Caldera Kavu
+59	Deadapult
+60	Flametongue Kavu
+61	Goblin Game
+62	Implode
+63	Insolence
+64	Kavu Recluse
+65	Keldon Mantle
+66	Magma Burst
+67	Mire Kavu
+68	Mogg Jailer
+69	Mogg Sentry
+70	Planeswalker's Fury
+71	Singe
+72	Slingshot Goblin
+73	Strafe
+74a	Tahngarth, Talruum Hero
+74b	Tahngarth, Talruum Hero
+75	Thunderscape Battlemage
+76	Thunderscape Familiar
+77	Alpha Kavu
+78	Amphibious Kavu
+79	Falling Timber
+80	Gaea's Herald
+81	Gaea's Might
+82	Magnigoth Treefolk
+83	Mirrorwood Treefolk
+84	Multani's Harmony
+85	Nemata, Grove Guardian
+86	Planeswalker's Favor
+87	Primal Growth
+88	Pygmy Kavu
+89	Quirion Dryad
+90	Quirion Explorer
+91	Root Greevil
+92	Skyshroud Blessing
+93	Stone Kavu
+94	Thornscape Battlemage
+95	Thornscape Familiar
+96	Ancient Spider
+97	Cavern Harpy
+98	Cloud Cover
+99	Crosis's Charm
+100	Darigaaz's Charm
+101	Daring Leap
+102	Destructive Flow
+103	Doomsday Specter
+104	Dralnu's Crusade
+105	Dromar's Charm
+106	Eladamri's Call
+107a	Ertai, the Corrupted
+107b	Ertai, the Corrupted
+108	Fleetfoot Panther
+109	Gerrard's Command
+110	Horned Kavu
+111	Hull Breach
+112	Keldon Twilight
+113	Lava Zombie
+114	Malicious Advice
+115	Marsh Crocodile
+116	Meddling Mage
+117	Natural Emergence
+118	Phyrexian Tyranny
+119	Questing Phelddagrif
+120	Radiant Kavu
+121	Razing Snidd
+122	Rith's Charm
+123	Sawtooth Loon
+124	Shivan Wurm
+125	Silver Drake
+126	Sparkcaster
+127	Steel Leaf Paladin
+128	Terminate
+129	Treva's Charm
+130	Urza's Guilt
+131	Draco
+132	Mana Cylix
+133a	Skyship Weatherlight
+133b	Skyship Weatherlight
+134	Star Compass
+135	Stratadon
+136	Crosis's Catacombs
+137	Darigaaz's Caldera
+138	Dromar's Cavern
+139	Forsaken City
+140	Meteor Crater
+141	Rith's Grove
+142	Terminal Moraine
+143	Treva's Ruins

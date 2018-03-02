@@ -1,0 +1,171 @@
+№	Card name
+1	Day of Destiny
+2	Empty-Shrine Kannushi
+3a	Faithful Squire
+3b	Kaiso, Memory of Loyalty
+4	Final Judgment
+5	Genju of the Fields
+6	Heart of Light
+7	Hokori, Dust Drinker
+8	Hundred-Talon Strike
+9	Indebted Samurai
+10	Kami of False Hope
+11	Kami of Tattered Shoji
+12	Kami of the Honored Dead
+13	Kentaro, the Smiling Cat
+14	Kitsune Palliator
+15	Mending Hands
+16	Moonlit Strider
+17	Opal-Eye, Konda's Yojimbo
+18	Oyobi, Who Split the Heavens
+19	Patron of the Kitsune
+20	Scour
+21	Shining Shoal
+22	Silverstorm Samurai
+23	Split-Tail Miko
+24	Takeno's Cavalry
+25	Tallowisp
+26	Terashi's Grasp
+27	Terashi's Verdict
+28	Ward of Piety
+29	Waxmane Baku
+30	Yomiji, Who Bars the Way
+31a	Callow Jushi
+31b	Jaraku the Interloper
+32	Chisei, Heart of Oceans
+33	Disrupting Shoal
+34	Floodbringer
+35	Genju of the Falls
+36	Heed the Mists
+37	Higure, the Still Wind
+38	Jetting Glasskite
+39	Kaijin of the Vanishing Touch
+40	Kira, Great Glass-Spinner
+41	Minamo Sightbender
+42	Minamo's Meddling
+43	Mistblade Shinobi
+44	Ninja of the Deep Hours
+45	Patron of the Moon
+46	Phantom Wings
+47	Quash
+48	Quillmane Baku
+49	Reduce to Dreams
+50	Ribbons of the Reikai
+51	Shimmering Glasskite
+52	Soratami Mindsweeper
+53	Stream of Consciousness
+54	Sway of the Stars
+55	Teardrop Kami
+56	Threads of Disloyalty
+57	Toils of Night and Day
+58	Tomorrow, Azami's Familiar
+59	Veil of Secrecy
+60	Walker of Secret Ways
+61	Bile Urchin
+62	Blessing of Leeches
+63	Call for Blood
+64	Crawling Filth
+65	Eradicate
+66	Genju of the Fens
+67	Goryo's Vengeance
+68	Hero's Demise
+69a	Hired Muscle
+69b	Scarmaker
+70	Horobi's Whisper
+71	Ink-Eyes, Servant of Oni
+72	Kyoki, Sanity's Eclipse
+73	Mark of the Oni
+74	Nezumi Shadow-Watcher
+75	Ogre Marauder
+76	Okiba-Gang Shinobi
+77	Patron of the Nezumi
+78	Psychic Spear
+79	Pus Kami
+80	Scourge of Numai
+81	Shirei, Shizo's Caretaker
+82	Sickening Shoal
+83	Skullmane Baku
+84	Skullsnatcher
+85	Stir the Grave
+86	Takenuma Bleeder
+87	Three Tragedies
+88	Throat Slitter
+89	Toshiro Umezawa
+90	Yukora, the Prisoner
+91	Akki Blizzard-Herder
+92	Akki Raider
+93	Ashen Monstrosity
+94	Aura Barbs
+95	Blademane Baku
+96	Blazing Shoal
+97	Clash of Realities
+98	Crack the Earth
+99a	Cunning Bandit
+99b	Azamuki, Treachery Incarnate
+100	First Volley
+101	Flames of the Blood Hand
+102	Frost Ogre
+103	Frostling
+104	Fumiko the Lowblood
+105	Genju of the Spires
+106	Goblin Cohort
+107	Heartless Hidetsugu
+108	In the Web of War
+109	Ire of Kaminari
+110	Ishi-Ishi, Akki Crackshot
+111	Kumano's Blessing
+112	Mannichi, the Fevered Dream
+113	Ogre Recluse
+114	Overblaze
+115	Patron of the Akki
+116	Ronin Cliffrider
+117	Shinka Gatekeeper
+118	Sowing Salt
+119	Torrent of Stone
+120	Twist Allegiance
+121	Body of Jukai
+122a	Budoka Pupil
+122b	Ichiga, Who Topples Oaks
+123	Child of Thorns
+124	Enshrined Memories
+125	Forked-Branch Garami
+126	Genju of the Cedars
+127	Gnarled Mass
+128	Harbinger of Spring
+129	Isao, Enlightened Bushi
+130	Iwamori of the Open Fist
+131	Kodama of the Center Tree
+132	Lifegift
+133	Lifespinner
+134	Loam Dweller
+135	Mark of Sakiko
+136	Matsu-Tribe Sniper
+137	Nourishing Shoal
+138	Patron of the Orochi
+139	Petalmane Baku
+140	Roar of Jukai
+141	Sakiko, Mother of Summer
+142	Sakura-Tribe Springcaller
+143	Scaled Hulk
+144	Shizuko, Caller of Autumn
+145	Sosuke's Summons
+146	Splinter
+147	Traproot Kami
+148	Unchecked Growth
+149	Uproot
+150	Vital Surge
+151	Genju of the Realm
+152	Baku Altar
+153	Blinding Powder
+154	Mirror Gallery
+155	Neko-Te
+156	Orb of Dreams
+157	Ornate Kanzashi
+158	Ronin Warclub
+159	Shuko
+160	Shuriken
+161	Slumbering Tora
+162	That Which Was Taken
+163	Umezawa's Jitte
+164	Gods' Eye, Gate to the Reikai
+165	Tendo Ice Bridge

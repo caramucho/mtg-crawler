@@ -1,0 +1,351 @@
+№	Card name
+1	Absolute Grace
+2	Absolute Law
+3	Angelic Chorus
+4	Angelic Page
+5	Brilliant Halo
+6	Catastrophe
+7	Clear
+8	Congregate
+9	Defensive Formation
+10	Disciple of Grace
+11	Disciple of Law
+12	Disenchant
+13	Elite Archers
+14	Faith Healer
+15	Glorious Anthem
+16	Healing Salve
+17	Herald of Serra
+18	Humble
+19	Intrepid Hero
+20	Monk Idealist
+21	Monk Realist
+22	Opal Acrolith
+23	Opal Archangel
+24	Opal Caryatid
+25	Opal Gargoyle
+26	Opal Titan
+27	Pacifism
+28	Pariah
+29	Path of Peace
+30	Pegasus Charger
+31	Planar Birth
+32	Presence of the Master
+33	Redeem
+34	Remembrance
+35	Rune of Protection: Artifacts
+36	Rune of Protection: Black
+37	Rune of Protection: Blue
+38	Rune of Protection: Green
+39	Rune of Protection: Lands
+40	Rune of Protection: Red
+41	Rune of Protection: White
+42	Sanctum Custodian
+43	Sanctum Guardian
+44	Seasoned Marshal
+45	Serra Avatar
+46	Serra Zealot
+47	Serra's Embrace
+48	Serra's Hymn
+49	Serra's Liturgy
+50	Shimmering Barrier
+51	Silent Attendant
+52	Songstitcher
+53	Soul Sculptor
+54	Voice of Grace
+55	Voice of Law
+56	Waylay
+57	Worship
+58	Academy Researchers
+59	Annul
+60	Arcane Laboratory
+61	Attunement
+62	Back to Basics
+63	Barrin, Master Wizard
+64	Catalog
+65	Cloak of Mists
+66	Confiscate
+67	Coral Merfolk
+68	Curfew
+69	Disruptive Student
+70	Douse
+71	Drifting Djinn
+72	Enchantment Alteration
+73	Energy Field
+74	Exhaustion
+75	Fog Bank
+76	Gilded Drake
+77	Great Whale
+78	Hermetic Study
+79	Hibernation
+80	Horseshoe Crab
+81	Imaginary Pet
+82	Launch
+83	Lilting Refrain
+84	Lingering Mirage
+85	Morphling
+86	Pendrell Drake
+87	Pendrell Flux
+88	Peregrine Drake
+89	Power Sink
+90	Power Taint
+91	Recantation
+92	Rescind
+93	Rewind
+94	Sandbar Merfolk
+95	Sandbar Serpent
+96	Show and Tell
+97	Somnophore
+98	Spire Owl
+99	Stern Proctor
+100	Stroke of Genius
+101	Sunder
+102	Telepathy
+103	Time Spiral
+104	Tolarian Winds
+105	Turnabout
+106	Veil of Birds
+107	Veiled Apparition
+108	Veiled Crocodile
+109	Veiled Sentry
+110	Veiled Serpent
+111	Windfall
+112	Wizard Mentor
+113	Zephid
+114	Zephid's Embrace
+115	Abyssal Horror
+116	Befoul
+117	Bereavement
+118	Blood Vassal
+119	Bog Raiders
+120	Breach
+121	Cackling Fiend
+122	Carrion Beetles
+123	Contamination
+124	Corrupt
+125	Crazed Skirge
+126	Dark Hatchling
+127	Dark Ritual
+128	Darkest Hour
+129	Despondency
+130	Diabolic Servitude
+131	Discordant Dirge
+132	Duress
+133	Eastern Paladin
+134	Exhume
+135	Expunge
+136	Flesh Reaver
+137	Hollow Dogs
+138	Ill-Gotten Gains
+139	Looming Shade
+140	Lurking Evil
+141	Mana Leech
+142	No Rest for the Wicked
+143	Oppression
+144	Order of Yawgmoth
+145	Parasitic Bond
+146	Persecute
+147	Pestilence
+148	Phyrexian Ghoul
+149	Planar Void
+150	Priest of Gix
+151	Rain of Filth
+152	Ravenous Skirge
+153	Reclusive Wight
+154	Reprocess
+155	Sanguine Guard
+156	Sicken
+157	Skirge Familiar
+158	Skittering Skirge
+159	Sleeper Agent
+160	Spined Fluke
+161	Tainted Æther
+162	Unnerve
+163	Unworthy Dead
+164	Vampiric Embrace
+165	Vebulid
+166	Victimize
+167	Vile Requiem
+168	Western Paladin
+169	Witch Engine
+170	Yawgmoth's Edict
+171	Yawgmoth's Will
+172	Acidic Soil
+173	Antagonism
+174	Arc Lightning
+175	Bedlam
+176	Brand
+177	Bravado
+178	Bulwark
+179	Crater Hellion
+180	Destructive Urge
+181	Disorder
+182	Dromosaur
+183	Electryte
+184	Falter
+185	Fault Line
+186	Fiery Mantle
+187	Fire Ants
+188	Gamble
+189	Goblin Cadets
+190	Goblin Lackey
+191	Goblin Matron
+192	Goblin Offensive
+193	Goblin Patrol
+194	Goblin Raider
+195	Goblin Spelunkers
+196	Goblin War Buggy
+197	Guma
+198	Headlong Rush
+199	Heat Ray
+200	Jagged Lightning
+201	Lay Waste
+202	Lightning Dragon
+203	Meltdown
+204	Okk
+205	Outmaneuver
+206	Rain of Salt
+207	Raze
+208	Reflexes
+209	Retromancer
+210	Rumbling Crescendo
+211	Scald
+212	Scoria Wurm
+213	Scrap
+214	Shivan Hellkite
+215	Shivan Raptor
+216	Shiv's Embrace
+217	Shower of Sparks
+218	Sneak Attack
+219	Steam Blast
+220	Sulfuric Vapors
+221	Thundering Giant
+222	Torch Song
+223	Viashino Outrider
+224	Viashino Runner
+225	Viashino Sandswimmer
+226	Viashino Weaponsmith
+227	Vug Lizard
+228	Wildfire
+229	Abundance
+230	Acridian
+231	Albino Troll
+232	Anaconda
+233	Argothian Elder
+234	Argothian Enchantress
+235	Argothian Swine
+236	Argothian Wurm
+237	Blanchwood Armor
+238	Blanchwood Treefolk
+239	Bull Hippo
+240	Carpet of Flowers
+241	Cave Tiger
+242	Child of Gaea
+243	Citanul Centaurs
+244	Citanul Hierophants
+245	Cradle Guard
+246	Crosswinds
+247	Elvish Herder
+248	Elvish Lyrist
+249	Endless Wurm
+250	Exploration
+251	Fecundity
+252	Fertile Ground
+253	Fortitude
+254	Gaea's Bounty
+255	Gaea's Embrace
+256	Gorilla Warrior
+257	Greater Good
+258	Greener Pastures
+259	Hawkeater Moth
+260	Hidden Ancients
+261	Hidden Guerrillas
+262	Hidden Herd
+263	Hidden Predators
+264	Hidden Spider
+265	Hidden Stag
+266	Hush
+267	Lull
+268	Midsummer Revel
+269	Pouncing Jaguar
+270	Priest of Titania
+271	Rejuvenate
+272	Retaliation
+273	Sporogenesis
+274	Spreading Algae
+275	Symbiosis
+276	Titania's Boon
+277	Titania's Chosen
+278	Treefolk Seedlings
+279	Treetop Rangers
+280	Venomous Fangs
+281	Vernal Bloom
+282	War Dance
+283	Whirlwind
+284	Wild Dogs
+285	Winding Wurm
+286	Barrin's Codex
+287	Cathodion
+288	Chimeric Staff
+289	Citanul Flute
+290	Claws of Gix
+291	Copper Gnomes
+292	Crystal Chimes
+293	Dragon Blood
+294	Endoskeleton
+295	Fluctuator
+296	Grafted Skullcap
+297	Hopping Automaton
+298	Karn, Silver Golem
+299	Lifeline
+300	Lotus Blossom
+301	Metrognome
+302	Mishra's Helix
+303	Mobile Fort
+304	Noetic Scales
+305	Phyrexian Colossus
+306	Phyrexian Processor
+307	Pit Trap
+308	Purging Scythe
+309	Smokestack
+310	Temporal Aperture
+311	Thran Turbine
+312	Umbilicus
+313	Urza's Armor
+314	Voltaic Key
+315	Wall of Junk
+316	Whetstone
+317	Wirecat
+318	Worn Powerstone
+319	Blasted Landscape
+320	Drifting Meadow
+321	Gaea's Cradle
+322	Phyrexian Tower
+323	Polluted Mire
+324	Remote Isle
+325	Serra's Sanctum
+326	Shivan Gorge
+327	Slippery Karst
+328	Smoldering Crater
+329	Thran Quarry
+330	Tolarian Academy
+331	Plains
+332	Plains
+333	Plains
+334	Plains
+335	Island
+336	Island
+337	Island
+338	Island
+339	Swamp
+340	Swamp
+341	Swamp
+342	Swamp
+343	Mountain
+344	Mountain
+345	Mountain
+346	Mountain
+347	Forest
+348	Forest
+349	Forest
+350	Forest

@@ -1,0 +1,146 @@
+№   Card name
+1   Ardent Plea
+2   Aven Mimeomancer
+3   Ethercaste Knight
+4   Ethersworn Shieldmage
+5   Fieldmist Borderpost
+6   Filigree Angel
+7   Glassdust Hulk
+8   Meddling Mage
+9   Offering to Asha
+10  Sanctum Plowbeast
+11  Shield of the Righteous
+12  Sovereigns of Lost Alara
+13  Stormcaller's Boon
+14  Talon Trooper
+15  Unbender Tine
+16  Wall of Denial
+17  Architects of Will
+18  Brainbite
+19  Deny Reality
+20  Etherium Abomination
+21  Illusory Demon
+22  Jhessian Zombies
+23  Kathari Remnant
+24  Lich Lord of Unx
+25  Mask of Riddles
+26  Mind Funeral
+27  Mistvein Borderpost
+28  Nemesis of Reason
+29  Soul Manipulation
+30  Soulquake
+31  Time Sieve
+32  Vedalken Ghoul
+33  Anathemancer
+34  Bituminous Blast
+35  Breath of Malfegor
+36  Deathbringer Thoctar
+37  Defiler of Souls
+38  Demonic Dread
+39  Demonspine Whip
+40  Igneous Pouncer
+41  Kathari Bomber
+42  Lightning Reaver
+43  Monstrous Carabid
+44  Sanity Gnawers
+45  Singe-Mind Ogre
+46  Terminate
+47  Thought Hemorrhage
+48  Veinfire Borderpost
+49  Blitz Hellion
+50  Bloodbraid Elf
+51  Colossal Might
+52  Deadshot Minotaur
+53  Dragon Broodmother
+54  Firewild Borderpost
+55  Godtracker of Jund
+56  Gorger Wurm
+57  Mage Slayer
+58  Predatory Advantage
+59  Rhox Brute
+60  Spellbreaker Behemoth
+61  Valley Rannet
+62  Vengeful Rebirth
+63  Violent Outburst
+64  Vithian Renegades
+65  Behemoth Sledge
+66  Captured Sunlight
+67  Dauntless Escort
+68  Enlisted Wurm
+69  Grizzled Leotau
+70  Knight of New Alara
+71  Knotvine Paladin
+72  Leonin Armorguard
+73  Mycoid Shepherd
+74  Pale Recluse
+75  Qasali Pridemage
+76  Reborn Hope
+77  Sigil Captain
+78  Sigil of the Nayan Gods
+79  Sigiled Behemoth
+80  Wildfield Borderpost
+81  Identity Crisis
+82  Necromancer's Covenant
+83  Tainted Sigil
+84  Vectis Dominator
+85  Zealous Persecution
+86  Cloven Casting
+87  Double Negative
+88  Magefire Wings
+89  Skyclaw Thrash
+90  Spellbound Dragon
+91  Lord of Extinction
+92  Maelstrom Pulse
+93  Marrow Chomper
+94  Morbid Bloom
+95  Putrid Leech
+96  Cerodon Yearling
+97  Fight to the Death
+98  Glory of Warfare
+99  Intimidation Bolt
+100 Stun Sniper
+101 Lorescale Coatl
+102 Nulltread Gargantuan
+103 Sages of the Anima
+104 Vedalken Heretic
+105 Winged Coatl
+106 Enigma Sphinx
+107 Esper Sojourners
+108 Etherwrought Page
+109 Sen Triplets
+110 Sphinx of the Steel Wind
+111 Drastic Revelation
+112 Grixis Sojourners
+113 Thraximundar
+114 Unscythe, Killer of Kings
+115 Dragon Appeasement
+116 Jund Sojourners
+117 Karrthus, Tyrant of Jund
+118 Lavalanche
+119 Madrush Cyclops
+120 Gloryscale Viashino
+121 Mayael's Aria
+122 Naya Sojourners
+123 Retaliator Griffin
+124 Uril, the Miststalker
+125 Bant Sojourners
+126 Finest Hour
+127 Flurry of Wings
+128 Jenara, Asura of War
+129 Wargate
+130 Maelstrom Nexus
+131 Arsenal Thresher
+132 Esper Stormblade
+133 Thopter Foundry
+134 Grixis Grimblade
+135 Sewn-Eye Drake
+136 Slave of Bolas
+137 Giant Ambush Beetle
+138 Jund Hackblade
+139 Sangrite Backlash
+140 Marisi's Twinclaws
+141 Naya Hushblade
+142 Trace of Abundance
+143 Bant Sureblade
+144 Crystallization
+145 Messenger Falcons

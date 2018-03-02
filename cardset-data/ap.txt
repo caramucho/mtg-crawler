@@ -1,0 +1,149 @@
+№	Card name
+1	Angelfire Crusader
+2	Coalition Flag
+3	Coalition Honor Guard
+4	Dega Disciple
+5	Dega Sanctuary
+6	Degavolver
+7	Diversionary Tactics
+8	Divine Light
+9	Enlistment Officer
+10	False Dawn
+11	Gerrard Capashen
+12	Haunted Angel
+13	Helionaut
+14	Manacles of Decay
+15	Orim's Thunder
+16	Shield of Duty and Reason
+17	Spectral Lynx
+18	Standard Bearer
+19	Ceta Disciple
+20	Ceta Sanctuary
+21	Cetavolver
+22	Coastal Drake
+23	Evasive Action
+24	Ice Cave
+25	Index
+26	Jaded Response
+27	Jilt
+28	Living Airship
+29	Reef Shaman
+30	Shimmering Mirage
+31	Tidal Courier
+32	Unnatural Selection
+33	Vodalian Mystic
+34	Whirlpool Drake
+35	Whirlpool Rider
+36	Whirlpool Warrior
+37	Dead Ringers
+38	Desolation Angel
+39	Foul Presence
+40	Grave Defiler
+41	Last Caress
+42	Mind Extraction
+43	Mournful Zombie
+44	Necra Disciple
+45	Necra Sanctuary
+46	Necravolver
+47	Phyrexian Arena
+48	Phyrexian Gargantua
+49	Phyrexian Rager
+50	Planar Despair
+51	Quagmire Druid
+52	Suppress
+53	Urborg Uprising
+54	Zombie Boa
+55	Bloodfire Colossus
+56	Bloodfire Dwarf
+57	Bloodfire Infusion
+58	Bloodfire Kavu
+59	Desolation Giant
+60	Dwarven Landslide
+61	Dwarven Patrol
+62	Goblin Ringleader
+63	Illuminate
+64	Kavu Glider
+65	Minotaur Tactician
+66	Raka Disciple
+67	Raka Sanctuary
+68	Rakavolver
+69	Smash
+70	Tahngarth's Glare
+71	Tundra Kavu
+72	Wild Research
+73	Ana Disciple
+74	Ana Sanctuary
+75	Anavolver
+76	Bog Gnarr
+77	Gaea's Balance
+78	Glade Gnarr
+79	Kavu Howler
+80	Kavu Mauler
+81	Lay of the Land
+82	Penumbra Bobcat
+83	Penumbra Kavu
+84	Penumbra Wurm
+85	Savage Gorilla
+86	Strength of Night
+87	Sylvan Messenger
+88	Symbiotic Deployment
+89	Tranquil Path
+90	Urborg Elf
+91	Æther Mutation
+92	Captain's Maneuver
+93	Consume Strength
+94	Cromat
+95	Death Grasp
+96	Death Mutation
+97	Ebony Treefolk
+98	Fervent Charge
+99	Flowstone Charger
+100	Fungal Shambler
+101	Gaea's Skyfolk
+102	Gerrard's Verdict
+103	Goblin Legionnaire
+104	Goblin Trenches
+105	Guided Passage
+106	Jungle Barrier
+107	Last Stand
+108	Lightning Angel
+109	Llanowar Dead
+110	Martyrs' Tomb
+111	Minotaur Illusionist
+112	Mystic Snake
+113	Overgrown Estate
+114	Pernicious Deed
+115	Powerstone Minefield
+116	Prophetic Bolt
+117	Putrid Warrior
+118	Quicksilver Dagger
+119	Razorfin Hunter
+120	Soul Link
+121	Spiritmonger
+122	Squee's Embrace
+123	Squee's Revenge
+124	Suffocating Blast
+125	Temporal Spring
+126	Vindicate
+127	Yavimaya's Embrace
+128a	Fire (Fire/Ice)
+128b	Ice (Fire/Ice)
+129a	Illusion (Illusion/Reality)
+129b	Reality (Illusion/Reality)
+130a	Life (Life/Death)
+130b	Death (Life/Death)
+131a	Night (Night/Day)
+131b	Day (Night/Day)
+132a	Order (Order/Chaos)
+132b	Chaos (Order/Chaos)
+133	Brass Herald
+134	Dodecapod
+135	Dragon Arch
+136	Emblazoned Golem
+137	Legacy Weapon
+138	Mask of Intolerance
+139	Battlefield Forge
+140	Caves of Koilos
+141	Llanowar Wastes
+142	Shivan Reef
+143	Yavimaya Coast

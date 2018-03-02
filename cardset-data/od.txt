@@ -1,0 +1,351 @@
+№	Card name
+1	Aegis of Honor
+2	Ancestral Tribute
+3	Angelic Wall
+4	Animal Boneyard
+5	Auramancer
+6	Aven Archer
+7	Aven Cloudchaser
+8	Aven Flock
+9	Aven Shrine
+10	Balancing Act
+11	Beloved Chaplain
+12	Blessed Orator
+13	Cantivore
+14	Cease-Fire
+15	Confessor
+16	Dedicated Martyr
+17	Delaying Shield
+18	Devoted Caretaker
+19	Divine Sacrament
+20	Dogged Hunter
+21	Earnest Fellowship
+22	Embolden
+23	Gallantry
+24	Graceful Antelope
+25	Hallowed Healer
+26	Karmic Justice
+27	Kirtar's Desire
+28	Kirtar's Wrath
+29	Lieutenant Kirtar
+30	Life Burst
+31	Luminous Guardian
+32	Master Apothecary
+33	Mystic Crusader
+34	Mystic Penitent
+35	Mystic Visionary
+36	Mystic Zealot
+37	Nomad Decoy
+38	Patrol Hound
+39	Pianna, Nomad Captain
+40	Pilgrim of Justice
+41	Pilgrim of Virtue
+42	Ray of Distortion
+43	Resilient Wanderer
+44	Sacred Rites
+45	Second Thoughts
+46	Shelter
+47	Soulcatcher
+48	Sphere of Duty
+49	Sphere of Grace
+50	Sphere of Law
+51	Sphere of Reason
+52	Sphere of Truth
+53	Spiritualize
+54	Tattoo Ward
+55	Testament of Faith
+56	Tireless Tribe
+57	Wayward Angel
+58	Aboshan, Cephalid Emperor
+59	Aboshan's Desire
+60	Æther Burst
+61	Amugaba
+62	Aura Graft
+63	Aven Fisher
+64	Aven Smokeweaver
+65	Aven Windreader
+66	Balshan Beguiler
+67	Balshan Griffin
+68	Bamboozle
+69	Battle of Wits
+70	Careful Study
+71	Cephalid Broker
+72	Cephalid Looter
+73	Cephalid Retainer
+74	Cephalid Scout
+75	Cephalid Shrine
+76	Chamber of Manipulation
+77	Cognivore
+78	Concentrate
+79	Cultural Exchange
+80	Deluge
+81	Dematerialize
+82	Divert
+83	Dreamwinder
+84	Escape Artist
+85	Extract
+86	Fervent Denial
+87	Immobilizing Ink
+88	Laquatus's Creativity
+89	Patron Wizard
+90	Pedantic Learning
+91	Peek
+92	Persuasion
+93	Phantom Whelp
+94	Predict
+95	Psionic Gift
+96	Pulsating Illusion
+97	Puppeteer
+98	Repel
+99	Rites of Refusal
+100	Scrivener
+101	Shifty Doppelganger
+102	Standstill
+103	Syncopate
+104	Think Tank
+105	Thought Devourer
+106	Thought Eater
+107	Thought Nibbler
+108	Time Stretch
+109	Touch of Invisibility
+110	Traumatize
+111	Treetop Sentinel
+112	Unifying Theory
+113	Upheaval
+114	Words of Wisdom
+115	Afflict
+116	Bloodcurdler
+117	Braids, Cabal Minion
+118	Buried Alive
+119	Cabal Inquisitor
+120	Cabal Patriarch
+121	Cabal Shrine
+122	Caustic Tar
+123	Childhood Horror
+124	Coffin Purge
+125	Crypt Creeper
+126	Cursed Monstrosity
+127	Decaying Soil
+128	Decompose
+129	Diabolic Tutor
+130	Dirty Wererat
+131	Dusk Imp
+132	Entomb
+133	Execute
+134	Face of Fear
+135	Famished Ghoul
+136	Filthy Cur
+137	Fledgling Imp
+138	Frightcrawler
+139	Ghastly Demise
+140	Gravedigger
+141	Gravestorm
+142	Haunting Echoes
+143	Hint of Insanity
+144	Infected Vermin
+145	Innocent Blood
+146	Last Rites
+147	Malevolent Awakening
+148	Mind Burst
+149	Mindslicer
+150	Morbid Hunger
+151	Morgue Theft
+152	Mortivore
+153	Nefarious Lich
+154	Overeager Apprentice
+155	Painbringer
+156	Patriarch's Desire
+157	Repentant Vampire
+158	Rotting Giant
+159	Sadistic Hypnotist
+160	Screams of the Damned
+161	Skeletal Scrying
+162	Skull Fracture
+163	Stalking Bloodsucker
+164	Tainted Pact
+165	Tombfire
+166	Traveling Plague
+167	Whispering Shade
+168	Zombie Assassin
+169	Zombie Cannibal
+170	Zombie Infestation
+171	Zombify
+172	Acceptable Losses
+173	Anarchist
+174	Ashen Firebeast
+175	Barbarian Lunatic
+176	Bash to Bits
+177	Battle Strain
+178	Blazing Salvo
+179	Bomb Squad
+180	Burning Sands
+181	Chainflinger
+182	Chance Encounter
+183	Demolish
+184	Demoralize
+185	Dwarven Grunt
+186	Dwarven Recruiter
+187	Dwarven Shrine
+188	Dwarven Strike Force
+189	Earth Rift
+190	Ember Beast
+191	Engulfing Flames
+192	Epicenter
+193	Firebolt
+194	Flame Burst
+195	Frenetic Ogre
+196	Halberdier
+197	Impulsive Maneuvers
+198	Kamahl, Pit Fighter
+199	Kamahl's Desire
+200	Lava Blister
+201	Liquid Fire
+202	Mad Dog
+203	Magma Vein
+204	Magnivore
+205	Mine Layer
+206	Minotaur Explorer
+207	Molten Influence
+208	Mudhole
+209	Need for Speed
+210	Obstinate Familiar
+211	Pardic Firecat
+212	Pardic Miner
+213	Pardic Swordsmith
+214	Price of Glory
+215	Reckless Charge
+216	Recoup
+217	Rites of Initiation
+218	Savage Firecat
+219	Scorching Missile
+220	Seize the Day
+221	Shower of Coals
+222	Spark Mage
+223	Steam Vines
+224	Thermal Blast
+225	Tremble
+226	Volcanic Spray
+227	Volley of Boulders
+228	Whipkeeper
+229	Bearscape
+230	Beast Attack
+231	Call of the Herd
+232	Cartographer
+233	Chatter of the Squirrel
+234	Chlorophant
+235	Crashing Centaur
+236	Deep Reconnaissance
+237	Diligent Farmhand
+238	Druid Lyrist
+239	Druid's Call
+240	Elephant Ambush
+241	Gorilla Titan
+242	Ground Seal
+243	Holistic Wisdom
+244	Howling Gale
+245	Ivy Elemental
+246	Krosan Archer
+247	Krosan Avenger
+248	Krosan Beast
+249	Leaf Dancer
+250	Metamorphic Wurm
+251	Moment's Peace
+252	Muscle Burst
+253	Nantuko Disciple
+254	Nantuko Elder
+255	Nantuko Mentor
+256	Nantuko Shrine
+257	New Frontiers
+258	Nimble Mongoose
+259	Nut Collector
+260	Overrun
+261	Piper's Melody
+262	Primal Frenzy
+263	Rabid Elephant
+264	Refresh
+265	Rites of Spring
+266	Roar of the Wurm
+267	Seton, Krosan Protector
+268	Seton's Desire
+269	Simplify
+270	Skyshooter
+271	Spellbane Centaur
+272	Springing Tiger
+273	Squirrel Mob
+274	Squirrel Nest
+275	Still Life
+276	Stone-Tongue Basilisk
+277	Sylvan Might
+278	Terravore
+279	Twigwalker
+280	Verdant Succession
+281	Vivify
+282	Werebear
+283	Wild Mongrel
+284	Woodland Druid
+285	Zoologist
+286	Atogatog
+287	Decimate
+288	Iridescent Angel
+289	Lithatog
+290	Mystic Enforcer
+291	Phantatog
+292	Psychatog
+293	Sarcatog
+294	Shadowmage Infiltrator
+295	Thaumatog
+296	Vampiric Dragon
+297	Catalyst Stone
+298	Charmed Pendant
+299	Darkwater Egg
+300	Junk Golem
+301	Limestone Golem
+302	Millikin
+303	Mirari
+304	Mossfire Egg
+305	Otarian Juggernaut
+306	Patchwork Gnomes
+307	Sandstone Deadfall
+308	Shadowblood Egg
+309	Skycloud Egg
+310	Steamclaw
+311	Sungrass Egg
+312	Abandoned Outpost
+313	Barbarian Ring
+314	Bog Wreckage
+315	Cabal Pit
+316	Centaur Garden
+317	Cephalid Coliseum
+318	Crystal Quarry
+319	Darkwater Catacombs
+320	Deserted Temple
+321	Mossfire Valley
+322	Nomad Stadium
+323	Petrified Field
+324	Ravaged Highlands
+325	Seafloor Debris
+326	Shadowblood Ridge
+327	Skycloud Expanse
+328	Sungrass Prairie
+329	Tarnished Citadel
+330	Timberland Ruins
+331	Plains
+332	Plains
+333	Plains
+334	Plains
+335	Island
+336	Island
+337	Island
+338	Island
+339	Swamp
+340	Swamp
+341	Swamp
+342	Swamp
+343	Mountain
+344	Mountain
+345	Mountain
+346	Mountain
+347	Forest
+348	Forest
+349	Forest
+350	Forest

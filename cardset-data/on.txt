@@ -1,0 +1,351 @@
+№	Card name
+1	Akroma's Blessing
+2	Akroma's Vengeance
+3	Ancestor's Prophet
+4	Astral Slide
+5	Aura Extraction
+6	Aurification
+7	Aven Brigadier
+8	Aven Soulgazer
+9	Battlefield Medic
+10	Catapult Master
+11	Catapult Squad
+12	Chain of Silence
+13	Circle of Solace
+14	Convalescent Care
+15	Crowd Favorites
+16	Crown of Awe
+17	Crude Rampart
+18	Daru Cavalier
+19	Daru Healer
+20	Daru Lancer
+21	Daunting Defender
+22	Dawning Purist
+23	Defensive Maneuvers
+24	Demystify
+25	Disciple of Grace
+26	Dive Bomber
+27	Doubtless One
+28	Exalted Angel
+29	Foothill Guide
+30	Glarecaster
+31	Glory Seeker
+32	Grassland Crusader
+33	Gravel Slinger
+34	Gustcloak Harrier
+35	Gustcloak Runner
+36	Gustcloak Savior
+37	Gustcloak Sentinel
+38	Gustcloak Skirmisher
+39	Harsh Mercy
+40	Improvised Armor
+41	Inspirit
+42	Ironfist Crusher
+43	Jareth, Leonine Titan
+44	Mobilization
+45	Nova Cleric
+46	Oblation
+47	Pacifism
+48	Pearlspear Courier
+49	Piety Charm
+50	Renewed Faith
+51	Righteous Cause
+52	Sandskin
+53	Shared Triumph
+54	Shieldmage Elder
+55	Sigil of the New Dawn
+56	Sunfire Balm
+57	True Believer
+58	Unified Strike
+59	Weathered Wayfarer
+60	Whipcorder
+61	Words of Worship
+62	Airborne Aid
+63	Annex
+64	Aphetto Alchemist
+65	Aphetto Grifter
+66	Arcanis the Omnipotent
+67	Artificial Evolution
+68	Ascending Aven
+69	Aven Fateshaper
+70	Backslide
+71	Blatant Thievery
+72	Callous Oppressor
+73	Chain of Vapor
+74	Choking Tethers
+75	Clone
+76	Complicate
+77	Crafty Pathmage
+78	Crown of Ascension
+79	Discombobulate
+80	Dispersing Orb
+81	Disruptive Pitmage
+82	Essence Fracture
+83	Fleeting Aven
+84	Future Sight
+85	Ghosthelm Courier
+86	Graxiplon
+87	Imagecrafter
+88	Information Dealer
+89	Ixidor, Reality Sculptor
+90	Ixidor's Will
+91	Mage's Guile
+92	Meddle
+93	Mistform Dreamer
+94	Mistform Mask
+95	Mistform Mutant
+96	Mistform Shrieker
+97	Mistform Skyreaver
+98	Mistform Stalker
+99	Mistform Wall
+100	Nameless One
+101	Peer Pressure
+102	Psychic Trance
+103	Quicksilver Dragon
+104	Read the Runes
+105	Reminisce
+106	Riptide Biologist
+107	Riptide Chronologist
+108	Riptide Entrancer
+109	Riptide Shapeshifter
+110	Rummaging Wizard
+111	Sage Aven
+112	Screaming Seahawk
+113	Sea's Claim
+114	Slipstream Eel
+115	Spy Network
+116	Standardize
+117	Supreme Inquisitor
+118	Trade Secrets
+119	Trickery Charm
+120	Voidmage Prodigy
+121	Wheel and Deal
+122	Words of Wind
+123	Accursed Centaur
+124	Anurid Murkdiver
+125	Aphetto Dredging
+126	Aphetto Vulture
+127	Blackmail
+128	Boneknitter
+129	Cabal Archon
+130	Cabal Executioner
+131	Cabal Slaver
+132	Chain of Smog
+133	Cover of Darkness
+134	Crown of Suspicion
+135	Cruel Revival
+136	Death Match
+137	Death Pulse
+138	Dirge of Dread
+139	Disciple of Malice
+140	Doomed Necromancer
+141	Ebonblade Reaper
+142	Endemic Plague
+143	Entrails Feaster
+144	Fade from Memory
+145	Fallen Cleric
+146	False Cure
+147	Feeding Frenzy
+148	Festering Goblin
+149	Frightshroud Courier
+150	Gangrenous Goliath
+151	Gluttonous Zombie
+152	Gravespawn Sovereign
+153	Grinning Demon
+154	Haunted Cadaver
+155	Head Games
+156	Headhunter
+157	Infest
+158	Misery Charm
+159	Nantuko Husk
+160	Oversold Cemetery
+161	Patriarch's Bidding
+162	Profane Prayers
+163	Prowling Pangolin
+164	Rotlung Reanimator
+165	Screeching Buzzard
+166	Severed Legion
+167	Shade's Breath
+168	Shepherd of Rot
+169	Silent Specter
+170	Smother
+171	Soulless One
+172	Spined Basher
+173	Strongarm Tactics
+174	Swat
+175	Syphon Mind
+176	Syphon Soul
+177	Thrashing Mudspawn
+178	Undead Gladiator
+179	Visara the Dreadful
+180	Walking Desecration
+181	Withering Hex
+182	Words of Waste
+183	Wretched Anurid
+184	Æther Charge
+185	Aggravated Assault
+186	Airdrop Condor
+187	Avarax
+188	Battering Craghorn
+189	Blistering Firecat
+190	Break Open
+191	Brightstone Ritual
+192	Butcher Orgg
+193	Chain of Plasma
+194	Charging Slateback
+195	Commando Raid
+196	Crown of Fury
+197	Custody Battle
+198	Dragon Roost
+199	Dwarven Blastminer
+200	Embermage Goblin
+201	Erratic Explosion
+202	Fever Charm
+203	Flamestick Courier
+204	Goblin Machinist
+205	Goblin Piledriver
+206	Goblin Pyromancer
+207	Goblin Sharpshooter
+208	Goblin Sky Raider
+209	Goblin Sledder
+210	Goblin Taskmaster
+211	Grand Melee
+212	Gratuitous Violence
+213	Insurrection
+214	Kaboom!
+215	Lavamancer's Skill
+216	Lay Waste
+217	Lightning Rift
+218	Mana Echoes
+219	Menacing Ogre
+220	Nosy Goblin
+221	Pinpoint Avalanche
+222	Reckless One
+223	Risky Move
+224	Rorix Bladewing
+225	Searing Flesh
+226	Shaleskin Bruiser
+227	Shock
+228	Skirk Commando
+229	Skirk Fire Marshal
+230	Skirk Prospector
+231	Skittish Valesk
+232	Slice and Dice
+233	Snapping Thragg
+234	Solar Blast
+235	Sparksmith
+236	Spitfire Handler
+237	Spurred Wolverine
+238	Starstorm
+239	Tephraderm
+240	Thoughtbound Primoc
+241	Threaten
+242	Thunder of Hooves
+243	Wave of Indifference
+244	Words of War
+245	Animal Magnetism
+246	Barkhide Mauler
+247	Biorhythm
+248	Birchlore Rangers
+249	Bloodline Shaman
+250	Broodhatch Nantuko
+251	Centaur Glade
+252	Chain of Acid
+253	Crown of Vigor
+254	Elven Riders
+255	Elvish Guidance
+256	Elvish Pathcutter
+257	Elvish Pioneer
+258	Elvish Scrapper
+259	Elvish Vanguard
+260	Elvish Warrior
+261	Enchantress's Presence
+262	Everglove Courier
+263	Explosive Vegetation
+264	Gigapede
+265	Heedless One
+266	Hystrodon
+267	Invigorating Boon
+268	Kamahl, Fist of Krosa
+269	Kamahl's Summons
+270	Krosan Colossus
+271	Krosan Groundshaker
+272	Krosan Tusker
+273	Leery Fogbeast
+274	Mythic Proportions
+275	Naturalize
+276	Overwhelming Instinct
+277	Primal Boost
+278	Ravenous Baloth
+279	Run Wild
+280	Serpentine Basilisk
+281	Silklash Spider
+282	Silvos, Rogue Elemental
+283	Snarling Undorak
+284	Spitting Gourna
+285	Stag Beetle
+286	Steely Resolve
+287	Symbiotic Beast
+288	Symbiotic Elf
+289	Symbiotic Wurm
+290	Taunting Elf
+291	Tempting Wurm
+292	Towering Baloth
+293	Treespring Lorian
+294	Tribal Unity
+295	Venomspout Brackus
+296	Vitality Charm
+297	Voice of the Woods
+298	Wall of Mulch
+299	Weird Harvest
+300	Wellwisher
+301	Wirewood Elf
+302	Wirewood Herald
+303	Wirewood Pride
+304	Wirewood Savage
+305	Words of Wilding
+306	Cryptic Gateway
+307	Doom Cannon
+308	Dream Chisel
+309	Riptide Replicator
+310	Slate of Ancestry
+311	Tribal Golem
+312	Barren Moor
+313	Bloodstained Mire
+314	Contested Cliffs
+315	Daru Encampment
+316	Flooded Strand
+317	Forgotten Cave
+318	Goblin Burrows
+319	Grand Coliseum
+320	Lonely Sandbar
+321	Polluted Delta
+322	Riptide Laboratory
+323	Seaside Haven
+324	Secluded Steppe
+325	Starlit Sanctum
+326	Tranquil Thicket
+327	Unholy Grotto
+328	Windswept Heath
+329	Wirewood Lodge
+330	Wooded Foothills
+331	Plains
+332	Plains
+333	Plains
+334	Plains
+335	Island
+336	Island
+337	Island
+338	Island
+339	Swamp
+340	Swamp
+341	Swamp
+342	Swamp
+343	Mountain
+344	Mountain
+345	Mountain
+346	Mountain
+347	Forest
+348	Forest
+349	Forest
+350	Forest

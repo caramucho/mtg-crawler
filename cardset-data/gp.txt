@@ -1,0 +1,166 @@
+№	Card name
+1	Absolver Thrull
+2	Belfry Spirit
+3	Benediction of Moons
+4	Droning Bureaucrats
+5	Ghost Warden
+6	Ghostway
+7	Graven Dominator
+8	Guardian's Magemark
+9	Harrier Griffin
+10	Leyline of the Meek
+11	Lionheart Maverick
+12	Martyred Rusalka
+13	Order of the Stars
+14	Shadow Lance
+15	Shrieking Grotesque
+16	Sinstriker's Will
+17	Skyrider Trainee
+18	Spelltithe Enforcer
+19	Storm Herd
+20	To Arms!
+21	Withstand
+22	Ætherplasm
+23	Crystal Seer
+24	Drowned Rusalka
+25	Frazzle
+26	Gigadrowse
+27	Hatching Plans
+28	Infiltrator's Magemark
+29	Leyline of Singularity
+30	Mimeofacture
+31	Quicken
+32	Repeal
+33	Runeboggle
+34	Sky Swallower
+35	Steamcore Weird
+36	Stratozeppelid
+37	Thunderheads
+38	Torch Drake
+39	Train of Thought
+40	Vacuumelt
+41	Vedalken Plotter
+42	Vertigo Spawn
+43	Abyssal Nocturnus
+44	Caustic Rain
+45	Cremate
+46	Cry of Contrition
+47	Cryptwailing
+48	Daggerclaw Imp
+49	Douse in Gloom
+50	Exhumer Thrull
+51	Hissing Miasma
+52	Leyline of the Void
+53	Necromancer's Magemark
+54	Orzhov Euthanist
+55	Ostiary Thrull
+56	Plagued Rusalka
+57	Poisonbelly Ogre
+58	Restless Bones
+59	Revenant Patriarch
+60	Sanguine Praetor
+61	Seize the Soul
+62	Skeletal Vampire
+63	Smogsteed Rider
+64	Bloodscale Prowler
+65	Fencer's Magemark
+66	Ghor-Clan Bloodscale
+67	Hypervolt Grasp
+68	Leyline of Lightning
+69	Living Inferno
+70	Ogre Savant
+71	Parallectric Feedback
+72	Pyromatics
+73	Rabble-Rouser
+74	Scorched Rusalka
+75	Shattering Spree
+76	Siege of Towers
+77	Skarrgan Firebird
+78	Tin Street Hooligan
+79	Battering Wurm
+80	Beastmaster's Magemark
+81	Bioplasm
+82	Crash Landing
+83	Dryad Sophisticate
+84	Earth Surge
+85	Gatherer of Graces
+86	Ghor-Clan Savage
+87	Gristleback
+88	Gruul Nodorog
+89	Gruul Scrapper
+90	Leyline of Lifeforce
+91	Petrified Wood-Kin
+92	Predatory Focus
+93	Primeval Light
+94	Silhana Ledgewalker
+95	Silhana Starfletcher
+96	Skarrgan Pit-Skulk
+97	Starved Rusalka
+98	Wildsize
+99	Wurmweaver Coil
+100	Agent of Masks
+101	Angel of Despair
+102	Blind Hunter
+103	Borborygmos
+104	Burning-Tree Bloodscale
+105	Burning-Tree Shaman
+106	Castigate
+107	Cerebral Vortex
+108	Conjurer's Ban
+109	Culling Sun
+110	Dune-Brood Nephilim
+111	Electrolyze
+112	Feral Animist
+113	Gelectrode
+114	Ghost Council of Orzhova
+115	Glint-Eye Nephilim
+116	Goblin Flectomancer
+117	Ink-Treader Nephilim
+118	Invoke the Firemind
+119	Izzet Chronarch
+120	Killer Instinct
+121	Leap of Flame
+122	Mortify
+123	Niv-Mizzet, the Firemind
+124	Orzhov Pontiff
+125	Pillory of the Sleepless
+126	Rumbling Slum
+127	Savage Twister
+128	Scab-Clan Mauler
+129	Schismotivate
+130	Skarrgan Skybreaker
+131	Souls of the Faultless
+132	Stitch in Time
+133	Streetbreaker Wurm
+134	Teysa, Orzhov Scion
+135	Tibor and Lumia
+136	Ulasht, the Hate Seed
+137	Wee Dragonauts
+138	Witch-Maw Nephilim
+139	Wreak Havoc
+140	Yore-Tiller Nephilim
+141	Debtors' Knell
+142	Djinn Illuminatus
+143	Giant Solifuge
+144	Gruul Guildmage
+145	Izzet Guildmage
+146	Mourning Thrull
+147	Orzhov Guildmage
+148	Petrahydrox
+149	Wild Cantor
+150	Gruul Signet
+151	Gruul War Plow
+152	Izzet Signet
+153	Mizzium Transreliquat
+154	Moratorium Stone
+155	Orzhov Signet
+156	Sword of the Paruns
+157	Godless Shrine
+158	Gruul Turf
+159	Izzet Boilerworks
+160	Nivix, Aerie of the Firemind
+161	Orzhov Basilica
+162	Orzhova, the Church of Deals
+163	Skarrg, the Rage Pits
+164	Steam Vents
+165	Stomping Ground

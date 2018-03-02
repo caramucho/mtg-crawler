@@ -1,0 +1,144 @@
+№	Card name
+1	Angelic Curator
+2	Blessed Reversal
+3	Burst of Energy
+4	Cessation
+5	Defender of Law
+6	Devout Harpist
+7	Erase
+8	Expendable Troops
+9	Hope and Glory
+10	Iron Will
+11	Karmic Guide
+12	Knighthood
+13	Martyr's Cause
+14	Mother of Runes
+15	Opal Avenger
+16	Opal Champion
+17	Peace and Quiet
+18	Planar Collapse
+19	Purify
+20	Radiant, Archangel
+21	Radiant's Dragoons
+22	Radiant's Judgment
+23	Sustainer of the Realm
+24	Tragic Poet
+25	Anthroplasm
+26	Archivist
+27	Aura Flux
+28	Bouncing Beebles
+29	Cloud of Faeries
+30	Delusions of Mediocrity
+31	Fleeting Image
+32	Frantic Search
+33	Intervene
+34	King Crab
+35	Levitation
+36	Miscalculation
+37	Opportunity
+38	Palinchron
+39	Raven Familiar
+40	Rebuild
+41	Second Chance
+42	Slow Motion
+43	Snap
+44	Thornwind Faeries
+45	Tinker
+46	Vigilant Drake
+47	Walking Sponge
+48	Weatherseed Faeries
+49	Bone Shredder
+50	Brink of Madness
+51	Engineered Plague
+52	Eviscerator
+53	Fog of Gnats
+54	Giant Cockroach
+55	Lurking Skirge
+56	No Mercy
+57	Ostracize
+58	Phyrexian Broodlings
+59	Phyrexian Debaser
+60	Phyrexian Defiler
+61	Phyrexian Denouncer
+62	Phyrexian Plaguelord
+63	Phyrexian Reclamation
+64	Plague Beetle
+65	Rank and File
+66	Sick and Tired
+67	Sleeper's Guile
+68	Subversion
+69	Swat
+70	Tethered Skirge
+71	Treacherous Link
+72	Unearth
+73	About Face
+74	Avalanche Riders
+75	Defender of Chaos
+76	Ghitu Fire-Eater
+77	Ghitu Slinger
+78	Ghitu War Cry
+79	Goblin Medics
+80	Goblin Welder
+81	Granite Grip
+82	Impending Disaster
+83	Last-Ditch Effort
+84	Lava Axe
+85	Molten Hydra
+86	Parch
+87	Pygmy Pyrosaur
+88	Pyromancy
+89	Rack and Ruin
+90	Rivalry
+91	Shivan Phoenix
+92	Sluggishness
+93	Viashino Bey
+94	Viashino Cutthroat
+95	Viashino Heretic
+96	Viashino Sandscout
+97	Bloated Toad
+98	Crop Rotation
+99	Darkwatch Elves
+100	Defense of the Heart
+101	Deranged Hermit
+102	Gang of Elk
+103	Harmonic Convergence
+104	Hidden Gibbons
+105	Lone Wolf
+106	Might of Oaks
+107	Multani, Maro-Sorcerer
+108	Multani's Acolyte
+109	Multani's Presence
+110	Rancor
+111	Repopulate
+112	Silk Net
+113	Simian Grunts
+114	Treefolk Mystic
+115	Weatherseed Elf
+116	Weatherseed Treefolk
+117	Wing Snare
+118	Yavimaya Granger
+119	Yavimaya Scion
+120	Yavimaya Wurm
+121	Angel's Trumpet
+122	Beast of Burden
+123	Crawlspace
+124	Damping Engine
+125	Defense Grid
+126	Grim Monolith
+127	Iron Maiden
+128	Jhoira's Toolbox
+129	Memory Jar
+130	Quicksilver Amulet
+131	Ring of Gix
+132	Scrapheap
+133	Thran Lens
+134	Thran War Machine
+135	Thran Weaponry
+136	Ticking Gnomes
+137	Urza's Blueprints
+138	Wheel of Torture
+139	Faerie Conclave
+140	Forbidding Watchtower
+141	Ghitu Encampment
+142	Spawning Pool
+143	Treetop Village

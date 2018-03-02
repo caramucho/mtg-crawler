@@ -1,0 +1,343 @@
+№	Card name
+1	Bastion Protector
+2	Dawnbreak Reclaimer
+3	Grasp of Fate
+4	Herald of the Host
+5	Kalemne's Captain
+6	Oreskos Explorer
+7	Righteous Confluence
+8	Shielded by Faith
+9	Æthersnatch
+10	Broodbirth Viper
+11	Gigantoplasm
+12	Illusory Ambusher
+13	Mirror Match
+14	Mystic Confluence
+15	Synthetic Destiny
+16	Banshee of the Dread Choir
+17	Corpse Augur
+18	Daxos's Torment
+19	Deadly Tempest
+20	Dread Summons
+21	Scourge of Nel Toth
+22	Thief of Blood
+23	Wretched Confluence
+24	Awaken the Sky Tyrant
+25	Dream Pillager
+26	Fiery Confluence
+27	Magus of the Wheel
+28	Meteor Blast
+29	Mizzix's Mastery
+30	Rite of the Raging Storm
+31	Warchief Giant
+32	Arachnogenesis
+33	Bloodspore Thrinax
+34	Caller of the Pack
+35	Centaur Vinecrasher
+36	Ezuri's Predation
+37	Great Oak Guardian
+38	Pathbreaker Ibex
+39	Skullwinder
+40	Verdant Confluence
+41	Anya, Merciless Angel
+42	Arjun, the Shifting Flame
+43	Daxos the Returned
+44	Ezuri, Claw of Progress
+45	Kalemne, Disciple of Iroas
+46	Karlov of the Ghost Council
+47	Kaseto, Orochi Archmage
+48	Mazirek, Kraul Death Priest
+49	Meren of Clan Nel Toth
+50	Mizzix of the Izmagnus
+51	Blade of Selves
+52	Sandstone Oracle
+53	Scytheclaw
+54	Seal of the Guildpact
+55	Thought Vessel
+56	Command Beacon
+57	Ajani's Chosen
+58	Angel of Serenity
+59	Arbiter of Knollridge
+60	Aura of Silence
+61	Banishing Light
+62	Cage of Hands
+63	Celestial Ancient
+64	Celestial Archon
+65	Crib Swap
+66	Dawn to Dusk
+67	Dawnglare Invoker
+68	Dictate of Heliod
+69	Faith's Fetters
+70	Ghostblade Eidolon
+71	Jareth, Leonine Titan
+72	Karmic Justice
+73	Kor Sanctifiers
+74	Marshal's Anthem
+75	Mesa Enchantress
+76	Monk Idealist
+77	Open the Vaults
+78	Orim's Thunder
+79	Seal of Cleansing
+80	Sigil of the Empty Throne
+81	Silent Sentinel
+82	Sun Titan
+83	Victory's Herald
+84	Vow of Duty
+85	Ætherize
+86	Bident of Thassa
+87	Blatant Thievery
+88	Blue Sun's Zenith
+89	Blustersquall
+90	Brainstorm
+91	Day of the Dragons
+92	Dominate
+93	Echoing Truth
+94	Fact or Fiction
+95	Jace's Archivist
+96	Lone Revenant
+97	Mulldrifter
+98	Mystic Retrieval
+99	Ninja of the Deep Hours
+100	Plaxmanta
+101	Preordain
+102	Rapid Hybridization
+103	Reins of Power
+104	Repeal
+105	Rite of Replication
+106	Sleep
+107	Stolen Goods
+108	Stroke of Genius
+109	Talrand, Sky Summoner
+110	Thought Reflection
+111	Windfall
+112	Altar's Reap
+113	Ambition's Cost
+114	Ancient Craving
+115	Barter in Blood
+116	Black Market
+117	Blood Bairn
+118	Butcher of Malakir
+119	Champion of Stray Souls
+120	Diabolic Servitude
+121	Doomwake Giant
+122	Dreadbringer Lampads
+123	Eater of Hope
+124	Extractor Demon
+125	Fallen Ideal
+126	Fate Unraveler
+127	Gild
+128	Grave Peril
+129	Nighthowler
+130	Phyrexian Arena
+131	Phyrexian Plaguelord
+132	Phyrexian Rager
+133	Phyrexian Reclamation
+134	Rise from the Grave
+135	Seal of Doom
+136	Sever the Bloodline
+137	Shriekmaw
+138	Underworld Connections
+139	Victimize
+140	Vow of Malice
+141	Act of Aggression
+142	Borderland Behemoth
+143	Breath of Darigaaz
+144	Chain Reaction
+145	Charmbreaker Devils
+146	Comet Storm
+147	Curse of the Nightly Hunt
+148	Desolation Giant
+149	Desperate Ravings
+150	Disaster Radius
+151	Dragon Mage
+152	Earthquake
+153	Faithless Looting
+154	Fall of the Hammer
+155	Fumiko the Lowblood
+156	Hamletback Goliath
+157	Hammerfist Giant
+158	Hostility
+159	Hunted Dragon
+160	Inferno Titan
+161	Magma Giant
+162	Magmaquake
+163	Mizzium Mortars
+164	Stinkdrinker Daredevil
+165	Stoneshock Giant
+166	Sunrise Sovereign
+167	Taurean Mauler
+168	Thundercloud Shaman
+169	Urza's Rage
+170	Vandalblast
+171	Warstorm Surge
+172	Word of Seizing
+173	Acidic Slime
+174	Arbor Colossus
+175	Bane of Progress
+176	Beastmaster Ascension
+177	Caller of the Claw
+178	Chameleon Colossus
+179	Cloudthresher
+180	Cobra Trap
+181	Desert Twister
+182	Elvish Visionary
+183	Eternal Witness
+184	Experiment One
+185	Forgotten Ancient
+186	Indrik Stomphowler
+187	Kessig Cagebreakers
+188	Kodama's Reach
+189	Krosan Grip
+190	Loaming Shaman
+191	Mulch
+192	Mycoloth
+193	Noble Quarry
+194	Ohran Viper
+195	Overrun
+196	Overwhelming Stampede
+197	Patagia Viper
+198	Primal Growth
+199	Rampant Growth
+200	Sakura-Tribe Elder
+201	Satyr Wayfinder
+202	Spider Spawning
+203	Stingerfling Spider
+204	Terastodon
+205	Thelonite Hermit
+206	Tribute to the Wild
+207	Verdant Force
+208	Viridian Emissary
+209	Viridian Shaman
+210	Viridian Zealot
+211	Wall of Blossoms
+212	Wood Elves
+213	Coiling Oracle
+214	Counterflux
+215	Death Grasp
+216	Epic Experiment
+217	Etherium-Horn Sorcerer
+218	Firemind's Foresight
+219	Gisela, Blade of Goldnight
+220	Goblin Electromancer
+221	Golgari Charm
+222	Grisly Salvage
+223	Jarad, Golgari Lich Lord
+224	Korozda Guildmage
+225	Lorescale Coatl
+226	Lotleth Troll
+227	Melek, Izzet Paragon
+228	Mystic Snake
+229	Necromancer's Covenant
+230	Prime Speaker Zegana
+231	Prophetic Bolt
+232	Putrefy
+233	Steam Augury
+234	Teysa, Envoy of Ghosts
+235	Treasury Thrull
+236	Trygon Predator
+237	Underworld Coinsmith
+238	Vulturous Zombie
+239	Biomantic Mastery
+240	Call the Skybreaker
+241	Cold-Eyed Selkie
+242	Snakeform
+243	Wistful Selkie
+244	Basalt Monolith
+245	Bonehoard
+246	Boros Cluestone
+247	Boros Signet
+248	Burnished Hart
+249	Coldsteel Heart
+250	Crystal Chimes
+251	Darksteel Ingot
+252	Dreamstone Hedron
+253	Eldrazi Monument
+254	Fellwar Stone
+255	Golgari Signet
+256	Izzet Signet
+257	Lightning Greaves
+258	Loxodon Warhammer
+259	Mind Stone
+260	Orochi Hatchery
+261	Orzhov Cluestone
+262	Orzhov Signet
+263	Psychosis Crawler
+264	Seer's Sundial
+265	Simic Keyrune
+266	Simic Signet
+267	Skullclamp
+268	Sol Ring
+269	Solemn Simulacrum
+270	Staff of Nin
+271	Swiftfoot Boots
+272	Sword of Vengeance
+273	Urza's Incubator
+274	Wayfarer's Bauble
+275	Worn Powerstone
+276	Ancient Amphitheater
+277	Barren Moor
+278	Blasted Landscape
+279	Boros Garrison
+280	Boros Guildgate
+281	Command Tower
+282	Drifting Meadow
+283	Evolving Wilds
+284	Forgotten Cave
+285	Ghost Quarter
+286	Golgari Guildgate
+287	Golgari Rot Farm
+288	Grim Backwoods
+289	High Market
+290	Izzet Boilerworks
+291	Izzet Guildgate
+292	Jungle Hollow
+293	Llanowar Reborn
+294	Mosswort Bridge
+295	New Benalia
+296	Novijen, Heart of Progress
+297	Oran-Rief, the Vastwood
+298	Orzhov Basilica
+299	Orzhov Guildgate
+300	Polluted Mire
+301	Reliquary Tower
+302	Rogue's Passage
+303	Scoured Barrens
+304	Secluded Steppe
+305	Simic Growth Chamber
+306	Simic Guildgate
+307	Slippery Karst
+308	Smoldering Crater
+309	Spinerock Knoll
+310	Swiftwater Cliffs
+311	Tainted Field
+312	Tainted Wood
+313	Temple of the False God
+314	Terramorphic Expanse
+315	Thornwood Falls
+316	Vivid Crag
+317	Vivid Creek
+318	Vivid Grove
+319	Vivid Marsh
+320	Vivid Meadow
+321	Wind-Scarred Crag
+322	Zoetic Cavern
+323	Plains
+324	Plains
+325	Plains
+326	Plains
+327	Island
+328	Island
+329	Island
+330	Island
+331	Swamp
+332	Swamp
+333	Swamp
+334	Swamp
+335	Mountain
+336	Mountain
+337	Mountain
+338	Mountain
+339	Forest
+340	Forest
+341	Forest
+342	Forest

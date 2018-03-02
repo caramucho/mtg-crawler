@@ -1,0 +1,166 @@
+№	Card name
+1	Abuna's Chant
+2	Armed Response
+3	Auriok Champion
+4	Auriok Salvagers
+5	Auriok Windwalker
+6	Beacon of Immortality
+7	Bringer of the White Dawn
+8	Circle of Protection: Artifacts
+9	Leonin Squire
+10	Loxodon Anchorite
+11	Loxodon Stalwart
+12	Raksha Golden Cub
+13	Retaliate
+14	Roar of Reclamation
+15	Skyhunter Prowler
+16	Skyhunter Skirmisher
+17	Stand Firm
+18	Stasis Cocoon
+19	Steelshaper's Gift
+20	Vanquish
+21	Acquire
+22	Advanced Hoverguard
+23	Artificer's Intuition
+24	Beacon of Tomorrows
+25	Blinkmoth Infusion
+26	Bringer of the Blue Dawn
+27	Condescend
+28	Disruption Aura
+29	Early Frost
+30	Eyes of the Watcher
+31	Fold into Æther
+32	Hoverguard Sweepers
+33	Into Thin Air
+34	Plasma Elemental
+35	Qumulox
+36	Serum Visions
+37	Spectral Shift
+38	Thought Courier
+39	Trinket Mage
+40	Vedalken Mastermind
+41	Beacon of Unrest
+42	Blind Creeper
+43	Bringer of the Black Dawn
+44	Cackling Imp
+45	Desecration Elemental
+46	Devour in Shadow
+47	Dross Crocodile
+48	Ebon Drake
+49	Endless Whispers
+50	Fill with Fright
+51	Fleshgrafter
+52	Lose Hope
+53	Mephidross Vampire
+54	Moriok Rigger
+55	Night's Whisper
+56	Nim Grotesque
+57	Plunge into Darkness
+58	Relentless Rats
+59	Shattered Dreams
+60	Vicious Betrayal
+61	Beacon of Destruction
+62	Bringer of the Red Dawn
+63	Cosmic Larva
+64	Feedback Bolt
+65	Furnace Whelp
+66	Goblin Brawler
+67	Granulate
+68	Ion Storm
+69	Iron-Barb Hellion
+70	Krark-Clan Engineers
+71	Krark-Clan Ogre
+72	Magma Giant
+73	Magma Jet
+74	Magnetic Theft
+75	Mana Geyser
+76	Rain of Rust
+77	Reversal of Fortune
+78	Screaming Fury
+79	Spark Elemental
+80	Vulshok Sorcerer
+81	All Suns' Dawn
+82	Beacon of Creation
+83	Bringer of the Green Dawn
+84	Channel the Suns
+85	Dawn's Reflection
+86	Eternal Witness
+87	Fangren Pathcutter
+88	Ferocious Charge
+89	Joiner Adept
+90	Ouphe Vandals
+91	Rite of Passage
+92	Rude Awakening
+93	Sylvok Explorer
+94	Tangle Asp
+95	Tel-Jilad Justice
+96	Tel-Jilad Lifebreather
+97	Tornado Elemental
+98	Tyrranax
+99	Viridian Lorebearers
+100	Viridian Scout
+101	Anodet Lurker
+102	Arachnoid
+103	Arcbound Wanderer
+104	Avarice Totem
+105	Baton of Courage
+106	Battered Golem
+107	Blasting Station
+108	Chimeric Coils
+109	Clearwater Goblet
+110	Clock of Omens
+111	Composite Golem
+112	Conjurer's Bauble
+113	Cranial Plating
+114	Crucible of Worlds
+115	Door to Nothingness
+116	Doubling Cube
+117	Energy Chamber
+118	Engineered Explosives
+119	Ensouled Scimitar
+120	Eon Hub
+121	Etched Oracle
+122	Ferropede
+123	Fist of Suns
+124	Gemstone Array
+125	Goblin Cannon
+126	Grafted Wargear
+127	Grinding Station
+128	Guardian Idol
+129	Healer's Headdress
+130	Heliophial
+131	Helm of Kaldra
+132	Horned Helm
+133	Infused Arrows
+134	Krark-Clan Ironworks
+135	Lantern of Insight
+136	Lunar Avenger
+137	Mycosynth Golem
+138	Myr Quadropod
+139	Myr Servitor
+140	Neurok Stealthsuit
+141	Opaline Bracers
+142	Paradise Mantle
+143	Pentad Prism
+144	Possessed Portal
+145	Razorgrass Screen
+146	Razormane Masticore
+147	Relic Barrier
+148	Salvaging Station
+149	Sawtooth Thresher
+150	Silent Arbiter
+151	Skullcage
+152	Skyreach Manta
+153	Solarion
+154	Sparring Collar
+155	Spinal Parasite
+156	Staff of Domination
+157	Summoner's Egg
+158	Summoning Station
+159	Suncrusher
+160	Suntouched Myr
+161	Synod Centurion
+162	Thermal Navigator
+163	Vedalken Orrery
+164	Vedalken Shackles
+165	Wayfarer's Bauble

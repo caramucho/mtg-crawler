@@ -1,0 +1,169 @@
+№	Card name
+1	Aven Riftwatcher
+2	Benalish Commander
+3	Crovax, Ascendant Hero
+4	Dawn Charm
+5	Dust Elemental
+6	Ghost Tactician
+7	Heroes Remembered
+8	Magus of the Tabernacle
+9	Mantle of Leadership
+10	Pallid Mycoderm
+11	Poultice Sliver
+12	Rebuff the Wicked
+13	Retether
+14	Riftmarked Knight
+15	Saltblast
+16	Saltfield Recluse
+17	Serra's Boon
+18	Shade of Trokair
+19	Stonecloaker
+20	Stormfront Riders
+21	Voidstone Gargoyle
+22	Whitemane Lion
+23	Calciderm
+24	Malach of the Dawn
+25	Mana Tithe
+26	Mesa Enchantress
+27	Mycologist
+28	Porphyry Nodes
+29	Revered Dead
+30	Sinew Sliver
+31	Sunlance
+32	Aeon Chronicler
+33	Aquamorph Entity
+34	Auramancer's Guise
+35	Body Double
+36	Braids, Conjurer Adept
+37	Chronozoa
+38	Dichotomancy
+39	Dismal Failure
+40	Dreamscape Artist
+41	Erratic Mutation
+42	Jodah's Avenger
+43	Magus of the Bazaar
+44	Pongify
+45	Reality Acid
+46	Shaper Parasite
+47	Spellshift
+48	Synchronous Sliver
+49	Tidewalker
+50	Timebender
+51	Veiling Oddity
+52	Venarian Glimmer
+53	Wistful Thinking
+54	Frozen Æther
+55	Gossamer Phantasm
+56	Merfolk Thaumaturgist
+57	Ovinize
+58	Piracy Charm
+59	Primal Plasma
+60	Riptide Pilferer
+61	Serendib Sorcerer
+62	Serra Sphinx
+63	Big Game Hunter
+64	Blightspeaker
+65	Brain Gorgers
+66	Circle of Affliction
+67	Cradle to Grave
+68	Dash Hopes
+69	Deadly Grub
+70	Enslave
+71	Extirpate
+72	Imp's Mischief
+73	Magus of the Coffers
+74	Midnight Charm
+75	Mirri the Cursed
+76	Muck Drubb
+77	Phantasmagorian
+78	Ridged Kusite
+79	Roiling Horror
+80	Spitting Sliver
+81	Temporal Extortion
+82	Treacherous Urge
+83	Waning Wurm
+84	Bog Serpent
+85	Damnation
+86	Dunerider Outlaw
+87	Kor Dirge
+88	Melancholy
+89	Null Profusion
+90	Rathi Trapper
+91	Shrouded Lore
+92	Vampiric Link
+93	Æther Membrane
+94	Akroma, Angel of Fury
+95	Battering Sliver
+96	Detritivore
+97	Dust Corona
+98	Fatal Frenzy
+99	Firefright Mage
+100	Fury Charm
+101	Hammerheim Deadeye
+102	Keldon Marauders
+103	Lavacore Elemental
+104	Magus of the Arena
+105	Needlepeak Spider
+106	Shivan Meteor
+107	Stingscourger
+108	Sulfur Elemental
+109	Timecrafting
+110	Torchling
+111	Volcano Hellion
+112a	Boom (Boom/Bust)
+112b	Bust (Boom/Bust)
+113a	Dead (Dead/Gone)
+113b	Gone (Dead/Gone)
+114a	Rough (Rough/Tumble)
+114b	Tumble (Rough/Tumble)
+115	Blood Knight
+116	Brute Force
+117	Molten Firebird
+118	Prodigal Pyromancer
+119	Pyrohemia
+120	Reckless Wurm
+121	Shivan Wumpus
+122	Simian Spirit Guide
+123	Skirk Shaman
+124	Ana Battlemage
+125	Citanul Woodreaders
+126	Deadwood Treefolk
+127	Evolution Charm
+128	Fungal Behemoth
+129	Giant Dustwasp
+130	Hunting Wilds
+131	Jedit Ojanen of Efrava
+132	Kavu Predator
+133	Life and Limb
+134	Magus of the Library
+135	Mire Boa
+136	Pouncing Wurm
+137	Psychotrope Thallid
+138	Reflex Sliver
+139	Sophic Centaur
+140	Timbermare
+141	Uktabi Drake
+142	Utopia Vow
+143	Vitaspore Thallid
+144	Wild Pair
+145	Essence Warden
+146	Fa'adiyah Seer
+147	Gaea's Anthem
+148	Groundbreaker
+149	Harmonize
+150	Healing Leaves
+151	Hedge Troll
+152	Keen Sense
+153	Seal of Primordium
+154	Cautery Sliver
+155	Darkheart Sliver
+156	Dormant Sliver
+157	Frenetic Sliver
+158	Intet, the Dreamer
+159	Necrotic Sliver
+160	Numot, the Devastator
+161	Oros, the Avenger
+162	Radha, Heir to Keld
+163	Teneb, the Harvester
+164	Vorosh, the Hunter
+165	Urborg, Tomb of Yawgmoth

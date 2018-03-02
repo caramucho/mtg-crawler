@@ -1,0 +1,171 @@
+№	Card name
+1	Æther Shockwave
+2	Araba Mothrider
+3	Celestial Kirin
+4	Charge Across the Araba
+5	Cowed by Wisdom
+6	Curtain of Light
+7	Descendant of Kiyomaro
+8	Eiganjo Free-Riders
+9	Enduring Ideal
+10	Ghost-Lit Redeemer
+11	Hail of Arrows
+12	Hand of Honor
+13	Inner-Chamber Guard
+14	Kataki, War's Wage
+15	Kitsune Bonesetter
+16	Kitsune Dawnblade
+17	Kitsune Loreweaver
+18	Kiyomaro, First to Stand
+19	Michiko Konda, Truth Seeker
+20	Moonwing Moth
+21	Nikko-Onna
+22	Plow Through Reito
+23	Presence of the Wise
+24	Promise of Bunrei
+25	Pure Intentions
+26	Reverence
+27a	Rune-Tail, Kitsune Ascendant
+27b	Rune-Tail's Essence
+28	Shinen of Stars' Light
+29	Spiritual Visit
+30	Torii Watchward
+31	Cloudhoof Kirin
+32	Cut the Earthly Bond
+33	Descendant of Soramaro
+34	Dreamcatcher
+35a	Erayo, Soratami Ascendant
+35b	Erayo's Essence
+36	Eternal Dominion
+37	Evermind
+38	Freed from the Real
+39	Ghost-Lit Warder
+40	Ideas Unbound
+41	Kaho, Minamo Historian
+42	Kami of the Crescent Moon
+43	Kiri-Onna
+44	Meishin, the Mind Cage
+45	Minamo Scrollkeeper
+46	Moonbow Illusionist
+47	Murmurs from Beyond
+48	Oboro Breezecaller
+49	Oboro Envoy
+50	Oppressive Will
+51	Overwhelming Intellect
+52	Rushing-Tide Zubera
+53	Sakashima the Impostor
+54	Secretkeeper
+55	Shape Stealer
+56	Shifting Borders
+57	Shinen of Flight's Wings
+58	Soramaro, First to Dream
+59	Trusted Advisor
+60	Twincast
+61	Akuta, Born of Ash
+62	Choice of Damnations
+63	Death Denied
+64	Death of a Thousand Stings
+65	Deathknell Kami
+66	Deathmask Nezumi
+67	Exile into Darkness
+68	Footsteps of the Goryo
+69	Ghost-Lit Stalker
+70	Gnat Miser
+71	Hand of Cruelty
+72	Infernal Kirin
+73	Kagemaro, First to Suffer
+74	Kagemaro's Clutch
+75	Kami of Empty Graves
+76	Kemuri-Onna
+77	Kiku's Shadow
+78a	Kuon, Ogre Ascendant
+78b	Kuon's Essence
+79	Kuro's Taken
+80	Locust Miser
+81	Maga, Traitor to Mortals
+82	Measure of Wickedness
+83	Neverending Torment
+84	One with Nothing
+85	Pain's Reward
+86	Raving Oni-Slave
+87	Razorjaw Oni
+88	Shinen of Fear's Chill
+89	Sink into Takenuma
+90	Skull Collector
+91	Adamaro, First to Desire
+92	Akki Drillmaster
+93	Akki Underling
+94	Barrel Down Sokenzan
+95	Burning-Eye Zubera
+96	Captive Flame
+97	Feral Lightning
+98	Gaze of Adamaro
+99	Ghost-Lit Raider
+100	Glitterfang
+101	Godo's Irregulars
+102	Hidetsugu's Second Rite
+103a	Homura, Human Ascendant
+103b	Homura's Essence
+104	Iizuka the Ruthless
+105	Inner Fire
+106	Into the Fray
+107	Jiwari, the Earth Aflame
+108	Oni of Wild Places
+109	Path of Anger's Flame
+110	Rally the Horde
+111	Ronin Cavekeeper
+112	Shinen of Fury's Fire
+113	Skyfire Kirin
+114	Sokenzan Renegade
+115	Sokenzan Spellblade
+116	Spiraling Embers
+117	Sunder from Within
+118	Thoughts of Ruin
+119	Undying Flames
+120	Yuki-Onna
+121	Arashi, the Sky Asunder
+122	Ayumi, the Last Visitor
+123	Bounteous Kirin
+124	Briarknit Kami
+125	Dense Canopy
+126	Descendant of Masumaro
+127	Dosan's Oldest Chant
+128	Elder Pine of Jukai
+129	Endless Swarm
+130	Fiddlehead Kami
+131	Ghost-Lit Nourisher
+132	Haru-Onna
+133	Inner Calm, Outer Strength
+134	Kami of the Tended Garden
+135	Kashi-Tribe Elite
+136	Masumaro, First to Live
+137	Matsu-Tribe Birdstalker
+138	Molting Skin
+139	Nightsoil Kami
+140	Okina Nightwatch
+141	Promised Kannushi
+142	Reki, the History of Kamigawa
+143	Rending Vines
+144	Sakura-Tribe Scout
+145a	Sasaya, Orochi Ascendant
+145b	Sasaya's Essence
+146	Seed the Land
+147	Seek the Horizon
+148	Sekki, Seasons' Guide
+149	Shinen of Life's Roar
+150	Stampeding Serow
+151	Iname as One
+152	Ashes of the Fallen
+153	Blood Clock
+154	Ebony Owl Netsuke
+155	Ivory Crane Netsuke
+156	Manriki-Gusari
+157	O-Naginata
+158	Pithing Needle
+159	Scroll of Origins
+160	Soratami Cloud Chariot
+161	Wine of Blood and Iron
+162	Mikokoro, Center of the Sea
+163	Miren, the Moaning Well
+164	Oboro, Palace in the Clouds
+165	Tomb of Urami

@@ -1,0 +1,144 @@
+№	Card name
+1	Ageless Sentinels
+2	Astral Steel
+3	Aven Farseer
+4	Aven Liberator
+5	Daru Spiritualist
+6	Daru Warchief
+7	Dawn Elemental
+8	Decree of Justice
+9	Dimensional Breach
+10	Dragon Scales
+11	Dragonstalker
+12	Eternal Dragon
+13	Exiled Doomsayer
+14	Force Bubble
+15	Frontline Strategist
+16	Gilded Light
+17	Guilty Conscience
+18	Karona's Zealot
+19	Noble Templar
+20	Rain of Blades
+21	Recuperate
+22	Reward the Faithful
+23	Silver Knight
+24	Trap Digger
+25	Wing Shards
+26	Wipe Clean
+27	Zealous Inquisitor
+28	Aphetto Runecaster
+29	Brain Freeze
+30	Coast Watcher
+31	Day of the Dragons
+32	Decree of Silence
+33	Dispersal Shield
+34	Dragon Wings
+35	Faces of the Past
+36	Frozen Solid
+37	Hindering Touch
+38	Long-Term Plans
+39	Mercurial Kite
+40	Metamorphose
+41	Mind's Desire
+42	Mischievous Quanar
+43	Mistform Warchief
+44	Parallel Thoughts
+45	Pemmin's Aura
+46	Raven Guild Initiate
+47	Raven Guild Master
+48	Riptide Survivor
+49	Rush of Knowledge
+50	Scornful Egotist
+51	Shoreline Ranger
+52	Stifle
+53	Temporal Fissure
+54	Thundercloud Elemental
+55	Bladewing's Thrall
+56	Cabal Conditioning
+57	Cabal Interrogator
+58	Call to the Grave
+59	Carrion Feeder
+60	Chill Haunting
+61	Clutch of Undeath
+62	Consumptive Goo
+63	Death's-Head Buzzard
+64	Decree of Pain
+65	Dragon Shadow
+66	Fatal Mutation
+67	Final Punishment
+68	Lethal Vapors
+69	Lingering Death
+70	Nefashu
+71	Putrid Raptor
+72	Reaping the Graves
+73	Skulltap
+74	Soul Collector
+75	Tendrils of Agony
+76	Twisted Abomination
+77	Unburden
+78	Undead Warchief
+79	Unspeakable Symbol
+80	Vengeful Dead
+81	Zombie Cutthroat
+82	Bonethorn Valesk
+83	Carbonize
+84	Chartooth Cougar
+85	Decree of Annihilation
+86	Dragon Breath
+87	Dragon Mage
+88	Dragon Tyrant
+89	Dragonspeaker Shaman
+90	Dragonstorm
+91	Enrage
+92	Extra Arms
+93	Form of the Dragon
+94	Goblin Brigand
+95	Goblin Psychopath
+96	Goblin War Strike
+97	Goblin Warchief
+98	Grip of Chaos
+99	Misguided Rage
+100	Pyrostatic Pillar
+101	Rock Jockey
+102	Scattershot
+103	Siege-Gang Commander
+104	Skirk Volcanist
+105	Spark Spray
+106	Sulfuric Vortex
+107	Torrent of Fire
+108	Uncontrolled Infestation
+109	Accelerated Mutation
+110	Alpha Status
+111	Ambush Commander
+112	Ancient Ooze
+113	Break Asunder
+114	Claws of Wirewood
+115	Decree of Savagery
+116	Divergent Growth
+117	Dragon Fangs
+118	Elvish Aberration
+119	Fierce Empath
+120	Forgotten Ancient
+121	Hunting Pack
+122	Krosan Drover
+123	Krosan Warchief
+124	Kurgadon
+125	One with Nature
+126	Primitive Etchings
+127	Root Elemental
+128	Sprouting Vines
+129	Titanic Bulvox
+130	Treetop Scout
+131	Upwelling
+132	Wirewood Guardian
+133	Wirewood Symbiote
+134	Woodcloaker
+135	Xantid Swarm
+136	Bladewing the Risen
+137	Edgewalker
+138	Karona, False God
+139	Sliver Overlord
+140	Ark of Blight
+141	Proteus Machine
+142	Stabilizer
+143	Temple of the False God

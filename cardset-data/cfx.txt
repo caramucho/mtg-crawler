@@ -1,0 +1,146 @@
+№   Card name
+1   Aerie Mystics
+2   Asha's Favor
+3   Aven Squire
+4   Aven Trailblazer
+5   Celestial Purge
+6   Court Homunculus
+7   Darklit Gargoyle
+8   Gleam of Resistance
+9   Lapse of Certainty
+10  Mark of Asylum
+11  Martial Coup
+12  Mirror-Sigil Sergeant
+13  Nacatl Hunt-Pride
+14  Paragon of the Amesha
+15  Path to Exile
+16  Rhox Meditant
+17  Scepter of Dominance
+18  Sigil of the Empty Throne
+19  Valiant Guard
+20  Wall of Reverence
+21  Brackwater Elemental
+22  Constricting Tendrils
+23  Controlled Instincts
+24  Cumber Stone
+25  Esperzoa
+26  Ethersworn Adjudicator
+27  Faerie Mechanist
+28  Frontline Sage
+29  Grixis Illusionist
+30  Inkwell Leviathan
+31  Master Transmuter
+32  Parasitic Strix
+33  Scepter of Insight
+34  Scornful Æther-Lich
+35  Telemin Performance
+36  Traumatic Visions
+37  Unsummon
+38  View from Above
+39  Worldly Counsel
+40  Absorb Vis
+41  Corrupted Roots
+42  Drag Down
+43  Dreadwing
+44  Extractor Demon
+45  Fleshformer
+46  Grixis Slavedriver
+47  Infectious Horror
+48  Kederekt Parasite
+49  Nyxathid
+50  Pestilent Kathari
+51  Rotting Rats
+52  Salvage Slasher
+53  Scepter of Fugue
+54  Sedraxis Alchemist
+55  Voices from the Void
+56  Wretched Banquet
+57  Yoke of the Damned
+58  Banefire
+59  Bloodhall Ooze
+60  Canyon Minotaur
+61  Dark Temper
+62  Dragonsoul Knight
+63  Fiery Fall
+64  Goblin Razerunners
+65  Hellspark Elemental
+66  Ignite Disorder
+67  Kranioceros
+68  Maniacal Rage
+69  Molten Frame
+70  Quenchable Fire
+71  Rakka Mar
+72  Toxic Iguanar
+73  Viashino Slaughtermaster
+74  Volcanic Fallout
+75  Voracious Dragon
+76  Wandering Goblins
+77  Worldheart Phoenix
+78  Beacon Behemoth
+79  Cliffrunner Behemoth
+80  Cylian Sunsinger
+81  Ember Weaver
+82  Filigree Fracture
+83  Gluttonous Slime
+84  Matca Rioters
+85  Might of Alara
+86  Nacatl Savage
+87  Noble Hierarch
+88  Paleoloth
+89  Sacellum Archers
+90  Scattershot Archer
+91  Shard Convergence
+92  Soul's Majesty
+93  Spore Burst
+94  Sylvan Bounty
+95  Thornling
+96  Tukatongue Thallid
+97  Wild Leotau
+98  Apocalypse Hydra
+99  Blood Tyrant
+100 Charnelhoard Wurm
+101 Child of Alara
+102 Conflux
+103 Countersquall
+104 Elder Mastery
+105 Esper Cormorants
+106 Exploding Borders
+107 Fusion Elemental
+108 Giltspire Avenger
+109 Goblin Outlander
+110 Gwafa Hazid, Profiteer
+111 Hellkite Hatchling
+112 Jhessian Balmgiver
+113 Knight of the Reliquary
+114 Knotvine Mystic
+115 Maelstrom Archangel
+116 Magister Sphinx
+117 Malfegor
+118 Meglonoth
+119 Nacatl Outlander
+120 Nicol Bolas, Planeswalker
+121 Progenitus
+122 Rhox Bodyguard
+123 Scarland Thrinax
+124 Shambling Remains
+125 Skyward Eye Prophets
+126 Sludge Strider
+127 Sphinx Summoner
+128 Suicidal Charge
+129 Vagrant Plowbeasts
+130 Valeron Outlander
+131 Vectis Agents
+132 Vedalken Outlander
+133 Zombie Outlander
+134 Armillary Sphere
+135 Bone Saw
+136 Font of Mythos
+137 Kaleidostone
+138 Mana Cylix
+139 Manaforce Mace
+140 Obelisk of Alara
+141 Ancient Ziggurat
+142 Exotic Orchard
+143 Reliquary Tower
+144 Rupture Spire
+145 Unstable Frontier

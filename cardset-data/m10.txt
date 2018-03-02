@@ -1,0 +1,250 @@
+№   Card name
+1   Ajani Goldmane
+2   Angel's Mercy
+3   Armored Ascension
+4   Baneslayer Angel
+5   Blinding Mage
+6   Captain of the Watch
+7   Celestial Purge
+8   Divine Verdict
+9   Elite Vanguard
+10  Excommunicate
+11  Glorious Charge
+12  Griffin Sentinel
+13  Guardian Seraph
+14  Harm's Way
+15  Holy Strength
+16  Honor of the Pure
+17  Indestructibility
+18  Lifelink
+19  Lightwielder Paladin
+20  Mesa Enchantress
+21  Open the Vaults
+22  Pacifism
+23  Palace Guard
+24  Planar Cleansing
+25  Razorfoot Griffin
+26  Rhox Pikemaster
+27  Righteousness
+28  Safe Passage
+29  Serra Angel
+30  Siege Mastodon
+31  Silence
+32  Silvercoat Lion
+33  Solemn Offering
+34  Soul Warden
+35  Stormfront Pegasus
+36  Tempest of Light
+37  Undead Slayer
+38  Veteran Armorsmith
+39  Veteran Swordsmith
+40  Wall of Faith
+41  White Knight
+42  Air Elemental
+43  Alluring Siren
+44  Cancel
+45  Clone
+46  Convincing Mirage
+47  Coral Merfolk
+48  Disorient
+49  Divination
+50  Djinn of Wishes
+51  Essence Scatter
+52  Fabricate
+53  Flashfreeze
+54  Hive Mind
+55  Horned Turtle
+56  Ice Cage
+57  Illusionary Servant
+58  Jace Beleren
+59  Jump
+60  Levitation
+61  Merfolk Looter
+62  Merfolk Sovereign
+63  Mind Control
+64  Mind Spring
+65  Negate
+66  Phantom Warrior
+67  Polymorph
+68  Ponder
+69  Sage Owl
+70  Serpent of the Endless Sea
+71  Sleep
+72  Snapping Drake
+73  Sphinx Ambassador
+74  Telepathy
+75  Time Warp
+76  Tome Scour
+77  Traumatize
+78  Twincast
+79  Unsummon
+80  Wall of Frost
+81  Wind Drake
+82  Zephyr Sprite
+83  Acolyte of Xathrid
+84  Assassinate
+85  Black Knight
+86  Bog Wraith
+87  Cemetery Reaper
+88  Child of Night
+89  Consume Spirit
+90  Deathmark
+91  Diabolic Tutor
+92  Disentomb
+93  Doom Blade
+94  Dread Warlock
+95  Drudge Skeletons
+96  Duress
+97  Gravedigger
+98  Haunting Echoes
+99  Howling Banshee
+100 Hypnotic Specter
+101 Kelinore Bat
+102 Liliana Vess
+103 Looming Shade
+104 Megrim
+105 Mind Rot
+106 Mind Shatter
+107 Nightmare
+108 Relentless Rats
+109 Rise from the Grave
+110 Royal Assassin
+111 Sanguine Bond
+112 Sign in Blood
+113 Soul Bleed
+114 Tendrils of Corruption
+115 Underworld Dreams
+116 Unholy Strength
+117 Vampire Aristocrat
+118 Vampire Nocturnus
+119 Wall of Bone
+120 Warpath Ghoul
+121 Weakness
+122 Xathrid Demon
+123 Zombie Goliath
+124 Act of Treason
+125 Ball Lightning
+126 Berserkers of Blood Ridge
+127 Bogardan Hellkite
+128 Burning Inquiry
+129 Burst of Speed
+130 Canyon Minotaur
+131 Capricious Efreet
+132 Chandra Nalaar
+133 Dragon Whelp
+134 Earthquake
+135 Fiery Hellhound
+136 Fireball
+137 Firebreathing
+138 Goblin Artillery
+139 Goblin Chieftain
+140 Goblin Piker
+141 Ignite Disorder
+142 Inferno Elemental
+143 Jackal Familiar
+144 Kindled Fury
+145 Lava Axe
+146 Lightning Bolt
+147 Lightning Elemental
+148 Magma Phoenix
+149 Manabarbs
+150 Panic Attack
+151 Prodigal Pyromancer
+152 Pyroclasm
+153 Raging Goblin
+154 Seismic Strike
+155 Shatter
+156 Shivan Dragon
+157 Siege-Gang Commander
+158 Sparkmage Apprentice
+159 Stone Giant
+160 Trumpet Blast
+161 Viashino Spearhunter
+162 Wall of Fire
+163 Warp World
+164 Yawning Fissure
+165 Acidic Slime
+166 Ant Queen
+167 Awakener Druid
+168 Birds of Paradise
+169 Borderland Ranger
+170 Bountiful Harvest
+171 Bramble Creeper
+172 Centaur Courser
+173 Craw Wurm
+174 Cudgel Troll
+175 Deadly Recluse
+176 Elvish Archdruid
+177 Elvish Piper
+178 Elvish Visionary
+179 Emerald Oryx
+180 Enormous Baloth
+181 Entangling Vines
+182 Fog
+183 Garruk Wildspeaker
+184 Giant Growth
+185 Giant Spider
+186 Great Sable Stag
+187 Howl of the Night Pack
+188 Kalonian Behemoth
+189 Llanowar Elves
+190 Lurking Predators
+191 Master of the Wild Hunt
+192 Might of Oaks
+193 Mist Leopard
+194 Mold Adder
+195 Naturalize
+196 Nature's Spiral
+197 Oakenform
+198 Overrun
+199 Prized Unicorn
+200 Protean Hydra
+201 Rampant Growth
+202 Regenerate
+203 Runeclaw Bear
+204 Stampeding Rhino
+205 Windstorm
+206 Angel's Feather
+207 Coat of Arms
+208 Darksteel Colossus
+209 Demon's Horn
+210 Dragon's Claw
+211 Gorgon Flail
+212 Howling Mine
+213 Kraken's Eye
+214 Magebane Armor
+215 Mirror of Fate
+216 Ornithopter
+217 Pithing Needle
+218 Platinum Angel
+219 Rod of Ruin
+220 Spellbook
+221 Whispersilk Cloak
+222 Wurm's Tooth
+223 Dragonskull Summit
+224 Drowned Catacomb
+225 Gargoyle Castle
+226 Glacial Fortress
+227 Rootbound Crag
+228 Sunpetal Grove
+229 Terramorphic Expanse
+230 Plains
+231 Plains
+232 Plains
+233 Plains
+234 Island
+235 Island
+236 Island
+237 Island
+238 Swamp
+239 Swamp
+240 Swamp
+241 Swamp
+242 Mountain
+243 Mountain
+244 Mountain
+245 Mountain
+246 Forest
+247 Forest
+248 Forest
+249 Forest

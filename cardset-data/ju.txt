@@ -1,0 +1,144 @@
+№	Card name
+1	Ancestor's Chosen
+2	Aven Warcraft
+3	Battle Screech
+4	Battlewise Aven
+5	Benevolent Bodyguard
+6	Border Patrol
+7	Cagemail
+8	Chastise
+9	Commander Eesha
+10	Funeral Pyre
+11	Glory
+12	Golden Wish
+13	Guided Strike
+14	Lead Astray
+15	Nomad Mythmaker
+16	Phantom Flock
+17	Phantom Nomad
+18	Prismatic Strands
+19	Pulsemage Advocate
+20	Ray of Revelation
+21	Selfless Exorcist
+22	Shieldmage Advocate
+23	Silver Seraph
+24	Solitary Confinement
+25	Soulcatchers' Aerie
+26	Spirit Cairn
+27	Spurnmage Advocate
+28	Suntail Hawk
+29	Test of Endurance
+30	Trained Pronghorn
+31	Unquestioned Authority
+32	Valor
+33	Vigilant Sentry
+34	Aven Fogbringer
+35	Cephalid Constable
+36	Cephalid Inkshrouder
+37	Cunning Wish
+38	Defy Gravity
+39	Envelop
+40	Flash of Insight
+41	Grip of Amnesia
+42	Hapless Researcher
+43	Keep Watch
+44	Laquatus's Disdain
+45	Lost in Thought
+46	Mental Note
+47	Mirror Wall
+48	Mist of Stagnation
+49	Quiet Speculation
+50	Scalpelexis
+51	Spelljack
+52	Telekinetic Bonds
+53	Web of Inertia
+54	Wonder
+55	Wormfang Behemoth
+56	Wormfang Crab
+57	Wormfang Drake
+58	Wormfang Manta
+59	Wormfang Newt
+60	Wormfang Turtle
+61	Balthor the Defiled
+62	Cabal Therapy
+63	Cabal Trainee
+64	Death Wish
+65	Earsplitting Rats
+66	Filth
+67	Grave Consequences
+68	Guiltfeeder
+69	Masked Gorgon
+70	Morality Shift
+71	Rats' Feast
+72	Stitch Together
+73	Sutured Ghoul
+74	Toxic Stench
+75	Treacherous Vampire
+76	Treacherous Werewolf
+77	Anger
+78	Arcane Teachings
+79	Barbarian Bully
+80	Book Burning
+81	Breaking Point
+82	Browbeat
+83	Burning Wish
+84	Dwarven Bloodboiler
+85	Dwarven Driller
+86	Dwarven Scorcher
+87	Ember Shot
+88	Firecat Blitz
+89	Flaring Pain
+90	Fledgling Dragon
+91	Goretusk Firebeast
+92	Infectious Rage
+93	Jeska, Warrior Adept
+94	Lava Dart
+95	Liberated Dwarf
+96	Lightning Surge
+97	Planar Chaos
+98	Shaman's Trance
+99	Soulgorger Orgg
+100	Spellgorger Barbarian
+101	Swelter
+102	Swirling Sandstorm
+103	Worldgorger Dragon
+104	Anurid Barkripper
+105	Anurid Swarmsnapper
+106	Battlefield Scrounger
+107	Brawn
+108	Canopy Claws
+109	Centaur Rootcaster
+110	Crush of Wurms
+111	Elephant Guide
+112	Epic Struggle
+113	Erhnam Djinn
+114	Exoskeletal Armor
+115	Folk Medicine
+116	Forcemage Advocate
+117	Genesis
+118	Giant Warthog
+119	Grizzly Fate
+120	Harvester Druid
+121	Ironshell Beetle
+122	Krosan Reclamation
+123	Krosan Wayfarer
+124	Living Wish
+125	Nantuko Tracer
+126	Nullmage Advocate
+127	Phantom Centaur
+128	Phantom Nantuko
+129	Phantom Tiger
+130	Seedtime
+131	Serene Sunset
+132	Sudden Strength
+133	Sylvan Safekeeper
+134	Thriss, Nantuko Primus
+135	Tunneler Wurm
+136	Venomous Vines
+137	Anurid Brushhopper
+138	Hunting Grounds
+139	Mirari's Wake
+140	Phantom Nishoba
+141	Krosan Verge
+142	Nantuko Monastery
+143	Riftstone Portal

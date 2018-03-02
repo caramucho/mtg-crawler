@@ -1,0 +1,156 @@
+№	Card name
+1	Adarkar Valkyrie
+2	Boreal Griffin
+3	Cover of Winter
+4	Darien, King of Kjeldor
+5	Field Marshal
+6	Gelid Shackles
+7	Glacial Plating
+8	Jötun Grunt
+9	Jötun Owl Keeper
+10	Kjeldoran Gargoyle
+11	Kjeldoran Javelineer
+12	Kjeldoran Outrider
+13	Kjeldoran War Cry
+14	Luminesce
+15	Martyr of Sands
+16	Ronom Unicorn
+17	Squall Drifter
+18	Sun's Bounty
+19	Sunscour
+20	Surging Sentinels
+21	Swift Maneuver
+22	Ursine Fylgja
+23	Wall of Shards
+24	White Shield Crusader
+25	Woolly Razorback
+26	Adarkar Windform
+27	Arcum Dagsson
+28	Balduvian Frostwaker
+29	Commandeer
+30	Controvert
+31	Counterbalance
+32	Drelnoch
+33	Flashfreeze
+34	Frost Raptor
+35	Frozen Solid
+36	Heidar, Rimewind Master
+37	Jokulmorder
+38	Krovikan Mist
+39	Krovikan Whispers
+40	Martyr of Frost
+41	Perilous Research
+42	Rimefeather Owl
+43	Rimewind Cryomancer
+44	Rimewind Taskmage
+45	Ronom Serpent
+46	Rune Snag
+47	Surging Æther
+48	Survivor of the Unseen
+49	Thermal Flux
+50	Vexing Sphinx
+51	Balduvian Fallen
+52	Chill to the Bone
+53	Chilling Shade
+54	Deathmark
+55	Disciple of Tevesh Szat
+56	Feast of Flesh
+57	Garza's Assassin
+58	Grim Harvest
+59	Gristle Grinner
+60	Gutless Ghoul
+61	Haakon, Stromgald Scourge
+62	Herald of Leshrac
+63	Krovikan Rot
+64	Krovikan Scoundrel
+65	Martyr of Bones
+66	Phobian Phantasm
+67	Phyrexian Etchings
+68	Rime Transfusion
+69	Rimebound Dead
+70	Soul Spike
+71	Stromgald Crusader
+72	Surging Dementia
+73	Tresserhorn Skyknight
+74	Void Maw
+75	Zombie Musher
+76	Balduvian Rage
+77	Balduvian Warlord
+78	Braid of Fire
+79	Cryoclasm
+80	Earthen Goo
+81	Fury of the Horde
+82	Goblin Furrier
+83	Goblin Rimerunner
+84	Greater Stone Spirit
+85	Icefall
+86	Karplusan Minotaur
+87	Karplusan Wolverine
+88	Lightning Serpent
+89	Lightning Storm
+90	Lovisa Coldeyes
+91	Magmatic Core
+92	Martyr of Ashes
+93	Ohran Yeti
+94	Orcish Bloodpainter
+95	Rimescale Dragon
+96	Rite of Flame
+97	Skred
+98	Stalking Yeti
+99	Surging Flame
+100	Thermopod
+101	Allosaurus Rider
+102	Arctic Nishoba
+103	Aurochs Herd
+104	Boreal Centaur
+105	Boreal Druid
+106	Brooding Saurian
+107	Bull Aurochs
+108	Freyalise's Radiance
+109	Frostweb Spider
+110	Hibernation's End
+111	Into the North
+112	Karplusan Strider
+113	Martyr of Spores
+114	Mystic Melting
+115	Ohran Viper
+116	Panglacial Wurm
+117	Resize
+118	Rimehorn Aurochs
+119	Ronom Hulk
+120	Shape of the Wiitigo
+121	Sheltering Ancient
+122	Simian Brawler
+123	Sound the Call
+124	Steam Spitter
+125	Surging Might
+126	Blizzard Specter
+127	Deepfire Elemental
+128	Diamond Faerie
+129	Garza Zol, Plague Queen
+130	Juniper Order Ranger
+131	Sek'Kuar, Deathkeeper
+132	Tamanoa
+133	Vanish into Memory
+134	Wilderness Elemental
+135	Zur the Enchanter
+136	Coldsteel Heart
+137	Jester's Scepter
+138	Mishra's Bauble
+139	Phyrexian Ironfoot
+140	Phyrexian Snowcrusher
+141	Phyrexian Soulgorger
+142	Thrumming Stone
+143	Arctic Flats
+144	Boreal Shelf
+145	Dark Depths
+146	Frost Marsh
+147	Highland Weald
+148	Mouth of Ronom
+149	Scrying Sheets
+150	Tresserhorn Sinks
+151	Snow-Covered Plains
+152	Snow-Covered Island
+153	Snow-Covered Swamp
+154	Snow-Covered Mountain
+155	Snow-Covered Forest

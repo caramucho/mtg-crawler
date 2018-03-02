@@ -1,0 +1,144 @@
+№	Card name
+1	Angelic Favor
+2	Avenger en-Dal
+3	Blinding Angel
+4	Chieftain en-Dal
+5	Defender en-Vec
+6	Defiant Falcon
+7	Defiant Vanguard
+8	Fanatical Devotion
+9	Lashknife
+10	Lawbringer
+11	Lightbringer
+12	Lin Sivvi, Defiant Hero
+13	Netter en-Dal
+14	Noble Stand
+15	Off Balance
+16	Oracle's Attendants
+17	Parallax Wave
+18	Seal of Cleansing
+19	Silkenfist Fighter
+20	Silkenfist Order
+21	Sivvi's Ruse
+22	Sivvi's Valor
+23	Spiritual Asylum
+24	Topple
+25	Voice of Truth
+26	Accumulated Knowledge
+27	Æther Barrier
+28	Air Bladder
+29	Cloudskate
+30	Daze
+31	Dominate
+32	Ensnare
+33	Infiltrate
+34	Jolting Merfolk
+35	Oraxid
+36	Pale Moon
+37	Parallax Tide
+38	Rising Waters
+39	Rootwater Commando
+40	Rootwater Thief
+41	Seahunter
+42	Seal of Removal
+43	Sliptide Serpent
+44	Sneaky Homunculus
+45	Stronghold Biologist
+46	Stronghold Machinist
+47	Stronghold Zeppelin
+48	Submerge
+49	Trickster Mage
+50	Wandering Eye
+51	Ascendant Evincar
+52	Battlefield Percher
+53	Belbe's Percher
+54	Carrion Wall
+55	Dark Triumph
+56	Death Pit Offering
+57	Divining Witch
+58	Massacre
+59	Mind Slash
+60	Mind Swords
+61	Murderous Betrayal
+62	Parallax Dementia
+63	Parallax Nexus
+64	Phyrexian Driver
+65	Phyrexian Prowler
+66	Plague Witch
+67	Rathi Assassin
+68	Rathi Fiend
+69	Rathi Intimidator
+70	Seal of Doom
+71	Spineless Thug
+72	Spiteful Bully
+73	Stronghold Discipline
+74	Vicious Hunger
+75	Volrath the Fallen
+76	Ancient Hydra
+77	Arc Mage
+78	Bola Warrior
+79	Downhill Charge
+80	Flame Rift
+81	Flowstone Crusher
+82	Flowstone Overseer
+83	Flowstone Slide
+84	Flowstone Strike
+85	Flowstone Surge
+86	Flowstone Wall
+87	Laccolith Grunt
+88	Laccolith Rig
+89	Laccolith Titan
+90	Laccolith Warrior
+91	Laccolith Whelp
+92	Mana Cache
+93	Mogg Alarm
+94	Mogg Salvage
+95	Mogg Toady
+96	Moggcatcher
+97	Rupture
+98	Seal of Fire
+99	Shrieking Mogg
+100	Stronghold Gambit
+101	Animate Land
+102	Blastoderm
+103	Coiling Woodworm
+104	Fog Patch
+105	Harvest Mage
+106	Mossdog
+107	Nesting Wurm
+108	Overlaid Terrain
+109	Pack Hunt
+110	Refreshing Rain
+111	Reverent Silence
+112	Rhox
+113	Saproling Burst
+114	Saproling Cluster
+115	Seal of Strength
+116	Skyshroud Behemoth
+117	Skyshroud Claim
+118	Skyshroud Cutter
+119	Skyshroud Poacher
+120	Skyshroud Ridgeback
+121	Skyshroud Sentinel
+122	Stampede Driver
+123	Treetop Bracers
+124	Wild Mammoth
+125	Woodripper
+126	Belbe's Armor
+127	Belbe's Portal
+128	Complex Automaton
+129	Eye of Yawgmoth
+130	Flint Golem
+131	Flowstone Armor
+132	Flowstone Thopter
+133	Kill Switch
+134	Parallax Inhibitor
+135	Predator, Flagship
+136	Rackling
+137	Rejuvenation Chamber
+138	Rusting Golem
+139	Tangle Wire
+140	Viseling
+141	Kor Haven
+142	Rath's Edge
+143	Terrain Generator

@@ -1,0 +1,302 @@
+№	Card name
+1	Apothecary Initiate
+2	Armored Ascension
+3	Ballynock Cohort
+4	Barrenton Medic
+5	Boon Reflection
+6	Goldenglow Moth
+7	Greater Auramancy
+8	Inquisitor's Snare
+9	Kithkin Rabble
+10	Kithkin Shielddare
+11	Last Breath
+12	Mass Calcify
+13	Mine Excavation
+14	Mistmeadow Skulk
+15	Niveous Wisps
+16	Order of Whiteclay
+17	Pale Wayfarer
+18	Prison Term
+19	Resplendent Mentor
+20	Rune-Cervin Rider
+21	Runed Halo
+22	Safehold Sentry
+23	Spectral Procession
+24	Strip Bare
+25	Twilight Shepherd
+26	Windbrisk Raptor
+27	Woeleecher
+28	Advice from the Fae
+29	Biting Tether
+30	Briarberry Cohort
+31	Cerulean Wisps
+32	Consign to Dream
+33	Counterbore
+34	Cursecatcher
+35	Deepchannel Mentor
+36	Drowner Initiate
+37	Faerie Swarm
+38	Flow of Ideas
+39	Ghastly Discovery
+40	Isleback Spawn
+41	Kinscaer Harpoonist
+42	Knacksaw Clique
+43	Leech Bonder
+44	Merrow Wavebreakers
+45	Parapet Watchers
+46	Prismwake Merrow
+47	Puca's Mischief
+48	Put Away
+49	River Kelpie
+50	Savor the Moment
+51	Sinking Feeling
+52	Spell Syphon
+53	Thought Reflection
+54	Whimwader
+55	Aphotic Wisps
+56	Ashenmoor Cohort
+57	Beseech the Queen
+58	Blowfly Infestation
+59	Cinderbones
+60	Cinderhaze Wretch
+61	Corrosive Mentor
+62	Corrupt
+63	Crowd of Cinders
+64	Disturbing Plot
+65	Dusk Urchins
+66	Faerie Macabre
+67	Gloomlance
+68	Hollowborn Barghest
+69	Hollowsage
+70	Incremental Blight
+71	Loch Korrigan
+72	Midnight Banshee
+73	Plague of Vermin
+74	Polluted Bonds
+75	Puppeteer Clique
+76	Rite of Consumption
+77	Sickle Ripper
+78	Smolder Initiate
+79	Splitting Headache
+80	Torture
+81	Wound Reflection
+82	Blistering Dieflyn
+83	Bloodmark Mentor
+84	Bloodshed Fever
+85	Boggart Arsonists
+86	Burn Trail
+87	Cragganwick Cremator
+88	Crimson Wisps
+89	Deep-Slumber Titan
+90	Elemental Mastery
+91	Ember Gale
+92	Flame Javelin
+93	Furystoke Giant
+94	Horde of Boggarts
+95	Inescapable Brute
+96	Intimidator Initiate
+97	Jaws of Stone
+98	Knollspine Dragon
+99	Knollspine Invocation
+100	Mudbrawler Cohort
+101	Power of Fire
+102	Puncture Bolt
+103	Pyre Charger
+104	Rage Reflection
+105	Rustrazor Butcher
+106	Slinking Giant
+107	Smash to Smithereens
+108	Wild Swing
+109	Crabapple Cohort
+110	Devoted Druid
+111	Dramatic Entrance
+112	Drove of Elves
+113	Farhaven Elf
+114	Flourishing Defenses
+115	Foxfire Oak
+116	Gleeful Sabotage
+117	Gloomwidow
+118	Gloomwidow's Feast
+119	Howl of the Night Pack
+120	Hungry Spriggan
+121	Juvenile Gloomwidow
+122	Mana Reflection
+123	Mossbridge Troll
+124	Nurturer Initiate
+125	Presence of Gond
+126	Prismatic Omen
+127	Raking Canopy
+128	Roughshod Mentor
+129	Spawnwrithe
+130	Toil to Renown
+131	Tower Above
+132	Viridescent Wisps
+133	Wildslayer Elves
+134	Witherscale Wurm
+135	Woodfall Primus
+136	Æthertow
+137	Augury Adept
+138	Barrenton Cragtreads
+139	Curse of Chains
+140	Enchanted Evening
+141	Glamer Spinners
+142	Godhead of Awe
+143	Mirrorweave
+144	Mistmeadow Witch
+145	Plumeveil
+146	Puresight Merrow
+147	Repel Intruders
+148	Silkbind Faerie
+149	Somnomancer
+150	Steel of the Godhead
+151	Swans of Bryn Argoll
+152	Thistledown Duo
+153	Thistledown Liege
+154	Thoughtweft Gambit
+155	Turn to Mist
+156	Worldpurge
+157	Zealous Guardian
+158	Cemetery Puca
+159	Dire Undercurrents
+160	Dream Salvage
+161	Fate Transfer
+162	Ghastlord of Fugue
+163	Glen Elendra Liege
+164	Gravelgill Axeshark
+165	Gravelgill Duo
+166	Helm of the Ghastlord
+167	Inkfathom Infiltrator
+168	Inkfathom Witch
+169	Memory Plunder
+170	Memory Sluice
+171	Merrow Grimeblotter
+172	Oona, Queen of the Fae
+173	Oona's Gatewarden
+174	River's Grasp
+175	Scarscale Ritual
+176	Sygg, River Cutthroat
+177	Torpor Dust
+178	Wanderbrine Rootcutters
+179	Wasp Lancer
+180	Ashenmoor Gouger
+181	Ashenmoor Liege
+182	Cultbrand Cinder
+183	Demigod of Revenge
+184	Din of the Fireherd
+185	Emberstrike Duo
+186	Everlasting Torment
+187	Fists of the Demigod
+188	Fulminator Mage
+189	Grief Tyrant
+190	Kulrath Knight
+191	Manaforge Cinder
+192	Murderous Redcap
+193	Poison the Well
+194	Scar
+195	Sootstoke Kindler
+196	Sootwalkers
+197	Spiteflame Witch
+198	Spiteful Visions
+199	Torrent of Souls
+200	Traitor's Roar
+201	Tyrannize
+202	Boartusk Liege
+203	Boggart Ram-Gang
+204	Deus of Calamity
+205	Firespout
+206	Fossil Find
+207	Giantbaiting
+208	Guttural Response
+209	Impromptu Raid
+210	Loamdragger Giant
+211	Manamorphose
+212	Morselhoarder
+213	Mudbrawler Raiders
+214	Rosheen Meanderer
+215	Runes of the Deus
+216	Scuzzback Marauders
+217	Scuzzback Scrapper
+218	Tattermunge Duo
+219	Tattermunge Maniac
+220	Tattermunge Witch
+221	Valleymaker
+222	Vexing Shusher
+223	Wort, the Raidmother
+224	Barkshell Blessing
+225	Dawnglow Infusion
+226	Elvish Hexhunter
+227	Fracturing Gust
+228	Heartmender
+229	Kitchen Finks
+230	Medicine Runner
+231	Mercy Killing
+232	Old Ghastbark
+233	Oracle of Nectars
+234	Oversoul of Dusk
+235	Raven's Run Dragoon
+236	Reknit
+237	Rhys the Redeemed
+238	Safehold Duo
+239	Safehold Elite
+240	Safewright Quest
+241	Seedcradle Witch
+242	Shield of the Oversoul
+243	Wheel of Sun and Moon
+244	Wilt-Leaf Cavaliers
+245	Wilt-Leaf Liege
+246	Blazethorn Scarecrow
+247	Blight Sickle
+248	Cauldron of Souls
+249	Chainbreaker
+250	Elsewhere Flask
+251	Gnarled Effigy
+252	Grim Poppet
+253	Heap Doll
+254	Illuminated Folio
+255	Lockjaw Snapper
+256	Lurebound Scarecrow
+257	Painter's Servant
+258	Pili-Pala
+259	Rattleblaze Scarecrow
+260	Reaper King
+261	Revelsong Horn
+262	Scrapbasket
+263	Scuttlemutt
+264	Tatterkite
+265	Thornwatch Scarecrow
+266	Trip Noose
+267	Umbral Mantle
+268	Watchwing Scarecrow
+269	Wicker Warcrawler
+270	Wingrattle Scarecrow
+271	Fire-Lit Thicket
+272	Graven Cairns
+273	Leechridden Swamp
+274	Madblind Mountain
+275	Mistveil Plains
+276	Moonring Island
+277	Mystic Gate
+278	Reflecting Pool
+279	Sapseep Forest
+280	Sunken Ruins
+281	Wooded Bastion
+282	Plains
+283	Plains
+284	Plains
+285	Plains
+286	Island
+287	Island
+288	Island
+289	Island
+290	Swamp
+291	Swamp
+292	Swamp
+293	Swamp
+294	Mountain
+295	Mountain
+296	Mountain
+297	Mountain
+298	Forest
+299	Forest
+300	Forest
+301	Forest

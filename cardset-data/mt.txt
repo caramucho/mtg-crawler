@@ -1,0 +1,151 @@
+№	Card name
+1	Ballyrush Banneret
+2	Battletide Alchemist
+3	Burrenton Bombardier
+4	Burrenton Shield-Bearers
+5	Cenn's Tactician
+6	Changeling Sentinel
+7	Coordinated Barrage
+8	Daily Regimen
+9	Feudkiller's Verdict
+10	Forfend
+11	Graceful Reprieve
+12	Idyllic Tutor
+13	Indomitable Ancients
+14	Kinsbaile Borderguard
+15	Kinsbaile Cavalier
+16	Kithkin Zephyrnaut
+17	Meadowboon
+18	Mosquito Guard
+19	Order of the Golden Cricket
+20	Preeminent Captain
+21	Redeem the Lost
+22	Reveillark
+23	Shinewend
+24	Stonehewer Giant
+25	Stonybrook Schoolmaster
+26	Swell of Courage
+27	Wandering Graybeard
+28	Weight of Conscience
+29	Declaration of Naught
+30	Dewdrop Spy
+31	Disperse
+32	Distant Melody
+33	Fencer Clique
+34	Floodchaser
+35	Grimoire Thief
+36	Ink Dissolver
+37	Inspired Sprite
+38	Knowledge Exploitation
+39	Latchkey Faerie
+40	Merrow Witsniper
+41	Mind Spring
+42	Mothdust Changeling
+43	Negate
+44	Nevermaker
+45	Notorious Throng
+46	Research the Deep
+47	Sage of Fables
+48	Sage's Dousing
+49	Sigil Tracer
+50	Slithermuse
+51	Stonybrook Banneret
+52	Stream of Unconsciousness
+53	Supreme Exemplar
+54	Thieves' Fortune
+55	Vendilion Clique
+56	Waterspout Weavers
+57	Auntie's Snitch
+58	Bitterblossom
+59	Blightsoil Druid
+60	Earwig Squad
+61	Fendeep Summoner
+62	Festercreep
+63	Final-Sting Faerie
+64	Frogtosser Banneret
+65	Maralen of the Mornsong
+66	Mind Shatter
+67	Moonglove Changeling
+68	Morsel Theft
+69	Nightshade Schemers
+70	Noggin Whack
+71	Offalsnout
+72	Oona's Blackguard
+73	Pack's Disdain
+74	Prickly Boggart
+75	Pulling Teeth
+76	Revive the Fallen
+77	Scarblade Elite
+78	Squeaking Pie Grubfellows
+79	Stenchskipper
+80	Stinkdrinker Bandit
+81	Violet Pall
+82	Warren Weirding
+83	Weed-Pruner Poplar
+84	Weirding Shaman
+85	Boldwyr Heavyweights
+86	Boldwyr Intimidator
+87	Borderland Behemoth
+88	Brighthearth Banneret
+89	Countryside Crusher
+90	Fire Juggler
+91	Hostile Realm
+92	Kindled Fury
+93	Lightning Crafter
+94	Lunk Errant
+95	Mudbutton Clanger
+96	Pyroclast Consul
+97	Rage Forger
+98	Release the Ants
+99	Rivals' Duel
+100	Roar of the Crowd
+101	Seething Pathblazer
+102	Sensation Gorger
+103	Shard Volley
+104	Shared Animosity
+105	Spitebellows
+106	Stingmoggie
+107	Stomping Slabs
+108	Sunflare Shaman
+109	Taurean Mauler
+110	Titan's Revenge
+111	Vengeful Firebrand
+112	War-Spike Changeling
+113	Ambassador Oak
+114	Bosk Banneret
+115	Bramblewood Paragon
+116	Chameleon Colossus
+117	Cream of the Crop
+118	Deglamer
+119	Earthbrawn
+120	Elvish Warrior
+121	Everbark Shaman
+122	Fertilid
+123	Game-Trail Changeling
+124	Gilt-Leaf Archdruid
+125	Greatbow Doyen
+126	Heritage Druid
+127	Hunting Triad
+128	Leaf-Crowned Elder
+129	Luminescent Rain
+130	Lys Alana Bowmaster
+131	Orchard Warden
+132	Reach of Branches
+133	Recross the Paths
+134	Reins of the Vinesteed
+135	Rhys the Exiled
+136	Scapeshift
+137	Unstoppable Ash
+138	Walker of the Grove
+139	Winnower Patrol
+140	Wolf-Skull Shaman
+141	Cloak and Dagger
+142	Diviner's Wand
+143	Door of Destinies
+144	Obsidian Battle-Axe
+145	Thornbite Staff
+146	Veteran's Armaments
+147	Murmuring Bosk
+148	Mutavault
+149	Primal Beyond
+150	Rustic Clachan

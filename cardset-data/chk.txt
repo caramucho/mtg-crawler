@@ -1,0 +1,318 @@
+№	Card name
+1	Blessed Breath
+2a	Bushi Tenderfoot
+2b	Kenzo the Hardhearted
+3	Cage of Hands
+4	Call to Glory
+5	Candles' Glow
+6	Cleanfall
+7	Devoted Retainer
+8	Eight-and-a-Half-Tails
+9	Ethereal Haze
+10	Ghostly Prison
+11	Harsh Deceiver
+12	Hikari, Twilight Guardian
+13	Hold the Line
+14	Honden of Cleansing Fire
+15	Horizon Seed
+16	Hundred-Talon Kami
+17	Indomitable Will
+18	Innocence Kami
+19	Isamaru, Hound of Konda
+20	Kabuto Moth
+21	Kami of Ancient Law
+22	Kami of Old Stone
+23	Kami of the Painted Road
+24	Kami of the Palace Fields
+25	Kitsune Blademaster
+26	Kitsune Diviner
+27	Kitsune Healer
+28a	Kitsune Mystic
+28b	Autumn-Tail, Kitsune Sage
+29	Kitsune Riftwalker
+30	Konda, Lord of Eiganjo
+31	Konda's Hatamoto
+32	Lantern Kami
+33	Masako the Humorless
+34	Mothrider Samurai
+35	Myojin of Cleansing Fire
+36	Nagao, Bound by Honor
+37	Otherworldly Journey
+38	Pious Kitsune
+39	Quiet Purity
+40	Reciprocate
+41	Reverse the Sands
+42	Samurai Enforcers
+43	Samurai of the Pale Curtain
+44	Sensei Golden-Tail
+45	Silent-Chant Zubera
+46	Takeno, Samurai General
+47	Terashi's Cry
+48	Vassal's Duty
+49	Vigilance
+50	Yosei, the Morning Star
+51	Aura of Dominion
+52	Azami, Lady of Scrolls
+53	Callous Deceiver
+54	Consuming Vortex
+55	Counsel of the Soratami
+56	Cut the Tethers
+57	Dampen Thought
+58	Eerie Procession
+59	Eye of Nowhere
+60	Field of Reality
+61	Floating-Dream Zubera
+62	Gifts Ungiven
+63	Graceful Adept
+64	Guardian of Solitude
+65	Hinder
+66	Hisoka, Minamo Sensei
+67	Hisoka's Defiance
+68	Hisoka's Guard
+69	Honden of Seeing Winds
+70a	Jushi Apprentice
+70b	Tomoya the Revealer
+71	Kami of Twisted Reflection
+72	Keiga, the Tide Star
+73	Lifted by Clouds
+74	Meloku the Clouded Mirror
+75	Myojin of Seeing Winds
+76	Mystic Restraints
+77	Part the Veil
+78	Peer Through Depths
+79	Petals of Insight
+80	Psychic Puppetry
+81	Reach Through Mists
+82	Reweave
+83	River Kaijin
+84	Sift Through Sands
+85	Sire of the Storm
+86	Soratami Cloudskater
+87	Soratami Mirror-Guard
+88	Soratami Mirror-Mage
+89	Soratami Rainshaper
+90	Soratami Savant
+91	Soratami Seer
+92	Squelch
+93a	Student of Elements
+93b	Tobita, Master of Winds
+94	Swirl the Mists
+95	Teller of Tales
+96	Thoughtbind
+97	Time Stop
+98	The Unspeakable
+99	Uyo, Silent Prophet
+100	Wandering Ones
+101	Ashen-Skin Zubera
+102	Befoul
+103	Blood Speaker
+104	Bloodthirsty Ogre
+105	Cranial Extraction
+106	Cruel Deceiver
+107	Cursed Ronin
+108	Dance of Shadows
+109	Deathcurse Ogre
+110	Devouring Greed
+111	Distress
+112	Gibbering Kami
+113	Gutwrencher Oni
+114	He Who Hungers
+115	Hideous Laughter
+116	Honden of Night's Reach
+117	Horobi, Death's Wail
+118	Iname, Death Aspect
+119	Kami of Lunacy
+120	Kami of the Waning Moon
+121	Kiku, Night's Flower
+122	Kokusho, the Evening Star
+123	Kuro, Pitlord
+124	Marrow-Gnawer
+125	Midnight Covenant
+126	Myojin of Night's Reach
+127	Nezumi Bone-Reader
+128	Nezumi Cutthroat
+129a	Nezumi Graverobber
+129b	Nighteyes the Desecrator
+130	Nezumi Ronin
+131a	Nezumi Shortfang
+131b	Stabwhisker the Odious
+132	Night Dealings
+133	Night of Souls' Betrayal
+134	Numai Outcast
+135	Oni Possession
+136	Painwracker Oni
+137	Pull Under
+138	Rag Dealer
+139	Ragged Veins
+140	Rend Flesh
+141	Rend Spirit
+142	Scuttling Death
+143	Seizan, Perverter of Truth
+144	Soulless Revival
+145	Struggle for Sanity
+146	Swallowing Plague
+147	Thief of Hope
+148	Villainous Ogre
+149	Waking Nightmare
+150	Wicked Akuba
+151	Akki Avalanchers
+152	Akki Coalflinger
+153a	Akki Lavarunner
+153b	Tok-Tok, Volcano Born
+154	Akki Rockspeaker
+155	Akki Underminer
+156	Battle-Mad Ronin
+157	Ben-Ben, Akki Hermit
+158	Blind with Anger
+159	Blood Rites
+160a	Brothers Yamazaki
+160b	Brothers Yamazaki
+161	Brutal Deceiver
+162	Crushing Pain
+163	Desperate Ritual
+164	Devouring Rage
+165	Earthshaker
+166	Ember-Fist Zubera
+167	Frostwielder
+168	Glacial Ray
+169	Godo, Bandit Warlord
+170	Hanabi Blast
+171	Hearth Kami
+172	Honden of Infinite Rage
+173a	Initiate of Blood
+173b	Goka the Unjust
+174	Kami of Fire's Roar
+175	Kiki-Jiki, Mirror Breaker
+176	Kumano, Master Yamabushi
+177	Kumano's Pupils
+178	Lava Spike
+179	Mana Seism
+180	Mindblaze
+181	Myojin of Infinite Rage
+182	Ore Gorger
+183	Pain Kami
+184	Ronin Houndmaster
+185	Ryusei, the Falling Star
+186	Shimatsu the Bloodcloaked
+187	Sideswipe
+188	Sokenzan Bruiser
+189	Soul of Magma
+190	Soulblast
+191	Stone Rain
+192	Strange Inversion
+193	Through the Breach
+194	Tide of War
+195	Uncontrollable Anger
+196	Unearthly Blizzard
+197	Unnatural Speed
+198	Yamabushi's Flame
+199	Yamabushi's Storm
+200	Zo-Zu the Punisher
+201	Azusa, Lost but Seeking
+202a	Budoka Gardener
+202b	Dokai, Weaver of Life
+203	Burr Grafter
+204	Commune with Nature
+205	Dosan the Falling Leaf
+206	Dripping-Tongue Zubera
+207	Feast of Worms
+208	Feral Deceiver
+209	Gale Force
+210	Glimpse of Nature
+211	Hana Kami
+212	Heartbeat of Spring
+213	Honden of Life's Web
+214	Humble Budoka
+215	Iname, Life Aspect
+216	Joyous Respite
+217	Jugan, the Rising Star
+218	Jukai Messenger
+219	Kami of the Hunt
+220	Kashi-Tribe Reaver
+221	Kashi-Tribe Warriors
+222	Kodama of the North Tree
+223	Kodama of the South Tree
+224	Kodama's Might
+225	Kodama's Reach
+226	Lure
+227	Matsu-Tribe Decoy
+228	Moss Kami
+229	Myojin of Life's Web
+230	Nature's Will
+231	Orbweaver Kumo
+232	Order of the Sacred Bell
+233a	Orochi Eggwatcher
+233b	Shidako, Broodmistress
+234	Orochi Leafcaller
+235	Orochi Ranger
+236	Orochi Sustainer
+237	Rootrunner
+238	Sachi, Daughter of Seshiro
+239	Sakura-Tribe Elder
+240	Serpent Skin
+241	Seshiro the Anointed
+242	Shisato, Whispering Hunter
+243	Soilshaper
+244	Sosuke, Son of Seshiro
+245	Strength of Cedars
+246	Thousand-legged Kami
+247	Time of Need
+248	Venerable Kumo
+249	Vine Kami
+250	Wear Away
+251	General's Kabuto
+252	Hair-Strung Koto
+253	Hankyu
+254	Honor-Worn Shaku
+255	Imi Statue
+256	Jade Idol
+257	Journeyer's Kite
+258	Junkyo Bell
+259	Konda's Banner
+260	Kusari-Gama
+261	Long-Forgotten Gohei
+262	Moonring Mirror
+263	Nine-Ringed Bo
+264	No-Dachi
+265	Oathkeeper, Takeno's Daisho
+266	Orochi Hatchery
+267	Reito Lantern
+268	Sensei's Divining Top
+269	Shell of the Last Kappa
+270	Tatsumasa, the Dragon's Fang
+271	Tenza, Godo's Maul
+272	Uba Mask
+273	Boseiju, Who Shelters All
+274	Cloudcrest Lake
+275	Eiganjo Castle
+276	Forbidden Orchard
+277	Hall of the Bandit Lord
+278	Lantern-Lit Graveyard
+279	Minamo, School at Water's Edge
+280	Okina, Temple to the Grandfathers
+281	Pinecrest Ridge
+282	Shinka, the Bloodsoaked Keep
+283	Shizo, Death's Storehouse
+284	Tranquil Garden
+285	Untaidake, the Cloud Keeper
+286	Waterveil Cavern
+287	Plains
+288	Plains
+289	Plains
+290	Plains
+291	Island
+292	Island
+293	Island
+294	Island
+295	Swamp
+296	Swamp
+297	Swamp
+298	Swamp
+299	Mountain
+300	Mountain
+301	Mountain
+302	Mountain
+303	Forest
+304	Forest
+305	Forest
+306	Forest

@@ -1,0 +1,123 @@
+№	Card name
+1	Akroma, Angel of Wrath
+2	Auratog
+3	Celestial Dawn
+4	Consecrate Land
+5	Defiant Vanguard
+6	Disenchant
+7	Enduring Renewal
+8	Essence Sliver
+9	Honorable Passage
+10	Icatian Javelineers
+11	Moorish Cavalry
+12	Resurrection
+13	Sacred Mesa
+14	Soltari Priest
+15	Squire
+16	Valor
+17	Witch Hunter
+18	Zhalfirin Commander
+19	Dandân
+20	Flying Men
+21	Ghost Ship
+22	Giant Oyster
+23	Leviathan
+24	Lord of Atlantis
+25	Merfolk Assassin
+26	Mistform Ultimus
+27	Ovinomancer
+28	Pirate Ship
+29	Prodigal Sorcerer
+30	Psionic Blast
+31	Sindbad
+32	Stormscape Familiar
+33	Unstable Mutation
+34	Voidmage Prodigy
+35	Whispers of the Muse
+36	Willbender
+37	Avatar of Woe
+38	Bad Moon
+39	Conspiracy
+40	Darkness
+41	Dauthi Slayer
+42	Evil Eye of Orms-by-Gore
+43	Faceless Butcher
+44	Funeral Charm
+45	Sengir Autocrat
+46	Shadow Guildmage
+47	Soul Collector
+48	Stupor
+49	Swamp Mosquito
+50	Twisted Abomination
+51	Uncle Istvan
+52	Undead Warchief
+53	Undertaker
+54	Withered Wretch
+55	Avalanche Riders
+56	Browbeat
+57	Desolation Giant
+58	Disintegrate
+59	Dragon Whelp
+60	Dragonstorm
+61	Eron the Relentless
+62	Fiery Temper
+63	Fire Whip
+64	Goblin Snowman
+65	Kobold Taskmaster
+66	Orcish Librarian
+67	Orgg
+68	Pandemonium
+69	Suq'Ata Lancer
+70	Tribal Flames
+71	Uthden Troll
+72	Wildfire Emissary
+73	Avoid Fate
+74	Call of the Herd
+75	Cockatrice
+76	Craw Giant
+77	Gaea's Blessing
+78	Gaea's Liege
+79	Hail Storm
+80	Hunting Moa
+81	Jolrael, Empress of Beasts
+82	Krosan Cloudscraper
+83	Scragnoth
+84	Spike Feeder
+85	Spitting Slug
+86	Thallid
+87	Thornscape Battlemage
+88	Verdeloth the Ancient
+89	Wall of Roots
+90	Whirling Dervish
+91	Coalition Victory
+92	Fiery Justice
+93	Jasmine Boreal
+94	Lightning Angel
+95	Merieke Ri Berit
+96	Mystic Enforcer
+97	Mystic Snake
+98	Nicol Bolas
+99	Shadowmage Infiltrator
+100	Sol'kanar the Swamp King
+101	Spined Sliver
+102	Stormbind
+103	Teferi's Moat
+104	Vhati il-Dal
+105	Void
+106a	Assault (Assault/Battery)
+106b	Battery (Assault/Battery)
+107	Claws of Gix
+108	Dodecapod
+109	Feldon's Cane
+110	Grinning Totem
+111	Mindless Automaton
+112	Mirari
+113	The Rack
+114	Serrated Arrows
+115	Tormod's Crypt
+116	War Barge
+117	Arena
+118	Desert
+119	Gemstone Mine
+120	Pendelhaven
+121	Safe Haven

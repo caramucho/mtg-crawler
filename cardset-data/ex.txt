@@ -1,0 +1,144 @@
+№	Card name
+1	Allay
+2	Angelic Blessing
+3	Cataclysm
+4	Charging Paladin
+5	Convalescence
+6	Exalted Dragon
+7	High Ground
+8	Keeper of the Light
+9	Kor Chant
+10	Limited Resources
+11	Oath of Lieges
+12	Paladin en-Vec
+13	Peace of Mind
+14	Pegasus Stampede
+15	Penance
+16	Reaping the Rewards
+17	Reconnaissance
+18	Shackles
+19	Shield Mate
+20	Soltari Visionary
+21	Soul Warden
+22	Standing Troops
+23	Treasure Hunter
+24	Wall of Nets
+25	Welkin Hawk
+26	Zealots en-Dal
+27	Æther Tide
+28	Cunning
+29	Curiosity
+30	Dominating Licid
+31	Ephemeron
+32	Equilibrium
+33	Ertai, Wizard Adept
+34	Fade Away
+35	Forbid
+36	Keeper of the Mind
+37	Killer Whale
+38	Mana Breach
+39	Merfolk Looter
+40	Mind Over Matter
+41	Mirozel
+42	Oath of Scholars
+43	Robe of Mirrors
+44	Rootwater Mystic
+45	School of Piranha
+46	Scrivener
+47	Thalakos Drifters
+48	Thalakos Scout
+49	Theft of Dreams
+50	Treasure Trove
+51	Wayward Soul
+52	Whiptongue Frog
+53	Carnophage
+54	Cat Burglar
+55	Culling the Weak
+56	Cursed Flesh
+57	Dauthi Cutthroat
+58	Dauthi Jackal
+59	Dauthi Warlord
+60	Death's Duet
+61	Entropic Specter
+62	Fugue
+63	Grollub
+64	Hatred
+65	Keeper of the Dead
+66	Mind Maggots
+67	Nausea
+68	Necrologia
+69	Oath of Ghouls
+70	Pit Spawn
+71	Plaguebearer
+72	Recurring Nightmare
+73	Scare Tactics
+74	Slaughter
+75	Spike Cannibal
+76	Thrull Surgeon
+77	Vampire Hounds
+78	Volrath's Dungeon
+79	Anarchist
+80	Cinder Crawler
+81	Dizzying Gaze
+82	Fighting Chance
+83	Flowstone Flood
+84	Furnace Brood
+85	Keeper of the Flame
+86	Mage il-Vec
+87	Maniacal Rage
+88	Mogg Assassin
+89	Monstrous Hound
+90	Oath of Mages
+91	Ogre Shaman
+92	Onslaught
+93	Pandemonium
+94	Paroxysm
+95	Price of Progress
+96	Raging Goblin
+97	Ravenous Baboons
+98	Reckless Ogre
+99	Sabertooth Wyvern
+100	Scalding Salamander
+101	Seismic Assault
+102	Shattering Pulse
+103	Sonic Burst
+104	Spellshock
+105	Avenging Druid
+106	Bequeathal
+107	Cartographer
+108	Crashing Boars
+109	Elven Palisade
+110	Elvish Berserker
+111	Jackalope Herd
+112	Keeper of the Beasts
+113	Manabond
+114	Mirri, Cat Warrior
+115	Oath of Druids
+116	Plated Rootwalla
+117	Predatory Hunger
+118	Pygmy Troll
+119	Rabid Wolverines
+120	Reclaim
+121	Resuscitate
+122	Rootwater Alligator
+123	Skyshroud Elite
+124	Skyshroud War Beast
+125	Song of Serenity
+126	Spike Hatcher
+127	Spike Rogue
+128	Spike Weaver
+129	Survival of the Fittest
+130	Wood Elves
+131	Coat of Arms
+132	Erratic Portal
+133	Medicine Bag
+134	Memory Crystal
+135	Mindless Automaton
+136	Null Brooch
+137	Skyshaper
+138	Spellbook
+139	Sphere of Resistance
+140	Thopter Squadron
+141	Transmogrifying Licid
+142	Workhorse
+143	City of Traitors
